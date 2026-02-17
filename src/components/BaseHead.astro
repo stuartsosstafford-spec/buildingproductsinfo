@@ -38,6 +38,15 @@ const ogImg = ogImage ?? buildCanonical('/favicon.svg');
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImg} />
 
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EHCV5GXL26"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-EHCV5GXL26');
+</script>
+
 <!-- Preconnect -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
