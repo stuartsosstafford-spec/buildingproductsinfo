@@ -1,0 +1,41 @@
+---
+import { categories } from '@/lib/categories';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-about">
+        <a href="/" class="site-logo">Building<span>Products</span>Info</a>
+        <p>Independent building and trade product information for professionals and serious DIYers. We research products so you can make informed decisions.</p>
+        <div class="affiliate-notice">
+          <strong>Affiliate Disclosure:</strong> Some links on this site are affiliate links. If you purchase through these links, we may earn a commission at no extra cost to you.
+          <a href="/affiliate-disclosure/">Learn more</a>.
+        </div>
+      </div>
+
+      <div class="footer-links">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="/guides/">Buying Guides</a></li>
+          <li><a href="/brands/">Brands</a></li>
+          <li><a href="/about/">About Us</a></li>
+          <li><a href="/affiliate-disclosure/">Affiliate Disclosure</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-categories">
+        <h4>Categories</h4>
+        <ul>
+          {categories.map((cat) => (
+            <li><a href={`/${cat.slug}/`}>{cat.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {year} Building Products Info. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,38 @@
+---
+import { categories } from '@/lib/categories';
+---
+<header class="site-header">
+  <div class="container">
+    <a href="/" class="site-logo">
+      <img src="/images/logo.svg" alt="Building Products Info" width="320" height="48" />
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      {categories.slice(0, 6).map((cat) => (
+        <a href={`/${cat.slug}/`}>{cat.label}</a>
+      ))}
+      <a href="/guides/">Guides</a>
+      <a href="/brands/">Brands</a>
+    </nav>
+
+    <button class="mobile-toggle" aria-label="Toggle menu" aria-expanded="false" id="menu-toggle">&#9776;</button>
+  </div>
+
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+    {categories.map((cat) => (
+      <a href={`/${cat.slug}/`}>{cat.label}</a>
+    ))}
+    <a href="/guides/">Guides</a>
+    <a href="/brands/">Brands</a>
+    <a href="/about/">About</a>
+  </nav>
+</header>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const nav = document.getElementById('mobile-nav');
+  toggle?.addEventListener('click', () => {
+    const open = nav?.classList.toggle('open');
+    toggle.setAttribute('aria-expanded', String(open));
+  });
+</script>

@@ -1,0 +1,41 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+import { buildCanonical } from '@/lib/seo';
+
+const brands = await getCollection('brands', ({ data }) => !data.draft);
+brands.sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const breadcrumbs = [
+  { name: 'Brands', url: buildCanonical('/brands/') },
+];
+---
+<BaseLayout
+  title="Brands"
+  description="Browse building and trade product brands. Find product information by manufacturer."
+>
+  <div class="container">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1>Brands</h1>
+    <p style="margin-bottom:2rem;color:var(--color-text-light);">
+      Browse products by brand. Select a manufacturer to view their full product range with specifications and details.
+    </p>
+
+    {brands.length > 0 ? (
+      <div class="category-grid">
+        {brands.map((brand) => (
+          <a href={`/brands/${brand.slug}/`} class="category-card">
+            {brand.data.logo && (
+              <img src={brand.data.logo} alt={brand.data.name} class="brand-logo" loading="lazy" />
+            )}
+            <div class="category-card-label">{brand.data.name}</div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p>No brands listed yet. Check back soon.</p>
+    )}
+  </div>
+</BaseLayout>

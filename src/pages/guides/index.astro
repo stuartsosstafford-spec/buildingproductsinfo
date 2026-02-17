@@ -1,0 +1,56 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+import { buildCanonical } from '@/lib/seo';
+
+const guides = await getCollection('guides', ({ data }) => !data.draft);
+guides.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+const breadcrumbs = [
+  { name: 'Guides', url: buildCanonical('/guides/') },
+];
+---
+<BaseLayout
+  title="Buying Guides"
+  description="Expert buying guides for building and trade products. Practical advice to help you choose the right products for the job."
+>
+  <div class="container">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1>Buying Guides</h1>
+    <p style="margin-bottom:2rem;color:var(--color-text-light);">
+      Practical buying guides and product advice for trade professionals and serious DIYers.
+    </p>
+
+    {guides.length > 0 ? (
+      <div class="product-grid">
+        {guides.map((guide) => {
+          const date = new Date(guide.data.publishDate).toLocaleDateString('en-GB', {
+            year: 'numeric', month: 'long', day: 'numeric',
+          });
+          return (
+            <article class="product-card">
+              {guide.data.featuredImage && (
+                <div class="product-card-image">
+                  <a href={`/guides/${guide.slug}/`}>
+                    <img src={guide.data.featuredImage} alt={guide.data.title} loading="lazy" width="400" height="300" />
+                  </a>
+                </div>
+              )}
+              <div class="product-card-body">
+                {guide.data.category && <span class="product-card-category">{guide.data.category}</span>}
+                <h3 class="product-card-title">
+                  <a href={`/guides/${guide.slug}/`}>{guide.data.title}</a>
+                </h3>
+                <p class="product-card-brand">{date} &middot; {guide.data.author}</p>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    ) : (
+      <p>No guides published yet. Check back soon.</p>
+    )}
+  </div>
+</BaseLayout>

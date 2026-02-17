@@ -1,0 +1,45 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ProductGrid from '@/components/ProductGrid.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import CategoryNav from '@/components/CategoryNav.astro';
+import { getCollection } from 'astro:content';
+import { buildCanonical } from '@/lib/seo';
+
+const categorySlug = 'landscaping-outdoors';
+const categoryLabel = 'Landscaping & Outdoors';
+
+const products = await getCollection('products', ({ data }) => !data.draft && data.category === categorySlug);
+products.sort((a, b) => b.data.addedDate.getTime() - a.data.addedDate.getTime());
+
+const breadcrumbs = [
+  { name: categoryLabel, url: buildCanonical(`/${categorySlug}/`) },
+];
+---
+<BaseLayout
+  title={categoryLabel}
+  description={`Browse ${categoryLabel.toLowerCase()} products — specifications, key features, and buying information for trade professionals and DIYers.`}
+>
+  <div class="container">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1>{categoryLabel}</h1>
+    <p style="margin-bottom:2rem;color:var(--color-text-light);">
+      Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
+    </p>
+
+    {products.length > 0 ? (
+      <ProductGrid products={products.map((p) => ({
+        title: p.data.title,
+        slug: p.slug,
+        category: p.data.category,
+        brand: p.data.brand,
+        shortDescription: p.data.shortDescription,
+        featuredImage: p.data.featuredImage,
+        affiliateUrl: p.data.affiliateUrl,
+      }))} />
+    ) : (
+      <p>No products in this category yet. Check back soon.</p>
+    )}
+  </div>
+</BaseLayout>

@@ -1,0 +1,26 @@
+---
+interface Spec {
+  label: string;
+  value: string;
+}
+
+interface Props {
+  specifications: Spec[];
+  caption?: string;
+}
+
+const { specifications, caption = 'Specifications' } = Astro.props;
+---
+{specifications.length > 0 && (
+  <table class="spec-table">
+    <caption>{caption}</caption>
+    <tbody>
+      {specifications.map((spec) => (
+        <tr>
+          <th scope="row">{spec.label}</th>
+          <td>{spec.value}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+)}

@@ -1,0 +1,164 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import SpecTable from '@/components/SpecTable.astro';
+import AffiliateButton from '@/components/AffiliateButton.astro';
+import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
+import SchemaOrg from '@/components/SchemaOrg.astro';
+import ProductGrid from '@/components/ProductGrid.astro';
+import { getCategoryLabel } from '@/lib/categories';
+import { productSchema } from '@/lib/schema';
+import { buildCanonical } from '@/lib/seo';
+
+const { frontmatter, slug, relatedProducts = [], worksWellWithProducts = [], relatedGuides = [] } = Astro.props;
+const {
+  title,
+  category,
+  brand,
+  modelNumber,
+  shortDescription,
+  featuredImage,
+  keyFeatures,
+  specifications,
+  overview,
+  whoItsFor,
+  prosAndCons,
+  affiliateUrl,
+  affiliateButtonText,
+  addedDate,
+  updatedDate,
+  metaTitle,
+  metaDescription,
+} = frontmatter;
+
+const categoryLabel = getCategoryLabel(category);
+const pageTitle = metaTitle ?? title;
+const pageDesc = metaDescription ?? shortDescription;
+const pageUrl = buildCanonical(`/${category}/${slug}/`);
+
+const jsonLd = productSchema({
+  name: title,
+  description: shortDescription,
+  image: buildCanonical(featuredImage),
+  brand,
+  url: pageUrl,
+  sku: modelNumber,
+  category: categoryLabel,
+});
+
+const breadcrumbs = [
+  { name: categoryLabel, url: buildCanonical(`/${category}/`) },
+  { name: title, url: pageUrl },
+];
+---
+<BaseLayout title={pageTitle} description={pageDesc} ogImage={featuredImage} ogType="product">
+  <SchemaOrg schema={jsonLd} slot="head" />
+
+  <div class="container">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <div class="product-hero">
+      <div class="product-hero-image">
+        <img src={featuredImage} alt={title} width="600" height="450" />
+      </div>
+      <div class="product-hero-info">
+        <h1>{title}</h1>
+        <p class="product-meta">
+          By <strong>{brand}</strong>
+          {modelNumber && <> &middot; Model: {modelNumber}</>}
+          &middot; {categoryLabel}
+        </p>
+        <p>{shortDescription}</p>
+
+        {keyFeatures && keyFeatures.length > 0 && (
+          <ul class="key-features">
+            {keyFeatures.map((f: string) => <li>{f}</li>)}
+          </ul>
+        )}
+
+        {affiliateUrl && (
+          <AffiliateButton url={affiliateUrl} text={affiliateButtonText} />
+        )}
+      </div>
+    </div>
+
+    {overview && (
+      <section class="product-section">
+        <h2>Overview</h2>
+        <p>{overview}</p>
+      </section>
+    )}
+
+    <section class="product-section">
+      <slot />
+    </section>
+
+    {specifications && specifications.length > 0 && (
+      <section class="product-section">
+        <SpecTable specifications={specifications} />
+      </section>
+    )}
+
+    {whoItsFor && whoItsFor.length > 0 && (
+      <section class="product-section">
+        <h2>Who It's For</h2>
+        <ul>
+          {whoItsFor.map((w: string) => <li>{w}</li>)}
+        </ul>
+      </section>
+    )}
+
+    {prosAndCons && (
+      <section class="product-section">
+        <h2>Pros & Cons</h2>
+        <div class="pros-cons">
+          <div class="pros">
+            <h3>Pros</h3>
+            <ul>
+              {prosAndCons.pros.map((p: string) => <li>{p}</li>)}
+            </ul>
+          </div>
+          <div class="cons">
+            <h3>Cons</h3>
+            <ul>
+              {prosAndCons.cons.map((c: string) => <li>{c}</li>)}
+            </ul>
+          </div>
+        </div>
+      </section>
+    )}
+
+    {affiliateUrl && (
+      <section class="product-section" style="text-align:center;">
+        <AffiliateButton url={affiliateUrl} text={affiliateButtonText} />
+      </section>
+    )}
+
+    {affiliateUrl && <AffiliateDisclosure />}
+
+    {relatedGuides.length > 0 && (
+      <section class="product-section">
+        <h2>Buying Guides</h2>
+        <ul>
+          {relatedGuides.map((g) => (
+            <li><a href={`/guides/${g.slug}/`}>{g.title}</a></li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {worksWellWithProducts.length > 0 && (
+      <section class="product-section">
+        <h2>Works Well With</h2>
+        <ProductGrid products={worksWellWithProducts} />
+      </section>
+    )}
+
+    {relatedProducts.length > 0 && (
+      <section class="product-section">
+        <h2>Related Products</h2>
+        <ProductGrid products={relatedProducts} />
+      </section>
+    )}
+  </div>
+</BaseLayout>

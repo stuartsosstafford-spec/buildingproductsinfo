@@ -1,0 +1,25 @@
+---
+import { breadcrumbListSchema, type BreadcrumbItem } from '@/lib/schema';
+import { buildCanonical } from '@/lib/seo';
+
+interface Props {
+  items: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+const fullItems = [{ name: 'Home', url: buildCanonical('/') }, ...items];
+const jsonLd = breadcrumbListSchema(fullItems);
+---
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    {fullItems.map((item, i) => (
+      <li>
+        {i < fullItems.length - 1
+          ? <a href={item.url}>{item.name}</a>
+          : <span aria-current="page">{item.name}</span>
+        }
+      </li>
+    ))}
+  </ol>
+</nav>
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

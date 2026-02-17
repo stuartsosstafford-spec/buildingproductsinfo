@@ -1,0 +1,24 @@
+---
+import ProductCard from './ProductCard.astro';
+
+interface Product {
+  title: string;
+  slug: string;
+  category: string;
+  brand: string;
+  shortDescription: string;
+  featuredImage: string;
+  affiliateUrl?: string;
+}
+
+interface Props {
+  products: Product[];
+}
+
+const { products } = Astro.props;
+---
+<div class="product-grid">
+  {products.map((product) => (
+    <ProductCard {...product} />
+  ))}
+</div>

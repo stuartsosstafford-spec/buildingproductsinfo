@@ -1,0 +1,68 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import ProductGrid from '@/components/ProductGrid.astro';
+import { getCollection } from 'astro:content';
+import { buildCanonical } from '@/lib/seo';
+
+export async function getStaticPaths() {
+  const brands = await getCollection('brands', ({ data }) => !data.draft);
+  return brands.map((brand) => ({
+    params: { slug: brand.slug },
+    props: { brand },
+  }));
+}
+
+const { brand } = Astro.props;
+const { Content } = await brand.render();
+const { name, description, logo, website, established, metaTitle, metaDescription } = brand.data;
+const slug = brand.slug;
+
+const products = await getCollection('products', ({ data }) => !data.draft && data.brand === name);
+products.sort((a, b) => b.data.addedDate.getTime() - a.data.addedDate.getTime());
+
+const breadcrumbs = [
+  { name: 'Brands', url: buildCanonical('/brands/') },
+  { name, url: buildCanonical(`/brands/${slug}/`) },
+];
+---
+<BaseLayout
+  title={metaTitle ?? name}
+  description={metaDescription ?? description}
+>
+  <div class="container">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <div class="brand-header">
+      {logo && <img src={logo} alt={name} class="brand-logo" />}
+      <div>
+        <h1>{name}</h1>
+        <p class="product-meta">
+          {established && <>Established {established} &middot; </>}
+          {website && <a href={website} target="_blank" rel="noopener noreferrer">Visit website</a>}
+        </p>
+      </div>
+    </div>
+
+    <p style="margin-bottom:2rem;">{description}</p>
+
+    <div class="article-content">
+      <Content />
+    </div>
+
+    {products.length > 0 && (
+      <section class="product-section">
+        <h2>Products by {name}</h2>
+        <ProductGrid products={products.map((p) => ({
+          title: p.data.title,
+          slug: p.slug,
+          category: p.data.category,
+          brand: p.data.brand,
+          shortDescription: p.data.shortDescription,
+          featuredImage: p.data.featuredImage,
+          affiliateUrl: p.data.affiliateUrl,
+        }))} />
+      </section>
+    )}
+  </div>
+</BaseLayout>

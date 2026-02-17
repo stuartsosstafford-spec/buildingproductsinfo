@@ -1,0 +1,58 @@
+---
+import ProductLayout from '@/layouts/ProductLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products', ({ data }) => !data.draft && data.category === 'tools');
+  return products.map((product) => ({
+    params: { slug: product.slug },
+    props: { product },
+  }));
+}
+
+const { product } = Astro.props;
+const { Content } = await product.render();
+
+const allProducts = await getCollection('products', ({ data }) => !data.draft);
+const relatedProducts = allProducts
+  .filter((p) => p.slug !== product.slug && p.data.category === product.data.category)
+  .slice(0, 3)
+  .map((p) => ({
+    title: p.data.title,
+    slug: p.slug,
+    category: p.data.category,
+    brand: p.data.brand,
+    shortDescription: p.data.shortDescription,
+    featuredImage: p.data.featuredImage,
+    affiliateUrl: p.data.affiliateUrl,
+  }));
+
+const worksWellWithSlugs = product.data.worksWellWith ?? [];
+const worksWellWithProducts = worksWellWithSlugs
+  .map((s) => allProducts.find((p) => p.slug === s))
+  .filter(Boolean)
+  .map((p) => ({
+    title: p.data.title,
+    slug: p.slug,
+    category: p.data.category,
+    brand: p.data.brand,
+    shortDescription: p.data.shortDescription,
+    featuredImage: p.data.featuredImage,
+    affiliateUrl: p.data.affiliateUrl,
+  }));
+
+const relatedGuideSlugs = product.data.relatedGuides ?? [];
+const allGuides = relatedGuideSlugs.length > 0
+  ? await getCollection('guides', ({ data }) => !data.draft)
+  : [];
+const relatedGuides = relatedGuideSlugs
+  .map((s) => allGuides.find((g) => g.slug === s))
+  .filter(Boolean)
+  .map((g) => ({
+    title: g.data.title,
+    slug: g.slug,
+  }));
+---
+<ProductLayout frontmatter={product.data} slug={product.slug} relatedProducts={relatedProducts} worksWellWithProducts={worksWellWithProducts} relatedGuides={relatedGuides}>
+  <Content />
+</ProductLayout>

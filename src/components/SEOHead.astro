@@ -1,0 +1,22 @@
+---
+/**
+ * Drop-in SEO meta block — use INSTEAD of BaseHead when
+ * you need to inject additional structured data or custom
+ * meta tags alongside the standard head content.
+ */
+import BaseHead from './BaseHead.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  ogImage?: string;
+  ogType?: string;
+  noindex?: boolean;
+  jsonLd?: Record<string, unknown>;
+}
+
+const { jsonLd, ...headProps } = Astro.props;
+---
+<BaseHead {...headProps} />
+{jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}

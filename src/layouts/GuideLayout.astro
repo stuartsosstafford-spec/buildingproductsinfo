@@ -1,0 +1,75 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import ProductGrid from '@/components/ProductGrid.astro';
+import SchemaOrg from '@/components/SchemaOrg.astro';
+import { articleSchema } from '@/lib/schema';
+import { buildCanonical } from '@/lib/seo';
+
+const { frontmatter, slug, recommendedProducts = [] } = Astro.props;
+const {
+  title,
+  author,
+  publishDate,
+  updatedDate,
+  featuredImage,
+  metaTitle,
+  metaDescription,
+} = frontmatter;
+
+const pageTitle = metaTitle ?? title;
+const pageDesc = metaDescription ?? title;
+const pageUrl = buildCanonical(`/guides/${slug}/`);
+
+const jsonLd = articleSchema({
+  headline: title,
+  description: pageDesc,
+  image: featuredImage ? buildCanonical(featuredImage) : undefined,
+  datePublished: new Date(publishDate).toISOString(),
+  dateModified: updatedDate ? new Date(updatedDate).toISOString() : undefined,
+  author: author ?? 'Editorial Team',
+  url: pageUrl,
+});
+
+const breadcrumbs = [
+  { name: 'Guides', url: buildCanonical('/guides/') },
+  { name: title, url: pageUrl },
+];
+
+const formattedDate = new Date(publishDate).toLocaleDateString('en-GB', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+<BaseLayout title={pageTitle} description={pageDesc} ogImage={featuredImage} ogType="article">
+  <SchemaOrg schema={jsonLd} slot="head" />
+
+  <div class="container">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <article>
+      <header class="article-header">
+        <h1>{title}</h1>
+        <p class="article-meta">
+          By {author ?? 'Editorial Team'} &middot; Published {formattedDate}
+        </p>
+      </header>
+
+      {featuredImage && (
+        <img src={featuredImage} alt={title} width="800" height="450" style="border-radius:var(--radius);margin-bottom:1.5rem;" />
+      )}
+
+      <div class="article-content">
+        <slot />
+      </div>
+
+      {recommendedProducts.length > 0 && (
+        <section class="product-section" style="margin-top:2rem;">
+          <h2>Recommended Products</h2>
+          <ProductGrid products={recommendedProducts} />
+        </section>
+      )}
+    </article>
+  </div>
+</BaseLayout>

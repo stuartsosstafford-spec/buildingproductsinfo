@@ -1,0 +1,30 @@
+---
+import { getCategoryLabel } from '@/lib/categories';
+
+interface Props {
+  title: string;
+  slug: string;
+  category: string;
+  brand: string;
+  shortDescription: string;
+  featuredImage: string;
+  affiliateUrl?: string;
+}
+
+const { title, slug, category, brand, shortDescription, featuredImage, affiliateUrl } = Astro.props;
+const href = `/${category}/${slug}/`;
+---
+<article class="product-card">
+  <div class="product-card-image">
+    <a href={href}>
+      <img src={featuredImage} alt={title} loading="lazy" width="400" height="300" />
+    </a>
+  </div>
+  <div class="product-card-body">
+    <span class="product-card-category">{getCategoryLabel(category)}</span>
+    <h3 class="product-card-title"><a href={href}>{title}</a></h3>
+    <p class="product-card-description">{shortDescription}</p>
+    <p class="product-card-brand">{brand}</p>
+    {affiliateUrl && <a href={affiliateUrl} class="affiliate-btn affiliate-btn-sm" rel="sponsored nofollow" target="_blank">Check Price on Amazon</a>}
+  </div>
+</article>
