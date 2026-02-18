@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose the Right Fixings and Adhesives — Buying Guide"
 metaDescription: "A practical guide to choosing fixings and adhesives for construction and DIY. Covers wall plugs, screws, chemical anchors, sealants, adhesives, and masking tapes."
 draft: false
+faq:
+  - question: "What wall plug should I use for plasterboard?"
+    answer: "Standard nylon wall plugs do not work in plasterboard — they pull straight through. Use a specialist cavity fixing such as a spring toggle, gravity toggle, or metal self-drill plasterboard anchor. For heavier loads, fix through the plasterboard into a timber stud behind using a wood screw."
+  - question: "Can I use silicone sealant in a kitchen?"
+    answer: "Yes, silicone is suitable around kitchen sinks and worktop upstands where water resistance is needed. Use a sanitary or anti-mould silicone for wet areas. However, silicone cannot be painted over, so use a paintable hybrid sealant if the joint will be decorated."
+  - question: "What is the difference between a grab adhesive and a construction adhesive?"
+    answer: "A grab adhesive (like No More Nails) is designed for bonding lightweight trim, panels, and decorative items with immediate initial grip. A construction adhesive or hybrid sealant-adhesive (like CT1 or Sika Stixall) provides structural bonding strength, flexibility, and weather resistance for heavier or more demanding applications."
 relatedProducts:
   - fischer-wall-plug-fixings-kit
   - hilti-hy-200-chemical-anchor

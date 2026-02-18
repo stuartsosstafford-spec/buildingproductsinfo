@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Site Equipment and PPE — Buying Guide"
 metaDescription: "A practical guide to choosing site equipment and personal protective equipment. Covers safety boots, helmets, eye and ear protection, workwear, ladders, lighting, and essential site tools."
 draft: false
+faq:
+  - question: "What is the difference between S1P and S3 safety boots?"
+    answer: "Both have a toe cap and penetration-resistant midsole. S3 adds a water-resistant upper, making it suitable for outdoor and wet site conditions. For most UK construction site work, S3 is the practical minimum."
+  - question: "How often should I replace a safety helmet?"
+    answer: "Most manufacturers recommend replacing safety helmets every 3-5 years, regardless of visible condition. Replace immediately after any significant impact, even if no damage is apparent. UV exposure degrades the shell material over time, reducing its protective capability."
+  - question: "What SNR rating do I need for ear defenders on site?"
+    answer: "An SNR (Single Number Rating) of around 27-33 dB is appropriate for most construction site work. Over-attenuation can be a hazard as it prevents you hearing warnings and communication. Match the SNR to the actual noise level rather than always choosing the highest rating available."
 relatedProducts:
   - dewalt-titanium-safety-boots
   - jsp-evo2-vented-safety-helmet

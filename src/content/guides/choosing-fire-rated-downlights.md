@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Fire-Rated Downlights — Buying Guide"
 metaDescription: "A practical guide to choosing fire-rated downlights. Covers fire ratings, IP ratings, colour temperature, dimming, GU10 vs integrated LED, and Building Regulations requirements."
 draft: false
+faq:
+  - question: "Do I need fire-rated downlights in every room?"
+    answer: "Only in ceilings that form a fire-separating element — for example, between floors of a house, between a garage and habitable rooms, or between flats in a converted building. Ground floor ceilings with no room above do not typically require fire-rated fittings, but check with your building control officer."
+  - question: "What IP rating do I need for bathroom downlights?"
+    answer: "It depends on the zone. Zone 1 (directly above a bath or shower) requires IP65 minimum. Zone 2 (within 0.6m of a bath or shower) requires IP44 minimum. Outside these zones, no specific IP rating is required, though IP44 is good practice in any bathroom due to condensation."
+  - question: "What is the difference between GU10 and integrated LED downlights?"
+    answer: "GU10 downlights accept replaceable GU10 bulbs, allowing you to swap the lamp if it fails or if you want a different colour temperature. Integrated LED downlights have the LED module built in — they are typically slimmer, more efficient, and have longer lifespans (30,000-50,000 hours), but the entire fitting must be replaced if the LED fails."
 relatedProducts:
   - luceco-ftype-mk2-cct-fire-rated-downlight
   - collingwood-h2-lite-fire-rated-downlight

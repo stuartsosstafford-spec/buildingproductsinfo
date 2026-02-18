@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Kitchen and Bathroom Fittings — Buying Guide"
 metaDescription: "A practical guide to choosing kitchen and bathroom fittings. Covers kitchen sinks, taps, shower enclosures, thermostatic mixers, WCs, vanity units, radiators, and extractor fans."
 draft: false
+faq:
+  - question: "Do I need a thermostatic shower mixer?"
+    answer: "Yes, for safety and comfort. A thermostatic mixer maintains a set temperature regardless of pressure fluctuations elsewhere in the system. Under Part G of the Building Regulations, thermostatic control limiting outlet temperature to 48°C is required in new UK dwellings."
+  - question: "What is the difference between a wall-hung and close-coupled WC?"
+    answer: "A wall-hung WC is mounted on a concealed cistern frame built into the wall, lifting the pan off the floor for easier cleaning. A close-coupled WC sits on the floor with the cistern bolted directly to the pan. Wall-hung requires more installation work but gives a cleaner, more modern look."
+  - question: "Can I fit an undermount sink in a laminate worktop?"
+    answer: "No. Undermount sinks require a solid surface worktop — granite, quartz, or solid composite — that can be routed from below to accept the sink rim. Laminate worktops are not rigid enough and will absorb moisture at the cut edge, causing swelling and failure."
 relatedProducts:
   - grohe-essence-kitchen-mixer-tap
   - grohe-grohtherm-1000-thermostatic-shower-mixer

@@ -2,9 +2,11 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ProductGrid from '@/components/ProductGrid.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import SchemaOrg from '@/components/SchemaOrg.astro';
 import CategoryNav from '@/components/CategoryNav.astro';
 import { getCollection } from 'astro:content';
 import { buildCanonical } from '@/lib/seo';
+import { itemListSchema } from '@/lib/schema';
 
 const categorySlug = 'site-equipment-ppe';
 const categoryLabel = 'Site Equipment & PPE';
@@ -15,11 +17,17 @@ products.sort((a, b) => b.data.addedDate.getTime() - a.data.addedDate.getTime())
 const breadcrumbs = [
   { name: categoryLabel, url: buildCanonical(`/${categorySlug}/`) },
 ];
+
+const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
+  name: p.data.title,
+  url: buildCanonical(`/${categorySlug}/${p.slug}/`),
+})));
 ---
 <BaseLayout
   title={categoryLabel}
   description={`Browse ${categoryLabel.toLowerCase()} products — specifications, key features, and buying information for trade professionals and DIYers.`}
 >
+  <SchemaOrg schema={listSchema} slot="head" />
   <div class="container">
     <Breadcrumbs items={breadcrumbs} />
 

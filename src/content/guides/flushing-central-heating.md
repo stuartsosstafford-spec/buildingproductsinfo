@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Flush and Protect a Central Heating System — Buying Guide"
 metaDescription: "A practical guide to flushing and protecting a central heating system. Covers system cleaners, inhibitors, magnetic filters, power flushing, and ongoing maintenance."
 draft: false
+faq:
+  - question: "How do I know if my central heating system needs flushing?"
+    answer: "Common signs include cold spots at the bottom of radiators (indicating sludge build-up), noisy boiler operation (kettling), slow system warm-up, and discoloured water when bleeding radiators. If the water is black or dark brown, the system almost certainly needs a full flush."
+  - question: "What is the difference between a power flush and a chemical flush?"
+    answer: "A power flush uses a specialist machine to push water and cleaning chemical through the system at high velocity, dislodging sludge from radiators and pipework. A chemical flush involves adding a cleaner to the system, running it for a period (typically a few days to two weeks), and then draining and refilling. Power flushing is more effective for heavily contaminated systems."
+  - question: "Do I need to add inhibitor after flushing?"
+    answer: "Yes, always. After flushing, add a suitable inhibitor (such as Fernox F1 Protector) to the fresh system water. Inhibitor prevents corrosion and new sludge formation. Without it, the system will start degrading again within months. Most boiler warranties require inhibitor to be present."
 relatedProducts:
   - fernox-f3-central-heating-cleaner
   - fernox-f1-central-heating-protector

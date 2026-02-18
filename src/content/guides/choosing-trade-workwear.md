@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Trade Workwear — Buying Guide"
 metaDescription: "A practical guide to choosing trade workwear and PPE. Covers work trousers, safety boots, helmets, eye and ear protection, hi-vis, and knee pads for construction professionals."
 draft: false
+faq:
+  - question: "Are Snickers work trousers worth the price?"
+    answer: "Yes, for regular use. Snickers 6241 AllroundWork trousers use four-way stretch fabric, reinforced knees, and well-positioned pockets that hold up through years of trade use. Many tradespeople find one pair of Snickers outlasts several pairs of cheaper alternatives, making the cost per wear lower over time."
+  - question: "What hi-vis class do I need for a building site?"
+    answer: "Class 2 is the most common requirement on UK building sites and road works. Class 3 is required on motorway and high-speed road environments. Always check the specific site rules or contract requirements before buying — a Class 2 vest may not be accepted where Class 3 is specified."
+  - question: "Should I choose composite or steel toe cap safety boots?"
+    answer: "Composite toe caps are lighter, do not conduct heat or cold, and pass through metal detectors — making them better for secure sites and cold weather. Steel toe caps are cheaper and marginally stronger. For most tradespeople, composite is the more comfortable choice for all-day wear."
 relatedProducts:
   - snickers-6241-allroundwork-trousers
   - dewalt-titanium-safety-boots

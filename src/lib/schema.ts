@@ -80,6 +80,34 @@ export function webSiteSchema() {
         url: 'https://buildingproductsinfo.co.uk/favicon.svg',
       },
     },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://www.google.com/search?q=site:buildingproductsinfo.co.uk+{search_term_string}',
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  };
+}
+
+export interface ItemListItem {
+  name: string;
+  url: string;
+}
+
+export function itemListSchema(name: string, items: ItemListItem[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name,
+    numberOfItems: items.length,
+    itemListElement: items.map((item, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: item.name,
+      url: item.url,
+    })),
   };
 }
 

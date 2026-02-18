@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Landscaping and Garden Products — Buying Guide"
 metaDescription: "A practical guide to choosing landscaping and garden products. Covers lawn mowers, hedge trimmers, chainsaws, paving, decking, raised beds, storage, and essential garden tools."
 draft: false
+faq:
+  - question: "Is a cordless lawn mower powerful enough for a medium garden?"
+    answer: "Yes. A 36V or 40V cordless mower with at least 40 minutes of runtime comfortably handles a medium-sized garden (up to around 250 square metres). Modern brushless motors deliver comparable cutting performance to mains-powered mowers. For larger gardens, consider a model with a spare battery."
+  - question: "How often should I treat timber decking?"
+    answer: "Apply an anti-slip decking stain or preservative once a year, ideally in spring before heavy use. In shaded areas where algae builds up, you may also need to clean the deck with a pressure washer or specialist deck cleaner before retreating."
+  - question: "What is the best material for a raised bed?"
+    answer: "Pressure-treated softwood sleepers are the most popular choice — they are durable, affordable, and easy to work with. For a longer-lasting but more expensive option, use hardwood or galvanised steel edging. Avoid untreated timber, as it will rot within a few years in ground contact."
 relatedProducts:
   - bosch-universalrotak-36v-cordless-mower
   - karcher-k5-power-control-pressure-washer

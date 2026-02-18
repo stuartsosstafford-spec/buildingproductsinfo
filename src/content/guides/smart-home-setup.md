@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Set Up a Smart Home — Buying Guide"
 metaDescription: "A practical guide to setting up a smart home. Covers smart thermostats, smart lighting, security cameras, and how to build a connected home step by step."
 draft: false
+faq:
+  - question: "Do smart thermostats work without internet?"
+    answer: "Most smart thermostats retain their last programmed schedule and continue to control the boiler during a broadband outage. However, app control and remote access require an internet connection. The thermostat itself will continue heating to the set schedule."
+  - question: "Do I need a hub for Philips Hue smart lights?"
+    answer: "Yes. Philips Hue bulbs communicate via Zigbee and require a Hue Bridge connected to your router via Ethernet. The bridge controls up to 50 lights and is included in starter kits. Without the bridge, the bulbs will not respond to app or voice commands."
+  - question: "Can I mix different smart home brands together?"
+    answer: "Yes, provided they support the same voice platform (Alexa, Google Home, or Apple HomeKit). Most major brands — including Hive, Philips Hue, and Ring — support at least two of these platforms. Check compatibility before buying to avoid integration issues."
 relatedProducts:
   - philips-hue-starter-kit-e27
   - hive-active-heating-thermostat

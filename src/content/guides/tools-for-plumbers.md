@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "Essential Tools for Plumbers — Buying Guide"
 metaDescription: "A practical guide to the essential tools every plumber needs. Covers pipe cutters, benders, wrenches, pipe freezing kits, soldering equipment, and testing tools."
 draft: false
+faq:
+  - question: "Can I use push-fit fittings on copper pipe?"
+    answer: "Yes. Push-fit systems like John Guest Speedfit are compatible with both copper and plastic pipe. When using push-fit on copper, always insert a pipe support liner (pipe insert) to prevent the fitting's collet from deforming the pipe end under pressure."
+  - question: "Do I need to pressure test a new plumbing installation?"
+    answer: "Yes. Pressure testing is a requirement under Part L and Part G of the Building Regulations for new and altered plumbing systems. A manometer is required for gas-tightness testing, and a mechanical or digital pressure gauge for water system checks."
+  - question: "What is a pipe freezing kit used for?"
+    answer: "A pipe freezing kit creates a temporary ice plug in a section of copper or plastic pipe, allowing you to work on a live system where isolation via a stopcock is not possible. It uses CO2 cartridges to freeze the pipe rapidly. Never use on gas pipes, and always follow the manufacturer's dwell times."
 relatedProducts:
   - rothenberger-pipeslice-15mm-copper-pipe-cutter
   - knipex-cobra-250mm-water-pump-pliers

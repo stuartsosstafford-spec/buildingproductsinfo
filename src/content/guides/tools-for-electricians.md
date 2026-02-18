@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "Essential Tools for First-Fix Electricians — Buying Guide"
 metaDescription: "A practical guide to the essential tools every first-fix electrician needs. Covers VDE hand tools, test equipment, connectors, cable detection, lighting, and workwear."
 draft: false
+faq:
+  - question: "Do electricians need VDE-rated tools?"
+    answer: "Yes. VDE-rated tools are tested to withstand 10,000V and certified for use up to 1,000V AC. For any electrician working on or near live conductors, VDE rating is the minimum standard. It is both a professional requirement and a legal expectation under UK health and safety regulations."
+  - question: "What voltage tester should an electrician carry?"
+    answer: "A contact voltage and continuity tester with at least a CAT III 600V rating is the minimum. The Fluke T110 is a widely recommended choice. Always use a proving unit to verify the tester is working correctly before and after testing — a faulty tester is worse than no tester at all."
+  - question: "Are Wago connectors accepted under UK wiring regulations?"
+    answer: "Yes. Wago 221 series lever connectors are accepted as a permanent connection method under BS 7671 (the UK Wiring Regulations) when housed in an appropriate enclosure such as a junction box or back box. They are widely used in quality domestic electrical installations."
 relatedProducts:
   - wera-kraftform-vde-screwdriver-set
   - knipex-vde-pliers-set

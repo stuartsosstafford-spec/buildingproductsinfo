@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Build a Raised Bed or Patio — Buying Guide"
 metaDescription: "A practical guide to building a raised bed or laying a patio. Covers materials, tools, ground preparation, and step-by-step considerations for both projects."
 draft: false
+faq:
+  - question: "How deep should a sub-base be for a patio?"
+    answer: "A minimum of 100mm of compacted hardcore or MOT Type 1 is standard for a domestic patio. On top of this, lay approximately 50mm of compacted sharp sand as a bedding layer. The total excavation depth will be the sub-base plus sand plus slab thickness, typically 200-250mm in total."
+  - question: "How high should a raised bed be?"
+    answer: "A height of 40-60cm is ideal for most purposes. This provides good drainage, makes planting and weeding easier without kneeling, and is achievable with two or three courses of timber sleepers. Beds at ground level need minimal edging but offer less ergonomic benefit."
+  - question: "Do I need to line a raised bed with membrane?"
+    answer: "A weed-suppressing membrane on the base is recommended to prevent weeds growing up through the soil. On waterlogged ground, it also helps manage drainage. Do not line the sides with waterproof membrane, as this traps moisture against the timber and accelerates rot. Use breathable landscape fabric on the sides if lining is needed."
 relatedProducts:
   - marshalls-argent-paving
   - treated-timber-sleepers-2400mm

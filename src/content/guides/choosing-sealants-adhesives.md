@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Sealants and Adhesives — Buying Guide"
 metaDescription: "A practical guide to choosing sealants and adhesives for construction. Covers silicone, hybrid MS polymer, grab adhesives, PVA, and when to use each type."
 draft: false
+faq:
+  - question: "Can I paint over silicone sealant?"
+    answer: "No. Standard silicone sealant repels paint and cannot be decorated. If you need a paintable sealant joint, use a hybrid MS polymer sealant (such as CT1 or Sika Stixall) or an acrylic-based decorator's caulk. Hybrid sealants bond well, remain flexible, and accept most paints."
+  - question: "What is the difference between silicone and hybrid sealant?"
+    answer: "Silicone is excellent for wet areas (bathrooms, kitchens) due to its water resistance and flexibility, but it cannot be painted. Hybrid MS polymer sealants are paintable, bond to more substrates without primer, and offer both sealing and adhesive properties. Hybrids are more versatile but typically cost more."
+  - question: "How long does grab adhesive take to set?"
+    answer: "Most grab adhesives achieve initial grab within 10-20 minutes and full bond strength in 24-48 hours, depending on temperature and humidity. Heavier items may need temporary support (pins, tape, or props) until the adhesive reaches handling strength. Always ensure surfaces are clean and dust-free before applying."
 relatedProducts:
   - ct1-sealant-adhesive
   - sika-stixall-extreme-power-adhesive

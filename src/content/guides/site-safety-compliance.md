@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Set Up Site Safety Compliance — Buying Guide"
 metaDescription: "A practical guide to setting up site safety compliance for small construction projects. Covers mandatory PPE, first aid, access equipment, signage, and legal requirements."
 draft: false
+faq:
+  - question: "What PPE is mandatory on a UK construction site?"
+    answer: "At minimum, a safety helmet (EN 397), safety boots (S1P or S3), high-visibility clothing (EN ISO 20471 Class 2 minimum), and eye protection (EN 166) are required on most UK construction sites. Ear protection is mandatory where noise exceeds 85 dB(A). Individual site rules may impose additional requirements."
+  - question: "Do self-employed tradespeople need to provide their own PPE?"
+    answer: "Yes. Under UK health and safety law, self-employed workers are responsible for providing their own appropriate PPE. When working on a site managed by a principal contractor, you must comply with that site's PPE requirements, which may exceed the legal minimum."
+  - question: "How often should a first aid kit be checked on site?"
+    answer: "First aid kits should be checked and restocked at least weekly on active construction sites. Designate a responsible person to maintain the kit. The HSE specifies minimum contents based on the number of workers on site — an empty or incomplete kit fails to meet legal requirements."
 relatedProducts:
   - jsp-evo2-vented-safety-helmet
   - dewalt-titanium-safety-boots

@@ -6,6 +6,15 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Electrical Fittings and Lighting — Buying Guide"
 metaDescription: "A practical guide to choosing electrical fittings and lighting for domestic installations. Covers consumer units, RCBOs, downlights, smart lighting, sockets, and essential test equipment."
 draft: false
+faq:
+  - question: "What is the difference between an MCB and an RCBO?"
+    answer: "An MCB (Miniature Circuit Breaker) protects against overcurrent only — short circuits and overloads. An RCBO combines overcurrent protection with residual current detection (earth fault protection) in a single device. RCBOs are now recommended for new installations because a fault on one circuit trips only that circuit, rather than taking down multiple circuits on a shared RCD."
+  - question: "Do downlights need to be fire-rated?"
+    answer: "Yes, in any ceiling that forms a fire-separating element — for example, between floors of a house or between a garage and habitable rooms. Fire-rated downlights contain an intumescent pad that expands and seals the aperture during a fire, maintaining compartmentation for 30 or 60 minutes depending on the specification."
+  - question: "What is a Type A RCBO and when do I need one?"
+    answer: "A Type A RCBO detects both AC and pulsating DC fault currents. It is required on circuits that serve equipment with switch-mode power supplies, such as EV chargers, LED drivers, and IT equipment. Standard Type AC devices may not detect DC fault currents from these loads."
+  - question: "Do I need a neutral wire for smart light switches?"
+    answer: "Most smart light switches require a neutral wire at the switch position to power the electronics. During first-fix wiring, it costs very little to run a neutral to every switch position, keeping options open for smart controls later. Some smart switches are available without a neutral, but selection is limited."
 relatedProducts:
   - hager-vml106-consumer-unit
   - luceco-ftype-mk2-cct-fire-rated-downlight
