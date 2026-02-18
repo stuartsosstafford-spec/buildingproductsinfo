@@ -24,10 +24,12 @@ export interface ProductSchemaInput {
   url: string;
   sku?: string;
   category?: string;
+  price?: string;
+  affiliateUrl?: string;
 }
 
 export function productSchema(input: ProductSchemaInput) {
-  return {
+  const schema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'Product',
     name: input.name,
@@ -40,6 +42,64 @@ export function productSchema(input: ProductSchemaInput) {
     url: input.url,
     ...(input.sku ? { sku: input.sku } : {}),
     ...(input.category ? { category: input.category } : {}),
+  };
+
+  if (input.affiliateUrl) {
+    const offer: Record<string, unknown> = {
+      '@type': 'Offer',
+      url: input.affiliateUrl,
+      priceCurrency: 'GBP',
+      availability: 'https://schema.org/InStock',
+      seller: {
+        '@type': 'Organization',
+        name: 'Amazon.co.uk',
+      },
+    };
+    if (input.price) {
+      offer.price = input.price.replace(/[^0-9.]/g, '');
+    }
+    schema.offers = offer;
+  }
+
+  return schema;
+}
+
+export function webSiteSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Building Products Info',
+    url: 'https://buildingproductsinfo.co.uk',
+    description: 'Independent product information, specifications and buying guides for UK building and trade professionals.',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Building Products Info',
+      url: 'https://buildingproductsinfo.co.uk',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://buildingproductsinfo.co.uk/favicon.svg',
+      },
+    },
+  };
+}
+
+export interface FAQItem {
+  question: string;
+  answer: string;
+}
+
+export function faqSchema(items: FAQItem[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: items.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
   };
 }
 

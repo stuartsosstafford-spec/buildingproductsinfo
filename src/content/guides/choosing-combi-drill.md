@@ -7,6 +7,15 @@ updatedDate: 2026-02-13
 metaTitle: "How to Choose the Right Combi Drill — Buying Guide"
 metaDescription: "A practical guide to choosing the right combi drill for trade or DIY use. Covers voltage, torque, brushless vs brushed, and key features to look for."
 draft: false
+faq:
+  - question: "What voltage combi drill do I need?"
+    answer: "For trade use, 18V is the standard — it offers the best balance of power, weight, and battery availability. 12V is suitable for light-duty work like cabinet fitting. Avoid 10.8V for regular site use as battery life and torque are limited."
+  - question: "Is a brushless combi drill worth the extra cost?"
+    answer: "Yes, for regular use. Brushless motors are more efficient, run cooler, and last significantly longer than brushed motors. They also deliver more power from the same battery. The price difference pays for itself quickly for tradespeople."
+  - question: "What is the difference between a combi drill and an impact driver?"
+    answer: "A combi drill combines drilling, hammer drilling, and screwdriving in one tool with a keyed or keyless chuck. An impact driver is designed specifically for driving screws and bolts using a hex bit holder and rotational impacts. Most tradespeople carry both."
+  - question: "How much torque do I need in a combi drill?"
+    answer: "For general trade use, look for at least 60-70Nm of torque. Heavy-duty applications like drilling into masonry or driving large screws into hardwood may need 80Nm or more. Most quality 18V combi drills deliver 70-95Nm."
 relatedProducts:
   - dewalt-dcd796-combi-drill
   - milwaukee-m18-fid3-impact-driver

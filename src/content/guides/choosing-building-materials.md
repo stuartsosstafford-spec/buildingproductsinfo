@@ -6,6 +6,15 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Building Materials for Common Projects — Buying Guide"
 metaDescription: "A practical guide to choosing building materials for common construction and renovation projects. Covers insulation, timber, membranes, paints, primers, and jointing compounds."
 draft: false
+faq:
+  - question: "What thickness insulation do I need for a flat roof?"
+    answer: "It depends on the U-value target, but typically 100-120mm of PIR rigid foam (such as Celotex GA4000) achieves the 0.18 W/m²K required by current Building Regulations for a warm-roof flat roof build-up. Always check the product lambda value and calculate the required thickness for your specific build-up."
+  - question: "Do I need OSB3 or OSB2 for a roof deck?"
+    answer: "OSB3. The '3' grade is rated for use in humid conditions, which is required for roof decks and any semi-exposed applications under UK Building Regulations. OSB2 is only suitable for dry, interior use."
+  - question: "What is a breather membrane and when do I need one?"
+    answer: "A breather membrane is fitted to the external face of a timber frame or behind rainscreen cladding. It keeps bulk water out while allowing water vapour to pass outwards, preventing interstitial condensation. You need one on any timber frame wall, behind ventilated cladding, and on pitched roofs between the insulation and the tile battens."
+  - question: "Should I mist coat new plaster before painting?"
+    answer: "Yes. New plaster must be mist-coated with emulsion diluted approximately 20% with water before applying a full topcoat. Skipping this step causes the topcoat to dry too quickly and crack, as the plaster absorbs moisture from the paint unevenly."
 relatedProducts:
   - celotex-ga4000-insulation-board
   - zinsser-bulls-eye-123-primer

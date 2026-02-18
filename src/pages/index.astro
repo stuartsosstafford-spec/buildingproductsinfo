@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ProductGrid from '@/components/ProductGrid.astro';
+import SchemaOrg from '@/components/SchemaOrg.astro';
 import { categories } from '@/lib/categories';
+import { webSiteSchema } from '@/lib/schema';
 import { getCollection } from 'astro:content';
 
 const allProducts = await getCollection('products', ({ data }) => !data.draft);
@@ -19,6 +21,7 @@ const allBrands = await getCollection('brands', ({ data }) => !data.draft);
   title="Building & Trade Product Information"
   description="Independent building and trade product information, specifications, and buying guides for professionals and serious DIYers across the UK."
 >
+  <SchemaOrg schema={webSiteSchema()} slot="head" />
   <section class="hero-section">
     <div class="container">
       <img src="/images/hero-banner.svg" alt="Building Products Info — Independent product information, specifications and buying guides for UK building and trade professionals" class="hero-banner" width="1200" height="300" />

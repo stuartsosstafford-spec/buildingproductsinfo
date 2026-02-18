@@ -76,6 +76,12 @@ const guides = defineCollection({
     metaDescription: z.string().optional(),
     draft: z.boolean().default(false),
     relatedProducts: z.array(z.string()).optional(),
+    faq: z.array(
+      z.object({
+        question: z.string(),
+        answer: z.string(),
+      })
+    ).optional(),
   }),
 });
 

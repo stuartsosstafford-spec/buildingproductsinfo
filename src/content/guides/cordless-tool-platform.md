@@ -6,6 +6,15 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose a Cordless Power Tool Platform — Buying Guide"
 metaDescription: "A practical guide to choosing the right cordless power tool battery platform. Compares DeWalt 18V XR, Makita 18V LXT, Milwaukee M18, and Bosch Professional 18V ecosystems."
 draft: false
+faq:
+  - question: "Can I use DeWalt batteries in Makita tools?"
+    answer: "No. Each manufacturer uses a proprietary battery connection. DeWalt 18V XR, Makita 18V LXT, Milwaukee M18, and Bosch Professional 18V batteries are not interchangeable. This is why choosing a platform matters — once you have several batteries, switching brands is expensive."
+  - question: "Which cordless tool platform is best for electricians?"
+    answer: "DeWalt 18V XR and Milwaukee M18 are the most popular among UK electricians. Both offer compact impact drivers, SDS drills, circular saws, and specialist tools like cable cutters. Milwaukee's M12 sub-compact range is also popular for work in tight spaces like consumer units."
+  - question: "Is 18V or 36V better for cordless tools?"
+    answer: "18V covers the vast majority of trade tasks. Some manufacturers offer 36V (or twin-18V like Makita) for high-demand tools like mitre saws, plunge saws, and SDS-Max drills. Most tradespeople buy 18V as their main platform and only use 36V for specific heavy-duty tools."
+  - question: "Are bare unit cordless tools worth buying?"
+    answer: "Yes, if you already own batteries in that platform. Bare units are significantly cheaper than kitted versions and avoid accumulating duplicate chargers and batteries. Most professional tool ranges are designed around buying bare units once you are invested in a platform."
 relatedProducts:
   - dewalt-dcd796-combi-drill
   - makita-dhr242-sds-rotary-hammer

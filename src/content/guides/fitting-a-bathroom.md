@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Fit a Bathroom — Buying Guide"
 metaDescription: "A practical guide to fitting a bathroom from start to finish. Covers planning, showers, WCs, basins, tiling preparation, ventilation, sealants, and fixings."
 draft: false
+faq:
+  - question: "Do I need an extractor fan in a bathroom?"
+    answer: "Yes. Building Regulations (Approved Document F) require mechanical extract ventilation in any bathroom without an openable window, and it is strongly recommended even with a window. A minimum extraction rate of 15 litres per second is required. Fan-rated fire-rated units are needed where the fan penetrates a fire compartment ceiling."
+  - question: "What order should I fit a bathroom in?"
+    answer: "The general order is: first fix plumbing and electrics, waterproofing and boarding, floor preparation, WC and basin rough-in, shower tray or wet room former, tiling, second fix plumbing (taps, shower valve, WC cistern), second fix electrics (fan, lighting), then sealants and finishing."
+  - question: "Should I use silicone or grout around a shower tray?"
+    answer: "Use silicone sealant, not grout, at the junction between a shower tray and tiles or wall panels. This joint needs to accommodate slight movement. Use an anti-mould silicone formulated for bathrooms. Grout is rigid and will crack at movement joints."
 relatedProducts:
   - grohe-grohtherm-1000-thermostatic-shower-mixer
   - roca-gap-rimless-wall-hung-wc

@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Paint a Room Like a Professional — Buying Guide"
 metaDescription: "A practical guide to painting a room to a professional standard. Covers preparation, primers, trade paints, masking, and the right order of work."
 draft: false
+faq:
+  - question: "What order should I paint a room in?"
+    answer: "The professional order is: ceilings first, then walls, then woodwork (frames, skirting, architraves). Within woodwork, do window frames first, then door frames, then skirting boards. This sequence minimises the risk of drips and brush marks on finished surfaces."
+  - question: "How long should I wait between coats of emulsion?"
+    answer: "Most trade emulsions are recoatable in 2-4 hours in normal conditions (well-ventilated room, 15-25°C). In cold or damp conditions, allow longer. Check the product data sheet — rushing recoat times causes the second coat to lift or drag the first."
+  - question: "Do I need to sugar soap walls before painting?"
+    answer: "Yes, especially in kitchens, hallways, and any room that has been lived in. Sugar soap removes grease, nicotine residue, and surface contaminants that prevent paint adhesion. Mix sugar soap powder with warm water and wash down walls and ceilings before sanding and priming."
 relatedProducts:
   - dulux-trade-diamond-matt-5l
   - zinsser-bulls-eye-123-primer

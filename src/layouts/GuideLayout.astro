@@ -3,7 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import ProductGrid from '@/components/ProductGrid.astro';
 import SchemaOrg from '@/components/SchemaOrg.astro';
-import { articleSchema } from '@/lib/schema';
+import { articleSchema, faqSchema } from '@/lib/schema';
 import { buildCanonical } from '@/lib/seo';
 
 const { frontmatter, slug, recommendedProducts = [] } = Astro.props;
@@ -15,6 +15,7 @@ const {
   featuredImage,
   metaTitle,
   metaDescription,
+  faq,
 } = frontmatter;
 
 const pageTitle = metaTitle ?? title;
@@ -44,6 +45,7 @@ const formattedDate = new Date(publishDate).toLocaleDateString('en-GB', {
 ---
 <BaseLayout title={pageTitle} description={pageDesc} ogImage={featuredImage} ogType="article">
   <SchemaOrg schema={jsonLd} slot="head" />
+  {faq && faq.length > 0 && <SchemaOrg schema={faqSchema(faq)} slot="head" />}
 
   <div class="container">
     <Breadcrumbs items={breadcrumbs} />

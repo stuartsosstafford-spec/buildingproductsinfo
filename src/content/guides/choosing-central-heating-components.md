@@ -6,6 +6,13 @@ publishDate: 2026-02-13
 metaTitle: "How to Choose Central Heating Components — Buying Guide"
 metaDescription: "A practical guide to choosing central heating components for your home. Covers boilers, thermostats, TRVs, magnetic filters, pipework fittings, and plumbing tools."
 draft: false
+faq:
+  - question: "Do I need a magnetic filter on my central heating system?"
+    answer: "Yes. A magnetic filter (such as an Adey MagnaClean or Fernox TF1) captures magnetite sludge before it reaches the boiler heat exchanger. Without one, sludge accumulates and reduces boiler efficiency, causes cold spots on radiators, and can lead to premature boiler failure. Most boiler manufacturers now require one to validate the warranty."
+  - question: "What is the difference between a system boiler and a combi boiler?"
+    answer: "A combi boiler heats water on demand and does not need a hot water cylinder, making it compact and suited to smaller homes. A system boiler works with a hot water cylinder and can supply multiple outlets simultaneously without a drop in pressure, making it better for larger homes with more than one bathroom."
+  - question: "How often should I flush my central heating system?"
+    answer: "A full system flush is recommended whenever a new boiler is installed, and then every 5-10 years depending on water quality and system condition. Between flushes, keep a suitable inhibitor (such as Fernox F1) topped up to prevent corrosion and sludge build-up."
 relatedProducts:
   - worcester-greenstar-4000
   - drayton-wiser-multi-zone-smart-thermostat-kit

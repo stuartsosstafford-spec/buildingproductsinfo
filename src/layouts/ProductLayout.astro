@@ -39,11 +39,13 @@ const pageUrl = buildCanonical(`/${category}/${slug}/`);
 const jsonLd = productSchema({
   name: title,
   description: shortDescription,
-  image: buildCanonical(featuredImage),
+  image: featuredImage.startsWith('http') ? featuredImage : buildCanonical(featuredImage),
   brand,
   url: pageUrl,
   sku: modelNumber,
   category: categoryLabel,
+  price: frontmatter.price,
+  affiliateUrl,
 });
 
 const breadcrumbs = [
