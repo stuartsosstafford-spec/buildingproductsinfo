@@ -46,6 +46,7 @@ const jsonLd = productSchema({
   category: categoryLabel,
   price: frontmatter.price,
   affiliateUrl,
+  dateModified: updatedDate ? new Date(updatedDate).toISOString() : new Date(addedDate).toISOString(),
 });
 
 const breadcrumbs = [

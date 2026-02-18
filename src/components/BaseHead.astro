@@ -20,6 +20,7 @@ const ogImg = ogImage ?? buildCanonical('/favicon.svg');
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalUrl} />
+<link rel="alternate" hreflang="en-gb" href={canonicalUrl} />
 {noindex && <meta name="robots" content="noindex,nofollow" />}
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="sitemap" href="/sitemap-index.xml" />
@@ -47,6 +48,3 @@ const ogImg = ogImage ?? buildCanonical('/favicon.svg');
   gtag('config', 'G-EHCV5GXL26');
 </script>
 
-<!-- Preconnect -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="dns-prefetch" href="https://fonts.googleapis.com" />

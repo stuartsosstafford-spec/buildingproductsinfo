@@ -26,6 +26,7 @@ export interface ProductSchemaInput {
   category?: string;
   price?: string;
   affiliateUrl?: string;
+  dateModified?: string;
 }
 
 export function productSchema(input: ProductSchemaInput) {
@@ -42,6 +43,7 @@ export function productSchema(input: ProductSchemaInput) {
     url: input.url,
     ...(input.sku ? { sku: input.sku } : {}),
     ...(input.category ? { category: input.category } : {}),
+    ...(input.dateModified ? { dateModified: input.dateModified } : {}),
   };
 
   if (input.affiliateUrl) {

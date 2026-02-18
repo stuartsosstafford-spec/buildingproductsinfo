@@ -4,7 +4,10 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://buildingproductsinfo.co.uk',
-  integrations: [mdx(), sitemap()],
+  integrations: [mdx(), sitemap({
+    changefreq: 'weekly',
+    lastmod: new Date(),
+  })],
   image: {
     service: {
       entrypoint: 'astro/assets/services/sharp',
