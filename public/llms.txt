@@ -1,0 +1,66 @@
+# Building Products Info
+
+> Independent product information, specifications and buying guides for UK building and trade professionals. Covers tools, building materials, plumbing, heating, electrical, fixings, landscaping, kitchens, bathrooms, and site equipment.
+
+Building Products Info is a UK-focused reference site for tradespeople and serious DIYers. It provides product specifications, key features, pros and cons, and practical buying guides across eight categories of building and trade products. Content is written for a professional audience and aims to help users choose the right product for the job.
+
+## Buying Guides
+
+- [How to Choose Building Materials](https://buildingproductsinfo.co.uk/guides/choosing-building-materials/): Insulation, timber, membranes, paints, primers, and jointing compounds for construction and renovation projects
+- [How to Choose the Right Combi Drill](https://buildingproductsinfo.co.uk/guides/choosing-combi-drill/): Selecting a cordless combi drill by voltage, torque, and intended use
+- [How to Choose a Cordless Power Tool Platform](https://buildingproductsinfo.co.uk/guides/cordless-tool-platform/): Comparing DeWalt, Makita, Milwaukee, and Bosch cordless ecosystems
+- [How to Choose Central Heating Components](https://buildingproductsinfo.co.uk/guides/choosing-central-heating-components/): Thermostats, magnetic filters, inhibitors, and heating controls
+- [How to Flush and Protect a Central Heating System](https://buildingproductsinfo.co.uk/guides/flushing-central-heating/): Step-by-step process for flushing and treating central heating
+- [How to Choose Electrical Fittings and Lighting](https://buildingproductsinfo.co.uk/guides/choosing-electrical-fittings-lighting/): MCBs, RCBOs, sockets, switches, and lighting for domestic installations
+- [How to Choose Fire-Rated Downlights](https://buildingproductsinfo.co.uk/guides/choosing-fire-rated-downlights/): Fire rating, IP rating, and fitting considerations for downlights
+- [How to Choose the Right Fixings and Adhesives](https://buildingproductsinfo.co.uk/guides/choosing-fixings-adhesives/): Wall plugs, anchors, screws, and adhesives for different substrates
+- [How to Choose Sealants and Adhesives](https://buildingproductsinfo.co.uk/guides/choosing-sealants-adhesives/): Silicone, PU foam, grab adhesives, and tapes for trade use
+- [How to Choose Kitchen and Bathroom Fittings](https://buildingproductsinfo.co.uk/guides/choosing-kitchen-bathroom-fittings/): Taps, basins, showers, and sanitaryware selection
+- [How to Fit a Bathroom](https://buildingproductsinfo.co.uk/guides/fitting-a-bathroom/): Practical guide to bathroom installation for tradespeople
+- [How to Choose Landscaping and Garden Products](https://buildingproductsinfo.co.uk/guides/choosing-landscaping-garden-products/): Decking, fencing, paving, and garden tools
+- [How to Build a Raised Bed or Patio](https://buildingproductsinfo.co.uk/guides/building-raised-bed-patio/): Materials and methods for raised beds and patio construction
+- [How to Choose Site Equipment and PPE](https://buildingproductsinfo.co.uk/guides/choosing-site-equipment-ppe/): Safety equipment, workwear, and site essentials
+- [How to Set Up Site Safety Compliance](https://buildingproductsinfo.co.uk/guides/site-safety-compliance/): Meeting UK health and safety requirements on construction sites
+- [How to Choose Trade Workwear](https://buildingproductsinfo.co.uk/guides/choosing-trade-workwear/): Work trousers, boots, and hi-vis for the building trade
+- [How to Paint a Room Like a Professional](https://buildingproductsinfo.co.uk/guides/painting-a-room/): Preparation, primers, and application techniques
+- [How to Set Up a Smart Home](https://buildingproductsinfo.co.uk/guides/smart-home-setup/): Smart thermostats, lighting, and security for UK homes
+- [Essential Tools for First-Fix Electricians](https://buildingproductsinfo.co.uk/guides/tools-for-electricians/): Tool list and recommendations for electricians
+- [Essential Tools for Plumbers](https://buildingproductsinfo.co.uk/guides/tools-for-plumbers/): Tool list and recommendations for plumbers
+
+## Product Categories
+
+- [Tools](https://buildingproductsinfo.co.uk/tools/): Power tools, hand tools, and measuring equipment
+- [Building Materials](https://buildingproductsinfo.co.uk/building-materials/): Insulation, timber, membranes, paints, and primers
+- [Plumbing & Heating](https://buildingproductsinfo.co.uk/plumbing-heating/): Pipes, fittings, heating controls, and shower systems
+- [Electrical & Lighting](https://buildingproductsinfo.co.uk/electrical-lighting/): MCBs, RCBOs, sockets, switches, and downlights
+- [Fixings & Adhesives](https://buildingproductsinfo.co.uk/fixings-adhesives/): Screws, anchors, wall plugs, sealants, and adhesives
+- [Interiors, Kitchens & Bathrooms](https://buildingproductsinfo.co.uk/interiors-kitchens-bathrooms/): Taps, basins, sanitaryware, and bathroom fittings
+- [Landscaping & Outdoors](https://buildingproductsinfo.co.uk/landscaping-outdoors/): Garden tools, decking, fencing, and outdoor equipment
+- [Site Equipment & PPE](https://buildingproductsinfo.co.uk/site-equipment-ppe/): Safety gear, workwear, site lighting, and first aid
+
+## Brands
+
+- [Bosch Professional](https://buildingproductsinfo.co.uk/brands/bosch-professional/): Professional-grade power tools and measuring equipment
+- [DeWalt](https://buildingproductsinfo.co.uk/brands/dewalt/): 18V/54V XR cordless power tool platform
+- [Makita](https://buildingproductsinfo.co.uk/brands/makita/): LXT 18V cordless tools and site equipment
+- [Milwaukee](https://buildingproductsinfo.co.uk/brands/milwaukee/): M18 FUEL cordless tools for heavy-duty trade use
+- [Festool](https://buildingproductsinfo.co.uk/brands/festool/): Premium dust extraction and woodworking tools
+- [Knipex](https://buildingproductsinfo.co.uk/brands/knipex/): German-made pliers and cutting tools
+- [Wera](https://buildingproductsinfo.co.uk/brands/wera/): Screwdrivers, hex keys, and fastening tools
+- [Rothenberger](https://buildingproductsinfo.co.uk/brands/rothenberger/): Plumbing and pipe-working tools
+- [Grohe](https://buildingproductsinfo.co.uk/brands/grohe/): Taps, showers, and bathroom fittings
+- [Hansgrohe](https://buildingproductsinfo.co.uk/brands/hansgrohe/): Premium shower systems and mixers
+- [Fernox](https://buildingproductsinfo.co.uk/brands/fernox/): Central heating chemicals and magnetic filters
+- [Hive](https://buildingproductsinfo.co.uk/brands/hive/): Smart thermostats and home automation
+- [Everbuild](https://buildingproductsinfo.co.uk/brands/everbuild/): Sealants, adhesives, and building chemicals
+- [UniBond](https://buildingproductsinfo.co.uk/brands/unibond/): Consumer adhesives and sealants
+- [Stanley](https://buildingproductsinfo.co.uk/brands/stanley/): Hand tools, tape measures, and tool storage
+- [Hilti](https://buildingproductsinfo.co.uk/brands/hilti/): Professional fixing systems and power tools
+- [OX Tools](https://buildingproductsinfo.co.uk/brands/ox-tools/): Plastering, bricklaying, and trade hand tools
+- [Timco](https://buildingproductsinfo.co.uk/brands/timco/): Screws, fixings, and fasteners
+- [Drayton](https://buildingproductsinfo.co.uk/brands/drayton/): Heating controls and smart thermostats
+
+## Optional
+
+- [About](https://buildingproductsinfo.co.uk/about/): About the site and editorial approach
+- [Affiliate Disclosure](https://buildingproductsinfo.co.uk/affiliate-disclosure/): How affiliate links are used on the site
