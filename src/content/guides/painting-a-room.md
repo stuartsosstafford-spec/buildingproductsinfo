@@ -15,11 +15,11 @@ faq:
     answer: "Yes, especially in kitchens, hallways, and any room that has been lived in. Sugar soap removes grease, nicotine residue, and surface contaminants that prevent paint adhesion. Mix sugar soap powder with warm water and wash down walls and ceilings before sanding and priming."
 relatedProducts:
   - dulux-trade-diamond-matt-5l
+  - johnstones-one-coat-matt-emulsion
   - zinsser-bulls-eye-123-primer
   - frogtape-multi-surface-painters-tape
-  - crown-trade-clean-extreme-matt
   - mangers-sugar-soap-powder
-  - polycell-stain-stop-aerosol
+  - crown-trade-clean-extreme-matt
 ---
 
 ## Painting a Room to a Professional Standard

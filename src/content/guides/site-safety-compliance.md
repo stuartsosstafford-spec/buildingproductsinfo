@@ -15,10 +15,9 @@ faq:
     answer: "First aid kits should be checked and restocked at least weekly on active construction sites. Designate a responsible person to maintain the kit. The HSE specifies minimum contents based on the number of workers on site — an empty or incomplete kit fails to meet legal requirements."
 relatedProducts:
   - jsp-evo2-vented-safety-helmet
+  - portwest-s476-hi-vis-executive-vest
   - dewalt-titanium-safety-boots
   - uvex-pheos-safety-spectacles
-  - 3m-peltor-x4a-ear-defenders
-  - portwest-s476-hi-vis-executive-vest
   - hse-workplace-first-aid-kit
 ---
 

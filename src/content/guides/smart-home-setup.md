@@ -15,11 +15,10 @@ faq:
     answer: "Yes, provided they support the same voice platform (Alexa, Google Home, or Apple HomeKit). Most major brands — including Hive, Philips Hue, and Ring — support at least two of these platforms. Check compatibility before buying to avoid integration issues."
 relatedProducts:
   - philips-hue-starter-kit-e27
-  - hive-active-heating-thermostat
-  - drayton-wiser-multi-zone-smart-thermostat-kit
-  - ring-floodlight-cam-wired-plus
-  - hive-thermostat-nano-hub
   - philips-hue-white-starter-kit
+  - hive-active-heating-thermostat
+  - hive-thermostat-nano-hub
+  - ring-floodlight-cam-wired-plus
 ---
 
 A smart home is no longer the preserve of high-end new builds. With a well-established market of reliable products from brands such as Hive, Philips Hue, Drayton, and Ring, most UK homeowners and installers can build a genuinely useful connected home without an engineering degree or a six-figure budget. The key is to plan before you buy, choose an ecosystem that suits the property, and add devices incrementally rather than trying to automate everything at once.

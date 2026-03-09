@@ -16,10 +16,8 @@ faq:
 relatedProducts:
   - fernox-f3-central-heating-cleaner
   - fernox-f1-central-heating-protector
-  - adey-magnaclean-professional2-magnetic-filter
   - fernox-tf1-compact-magnetic-filter
-  - arctic-hayes-u-flex-manometer
-  - drayton-trv4-thermostatic-radiator-valve
+  - adey-magnaclean-professional2-magnetic-filter
 ---
 
 ## Why Central Heating Systems Need Flushing

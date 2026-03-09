@@ -15,11 +15,10 @@ faq:
     answer: "Composite toe caps are lighter, do not conduct heat or cold, and pass through metal detectors — making them better for secure sites and cold weather. Steel toe caps are cheaper and marginally stronger. For most tradespeople, composite is the more comfortable choice for all-day wear."
 relatedProducts:
   - snickers-6241-allroundwork-trousers
-  - dewalt-titanium-safety-boots
   - scruffs-trade-flex-trousers
-  - dewalt-dwc15001-professional-knee-pads
-  - jsp-evo2-vented-safety-helmet
   - portwest-s476-hi-vis-executive-vest
+  - dewalt-titanium-safety-boots
+  - dewalt-dwc15001-professional-knee-pads
 ---
 
 Good workwear does more than keep you warm or look professional. It protects you from injury, reduces fatigue over a long shift, and in some cases keeps you legal on site. This guide covers the key categories — trousers, boots, helmets, eye protection, ear protection, hi-vis, and knee pads — and explains what to look for when buying each one.

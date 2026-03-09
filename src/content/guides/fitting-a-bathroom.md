@@ -14,11 +14,10 @@ faq:
   - question: "Should I use silicone or grout around a shower tray?"
     answer: "Use silicone sealant, not grout, at the junction between a shower tray and tiles or wall panels. This joint needs to accommodate slight movement. Use an anti-mould silicone formulated for bathrooms. Grout is rigid and will crack at movement joints."
 relatedProducts:
-  - grohe-grohtherm-1000-thermostatic-shower-mixer
-  - roca-gap-rimless-wall-hung-wc
+  - grohe-rapid-sl-wc-frame
   - elegant-quadrant-shower-enclosure-900mm
-  - nuie-vault-vanity-unit-basin
-  - envirovent-sil100t-silent-extractor-fan
+  - grohe-grohtherm-1000-thermostatic-shower-mixer
+  - ideal-standard-concept-air-basin-mixer
   - unibond-anti-mould-silicone-sealant
 ---
 

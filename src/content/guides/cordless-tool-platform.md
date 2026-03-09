@@ -17,10 +17,9 @@ faq:
     answer: "Yes, if you already own batteries in that platform. Bare units are significantly cheaper than kitted versions and avoid accumulating duplicate chargers and batteries. Most professional tool ranges are designed around buying bare units once you are invested in a platform."
 relatedProducts:
   - dewalt-dcd796-combi-drill
-  - makita-dhr242-sds-rotary-hammer
   - milwaukee-m18-fid3-impact-driver
-  - bosch-gws-18v-10-angle-grinder
   - makita-bl1850b-18v-battery
+  - bosch-gws-18v-10-angle-grinder
   - dewalt-dcs391n-circular-saw
 ---
 

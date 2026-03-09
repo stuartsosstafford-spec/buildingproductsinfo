@@ -50,7 +50,7 @@ const allBrands = await getCollection('brands', ({ data }) => !data.draft);
       <div class="container">
         <div class="section-heading">
           <h2>Latest Products</h2>
-          <a href="/tools/">View all &rarr;</a>
+          <a href="/guides/">Buying guides &rarr;</a>
         </div>
         <ProductGrid products={latestProducts.map((p) => ({
           title: p.data.title,

@@ -14,12 +14,11 @@ faq:
   - question: "What is a pipe freezing kit used for?"
     answer: "A pipe freezing kit creates a temporary ice plug in a section of copper or plastic pipe, allowing you to work on a live system where isolation via a stopcock is not possible. It uses CO2 cartridges to freeze the pipe rapidly. Never use on gas pipes, and always follow the manufacturer's dwell times."
 relatedProducts:
-  - rothenberger-pipeslice-15mm-copper-pipe-cutter
-  - knipex-cobra-250mm-water-pump-pliers
   - monument-masters-xv-pipe-bender
-  - speedfit-15mm-push-fit-elbow
+  - rothenberger-pipeslice-15mm-copper-pipe-cutter
   - rothenberger-rofrost-rapid-pipe-freezing-kit
-  - arctic-hayes-u-flex-manometer
+  - speedfit-15mm-push-fit-elbow
+  - knipex-cobra-250mm-water-pump-pliers
 ---
 
 Whether you are just starting out or refreshing an ageing toolkit, having the right tools makes the difference between a clean, professional job and one that costs you time and reputation. Plumbing spans a wide range of tasks — from first-fix pipework in a new build to isolating and repairing a live system in an occupied home — and your toolkit needs to reflect that range. This guide works through the key categories, with recommendations for each.
