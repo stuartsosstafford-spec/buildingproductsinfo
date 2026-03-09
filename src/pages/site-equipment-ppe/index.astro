@@ -4,6 +4,7 @@ import ProductGrid from '@/components/ProductGrid.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import SchemaOrg from '@/components/SchemaOrg.astro';
 import CategoryNav from '@/components/CategoryNav.astro';
+import CategoryGuides from '@/components/CategoryGuides.astro';
 import { getCollection } from 'astro:content';
 import { buildCanonical } from '@/lib/seo';
 import { itemListSchema } from '@/lib/schema';
@@ -94,6 +95,8 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
         and genuinely protect people on site.
       </p>
     </div>
+
+    <CategoryGuides categoryLabel={categoryLabel} />
 
     {products.length > 0 ? (
       <ProductGrid products={products.map((p) => ({
