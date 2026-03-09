@@ -784,6 +784,85 @@ h3 { font-size: 1.25rem; }
   color: var(--color-text);
 }
 
+/* === Guides page === */
+.guide-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.guide-filter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.4rem 0.875rem;
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
+  border-radius: 2rem;
+  font-size: 0.875rem;
+  color: var(--color-text);
+  text-decoration: none;
+  transition: background var(--transition), border-color var(--transition);
+}
+
+.guide-filter-pill:hover {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff;
+  text-decoration: none;
+}
+
+.guide-filter-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.25rem;
+  height: 1.25rem;
+  padding: 0 0.3rem;
+  background: var(--color-border);
+  border-radius: 1rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.guide-filter-pill:hover .guide-filter-count {
+  background: rgba(255,255,255,0.25);
+  color: #fff;
+}
+
+.guide-category-section {
+  margin-bottom: 3rem;
+  scroll-margin-top: 5rem;
+}
+
+.guide-category-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.guide-category-heading h2 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.guide-category-icon {
+  font-size: 1.375rem;
+  line-height: 1;
+}
+
+.guide-category-link {
+  margin-left: auto;
+  font-size: 0.8125rem;
+  color: var(--color-primary);
+  white-space: nowrap;
+}
+
 /* === Brand page === */
 .brand-header {
   display: flex;
