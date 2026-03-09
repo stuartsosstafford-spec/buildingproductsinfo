@@ -46,19 +46,8 @@ export function productSchema(input: ProductSchemaInput) {
     ...(input.dateModified ? { dateModified: input.dateModified } : {}),
   };
 
-  if (input.affiliateUrl && input.price) {
-    schema.offers = {
-      '@type': 'Offer',
-      url: input.affiliateUrl,
-      price: input.price.replace(/[^0-9.]/g, ''),
-      priceCurrency: 'GBP',
-      availability: 'https://schema.org/InStock',
-      seller: {
-        '@type': 'Organization',
-        name: 'Amazon.co.uk',
-      },
-    };
-  }
+  // Offers block omitted — prices are affiliate/third-party and change
+  // frequently, so including a price in schema would be inaccurate.
 
   return schema;
 }
