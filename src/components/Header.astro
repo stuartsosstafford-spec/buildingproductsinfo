@@ -1,5 +1,5 @@
 ---
-import { categories } from '@/lib/categories';
+import { categories } from '@/lib/categories'; // still used by mobile-nav
 ---
 <header class="site-header">
   <div class="container">
@@ -8,12 +8,6 @@ import { categories } from '@/lib/categories';
     </a>
 
     <nav class="main-nav" aria-label="Main navigation">
-      {categories.slice(0, 6).map((cat) => (
-        <a href={`/${cat.slug}/`} class="nav-cat">{cat.label}</a>
-      ))}
-      {categories.slice(6).map((cat) => (
-        <a href={`/${cat.slug}/`} class="nav-cat nav-cat--extra">{cat.label}</a>
-      ))}
       <a href="/guides/">Guides</a>
       <a href="/brands/">Brands</a>
     </nav>
