@@ -193,6 +193,16 @@ h3 { font-size: 1.25rem; }
   .mobile-nav {
     display: none !important;
   }
+
+  .nav-cat--extra {
+    display: none;
+  }
+}
+
+@media (min-width: 1280px) {
+  .nav-cat--extra {
+    display: inline-flex;
+  }
 }
 
 /* === Footer === */
