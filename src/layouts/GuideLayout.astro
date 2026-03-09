@@ -5,10 +5,12 @@ import ProductGrid from '@/components/ProductGrid.astro';
 import SchemaOrg from '@/components/SchemaOrg.astro';
 import { articleSchema, faqSchema } from '@/lib/schema';
 import { buildCanonical } from '@/lib/seo';
+import { categories } from '@/lib/categories';
 
-const { frontmatter, slug, recommendedProducts = [] } = Astro.props;
+const { frontmatter, slug, recommendedProducts = [], relatedGuides = [] } = Astro.props;
 const {
   title,
+  category,
   author,
   publishDate,
   updatedDate,
@@ -32,10 +34,17 @@ const jsonLd = articleSchema({
   url: pageUrl,
 });
 
-const breadcrumbs = [
-  { name: 'Guides', url: buildCanonical('/guides/') },
-  { name: title, url: pageUrl },
-];
+// Breadcrumb: route through category if the guide has one
+const categoryMeta = categories.find((c) => c.label === category);
+const breadcrumbs = categoryMeta
+  ? [
+      { name: categoryMeta.label, url: buildCanonical(`/${categoryMeta.slug}/`) },
+      { name: title, url: pageUrl },
+    ]
+  : [
+      { name: 'Guides', url: buildCanonical('/guides/') },
+      { name: title, url: pageUrl },
+    ];
 
 const formattedDate = new Date(publishDate).toLocaleDateString('en-GB', {
   year: 'numeric',
@@ -52,6 +61,11 @@ const formattedDate = new Date(publishDate).toLocaleDateString('en-GB', {
 
     <article>
       <header class="article-header">
+        {categoryMeta && (
+          <a href={`/${categoryMeta.slug}/`} class="guide-category-tag">
+            {categoryMeta.icon} {categoryMeta.label}
+          </a>
+        )}
         <h1>{title}</h1>
         <p class="article-meta">
           By {author ?? 'Editorial Team'} &middot; Published {formattedDate}
@@ -70,6 +84,21 @@ const formattedDate = new Date(publishDate).toLocaleDateString('en-GB', {
         <section class="product-section" style="margin-top:2rem;">
           <h2>Recommended Products</h2>
           <ProductGrid products={recommendedProducts} />
+        </section>
+      )}
+
+      {relatedGuides.length > 0 && (
+        <section class="product-section">
+          <h2>More {category} Guides</h2>
+          <div class="category-guides-grid">
+            {relatedGuides.map((g) => (
+              <a href={`/guides/${g.slug}/`} class="category-guide-card">
+                <span class="category-guide-label">Guide</span>
+                <span class="category-guide-title">{g.title}</span>
+                <span class="category-guide-arrow">&rarr;</span>
+              </a>
+            ))}
+          </div>
         </section>
       )}
     </article>

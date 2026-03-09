@@ -29,7 +29,19 @@ const recommendedProducts = relatedProductSlugs
     featuredImage: p.data.featuredImage,
     affiliateUrl: p.data.affiliateUrl,
   }));
+
+// Related guides: other guides in the same category
+const allGuides = await getCollection('guides', ({ data }) => !data.draft);
+const relatedGuides = allGuides
+  .filter((g) => g.slug !== guide.slug && g.data.category === guide.data.category)
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+  .map((g) => ({ title: g.data.title, slug: g.slug }));
 ---
-<GuideLayout frontmatter={guide.data} slug={guide.slug} recommendedProducts={recommendedProducts}>
+<GuideLayout
+  frontmatter={guide.data}
+  slug={guide.slug}
+  recommendedProducts={recommendedProducts}
+  relatedGuides={relatedGuides}
+>
   <Content />
 </GuideLayout>
