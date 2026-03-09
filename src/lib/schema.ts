@@ -46,10 +46,11 @@ export function productSchema(input: ProductSchemaInput) {
     ...(input.dateModified ? { dateModified: input.dateModified } : {}),
   };
 
-  if (input.affiliateUrl) {
-    const offer: Record<string, unknown> = {
+  if (input.affiliateUrl && input.price) {
+    schema.offers = {
       '@type': 'Offer',
       url: input.affiliateUrl,
+      price: input.price.replace(/[^0-9.]/g, ''),
       priceCurrency: 'GBP',
       availability: 'https://schema.org/InStock',
       seller: {
@@ -57,10 +58,6 @@ export function productSchema(input: ProductSchemaInput) {
         name: 'Amazon.co.uk',
       },
     };
-    if (input.price) {
-      offer.price = input.price.replace(/[^0-9.]/g, '');
-    }
-    schema.offers = offer;
   }
 
   return schema;
