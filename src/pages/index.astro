@@ -24,7 +24,8 @@ const allBrands = await getCollection('brands', ({ data }) => !data.draft);
   <SchemaOrg schema={webSiteSchema()} slot="head" />
   <section class="hero-section">
     <div class="container">
-      <img src="/images/hero-banner.svg" alt="Building Products Info — Independent product information, specifications and buying guides for UK building and trade professionals" class="hero-banner" width="1200" height="300" />
+      <h1 class="sr-only">Building Products Info — Independent product information, specifications and buying guides for UK building and trade professionals</h1>
+      <img src="/images/hero-banner.svg" alt="" class="hero-banner" width="1200" height="300" aria-hidden="true" />
     </div>
   </section>
 

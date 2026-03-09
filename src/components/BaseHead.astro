@@ -13,7 +13,7 @@ interface Props {
 const { title, description, canonical, ogImage, ogType = 'website', noindex = false } = Astro.props;
 const fullTitle = buildTitle(title);
 const canonicalUrl = canonical ?? buildCanonical(Astro.url.pathname);
-const ogImg = ogImage ?? buildCanonical('/favicon.svg');
+const ogImg = ogImage ?? buildCanonical('/images/hero-banner.svg');
 ---
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
