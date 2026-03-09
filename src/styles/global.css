@@ -755,6 +755,34 @@ h3 { font-size: 1.25rem; }
   background: var(--color-bg-alt);
 }
 
+/* === Category content === */
+.category-content {
+  max-width: 48rem;
+  margin-bottom: 3rem;
+}
+
+.category-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 1.75rem 0 0.5rem;
+  color: var(--color-text);
+}
+
+.category-content h2:first-child {
+  margin-top: 0;
+}
+
+.category-content p {
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: var(--color-text-light);
+  margin-bottom: 0.75rem;
+}
+
+.category-content strong {
+  color: var(--color-text);
+}
+
 /* === Brand page === */
 .brand-header {
   display: flex;

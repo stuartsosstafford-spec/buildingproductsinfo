@@ -36,6 +36,68 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>
 
+    <div class="category-content">
+      <h2>Landscaping & Outdoor Products for Trade and Domestic Use</h2>
+      <p>
+        Landscaping and outdoor construction encompasses some of the most varied work in the building trade —
+        from hard landscaping (driveways, patios, retaining walls, drainage) through to soft landscaping
+        (lawn preparation, planting, irrigation) and outdoor structures (decking, fencing, garden buildings).
+        The products in this category must withstand the full range of UK weather conditions year-round, making
+        material selection and specification particularly critical.
+      </p>
+      <p>
+        Key product types include paving and block paving, natural stone, aggregates for drainage and bedding,
+        decking (softwood, hardwood, and composite), fencing systems, garden walling, drainage and SUDS products,
+        weed control membranes, outdoor power equipment, and irrigation systems.
+      </p>
+
+      <h2>Key Buying Considerations</h2>
+      <p>
+        <strong>Frost resistance and slip resistance:</strong> External paving must be frost-resistant — look for
+        products certified to BS EN 1339 (concrete flags) or BS EN 1341 (natural stone), and check the slip
+        resistance rating. The UK Slip Resistance Group classifies surfaces from low to high slip risk;
+        for steps and ramps, a minimum classification of moderate to high is required.
+      </p>
+      <p>
+        <strong>Timber treatment class:</strong> Timber used outdoors must be treated to a suitable Use Class
+        under EN 335. UC3 covers above-ground outdoor use (decking, cladding, fencing above ground level);
+        UC4 covers ground-contact and freshwater use (fence posts, sleepers). Using UC3 material in ground
+        contact leads to rapid decay regardless of the quality of the timber itself.
+      </p>
+      <p>
+        <strong>Sustainable drainage:</strong> Since changes to planning guidance, new driveways and large
+        paved areas often require sustainable drainage systems (SUDS) to manage surface water run-off and prevent
+        increased flood risk. Permeable paving systems, soakaways, and attenuation crates must be sized for the
+        catchment area and local rainfall intensity.
+      </p>
+      <p>
+        <strong>Composite decking warranties:</strong> Composite decking products vary significantly in board density,
+        core construction (hollow vs. solid), and surface texture. Warranties range from 10 to 25+ years; check
+        whether the warranty covers fading, staining, and structural integrity separately, and what maintenance
+        obligations apply to keep the warranty valid.
+      </p>
+
+      <h2>Common Mistakes</h2>
+      <p>
+        Insufficient base preparation is the most common cause of landscaping failures. Block paving and patio
+        flags that are not laid on a properly compacted, correctly graded sub-base and bed will rock, sink, and
+        allow weeds through within a few seasons. The visible surface material often gets the blame, but the
+        failure is almost always in the preparation.
+      </p>
+      <p>
+        Ignoring falls and drainage in patio design leads to pooling water against walls and structures,
+        which causes damp issues over time. A minimum 1:60 fall away from buildings is standard practice.
+      </p>
+
+      <h2>Who Uses These Products?</h2>
+      <p>
+        Landscapers, groundworkers, garden designers, driveways contractors, local authority parks departments,
+        and ambitious homeowners all need detailed specifications to select the right products and avoid costly
+        errors. Clear technical information is particularly valuable for natural stone and composite products,
+        where marketing claims can obscure important performance differences.
+      </p>
+    </div>
+
     {products.length > 0 ? (
       <ProductGrid products={products.map((p) => ({
         title: p.data.title,

@@ -36,6 +36,67 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>
 
+    <div class="category-content">
+      <h2>Understanding Plumbing & Heating Products</h2>
+      <p>
+        Plumbing and heating are among the most technically demanding trades in the building industry — and the products
+        you specify have a direct impact on safety, energy efficiency, and long-term reliability. Whether you're
+        installing a new central heating system, replacing pipework, fitting a bathroom, or working on a commercial
+        project, choosing components that meet UK standards is non-negotiable.
+      </p>
+      <p>
+        The category spans a wide range: boilers, radiators, underfloor heating systems, hot and cold water pipework,
+        valves, cylinders, heat pumps, thermostats, and associated fittings. Each sub-category carries its own
+        regulatory context — from Gas Safe requirements for boiler work to Part L of the Building Regulations
+        governing energy efficiency in heating systems.
+      </p>
+
+      <h2>Key Buying Considerations</h2>
+      <p>
+        <strong>Material compatibility:</strong> Copper, plastic (PEX, CPVC), and push-fit systems each have different
+        pressure ratings, temperature tolerances, and compatibilities with existing pipework. Mixing incompatible
+        materials — particularly copper and some plastics in certain configurations — can cause premature failure or
+        void product warranties.
+      </p>
+      <p>
+        <strong>Efficiency ratings:</strong> Modern boilers and heat pumps carry ErP (Energy-related Products) ratings.
+        A heat pump's COP (Coefficient of Performance) and SCOP (Seasonal COP) figures tell you how efficiently it
+        converts electricity to heat across varying conditions — critical for calculating running costs and compliance
+        with Part L.
+      </p>
+      <p>
+        <strong>Certifications:</strong> WRAS approval (Water Regulations Advisory Scheme) is required for fittings
+        in contact with potable water. Gas appliances must carry CE or UKCA marking and be installed by a Gas Safe
+        registered engineer. Underfloor heating systems should comply with BS EN 1264.
+      </p>
+      <p>
+        <strong>Pressure and flow rates:</strong> Unvented cylinders, combination boilers, and sealed heating systems
+        all operate at mains pressure. Understanding the static and dynamic pressure available at the property is
+        essential before specifying any pressurised system.
+      </p>
+
+      <h2>Common Mistakes</h2>
+      <p>
+        Under-sizing a boiler or heat emitter is one of the most costly errors — it leaves a system struggling to
+        maintain temperature and often masks itself as poor pressure or slow recovery. Always carry out a proper
+        heat loss calculation before specifying output. Equally, over-specifying leads to short-cycling, which
+        reduces efficiency and component life.
+      </p>
+      <p>
+        Ignoring system design — water treatment, inhibitors, magnetic filters, and correct balancing — leads to
+        sludge build-up, corrosion, and premature heat exchanger failure regardless of the quality of the
+        individual products installed.
+      </p>
+
+      <h2>Who Uses These Products?</h2>
+      <p>
+        Gas Safe and OFTEC registered engineers, plumbers, heating system designers, M&E contractors, and building
+        control officers all rely on accurate product specifications. Homeowners and self-builders undertaking Part P
+        or Building Regulations-compliant work also need clear technical information to make confident purchasing
+        decisions and have productive conversations with their contractors.
+      </p>
+    </div>
+
     {products.length > 0 ? (
       <ProductGrid products={products.map((p) => ({
         title: p.data.title,

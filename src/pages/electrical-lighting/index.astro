@@ -36,6 +36,66 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>
 
+    <div class="category-content">
+      <h2>Electrical & Lighting Products for Trade and DIY</h2>
+      <p>
+        Electrical and lighting products sit at the intersection of safety compliance, energy performance, and
+        practical site work. From consumer units and cable to LED luminaires and smart controls, the products in
+        this category must meet stringent UK and EU standards — and understanding those standards is as important as
+        understanding the products themselves.
+      </p>
+      <p>
+        The range is broad: wiring accessories (sockets, switches, fused connection units), cable and containment
+        (SWA, twin and earth, conduit, trunking), circuit protection (MCBs, RCDs, RCBOs), lighting (LED panels,
+        bulkheads, floodlights, downlights), emergency lighting, and increasingly, EV charging equipment and
+        smart home control systems.
+      </p>
+
+      <h2>Key Buying Considerations</h2>
+      <p>
+        <strong>IP ratings:</strong> The Ingress Protection rating defines resistance to dust and water. IP20 is
+        suitable for dry indoor environments; IP44 covers bathrooms; IP65 or higher is required for outdoor or
+        wet-area installations. Using an under-rated product in a wet zone is both unsafe and non-compliant
+        with BS 7671 (the IET Wiring Regulations).
+      </p>
+      <p>
+        <strong>Cable sizing and derating:</strong> Cable must be selected not just for load, but for its installation
+        method (clipped direct, in conduit, buried, grouped with other cables). Each method carries a derating
+        factor that reduces the cable's effective current-carrying capacity. Undersizing is a common cause of
+        nuisance tripping and, in worst cases, cable fires.
+      </p>
+      <p>
+        <strong>Lighting efficacy:</strong> LED luminaires are rated in lumens per watt (lm/W). A high-quality
+        commercial LED fitting will achieve 120–160 lm/W or better, making direct wattage comparisons misleading.
+        Check lumen output, colour rendering index (CRI — Ra 80+ is minimum for most applications), colour
+        temperature (2700K warm through to 6500K daylight), and dimmability.
+      </p>
+      <p>
+        <strong>UKCA and CE marking:</strong> All electrical products sold in GB must bear UKCA marking
+        confirming compliance with the relevant product safety directives. For Northern Ireland, CE marking
+        continues to apply.
+      </p>
+
+      <h2>Common Mistakes</h2>
+      <p>
+        Selecting consumer-grade accessories for commercial or high-usage environments is a frequent error — a
+        standard domestic socket is not designed for the frequency of use typical in a workshop or commercial
+        kitchen. Similarly, specifying non-dimmable LED drivers with dimmer switches causes flickering,
+        overheating, and premature failure.
+      </p>
+      <p>
+        For lighting, failing to account for the difference between maintained (always on) and non-maintained
+        (on during power failure only) emergency fittings leads to non-compliant emergency lighting schemes.
+      </p>
+
+      <h2>Who Needs These Products?</h2>
+      <p>
+        Qualified electricians and electrical contractors working to Part P of the Building Regulations, M&E
+        engineers, lighting designers, facilities managers, and self-builders all need detailed product
+        specifications to design safe, compliant, and efficient electrical installations.
+      </p>
+    </div>
+
     {products.length > 0 ? (
       <ProductGrid products={products.map((p) => ({
         title: p.data.title,

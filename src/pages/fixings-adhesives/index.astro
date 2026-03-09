@@ -36,6 +36,63 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>
 
+    <div class="category-content">
+      <h2>Fixings & Adhesives: Small Components, Critical Performance</h2>
+      <p>
+        Fixings and adhesives are among the most overlooked categories in construction — and among the most
+        consequential when specified incorrectly. A bolt that corrodes in five years on an exposed structure,
+        or an anchor that fails to reach its pull-out strength in the base material, can have serious safety
+        implications. Understanding what these products do, and specifying them correctly, is a core part of
+        professional building practice.
+      </p>
+      <p>
+        The category covers mechanical fixings (screws, bolts, nuts, anchors, nails, staples), chemical fixings
+        (resin anchors, adhesive anchors), structural adhesives, sealants (silicone, polyurethane, hybrid polymer),
+        expanding foam, and specialist tapes and membranes. Each product family operates differently and is
+        suitable for a defined range of base materials and loading conditions.
+      </p>
+
+      <h2>Key Buying Considerations</h2>
+      <p>
+        <strong>Base material suitability:</strong> Fixings behave differently in solid concrete, hollow blockwork,
+        brick, timber, and steel. Anchor systems designed for solid concrete may be completely unsuitable for
+        hollow or cracked concrete. Always check the manufacturer's load data tables for the specific base
+        material and condition you're fixing into.
+      </p>
+      <p>
+        <strong>Corrosion resistance:</strong> External fixings, those in contact with treated timber, or fixings
+        in high-humidity environments must have appropriate corrosion protection. Zinc-plated fixings are suitable
+        for internal use only; A2 or A4 stainless steel is required for most external applications; duplex coatings
+        or hot-dip galvanising are used for highly aggressive environments such as coastal locations or contact
+        with acidic timbers like oak or sweet chestnut.
+      </p>
+      <p>
+        <strong>Load ratings and ETA approval:</strong> Structural fixings — particularly anchors used in
+        safety-critical applications — should carry European Technical Assessment (ETA) approval, which provides
+        independently verified characteristic load data for tension, shear, and combined loading.
+      </p>
+      <p>
+        <strong>Adhesive open and cure times:</strong> Structural adhesives and resin anchors are temperature-sensitive.
+        Open time (the working window before the adhesive sets) and full cure time both reduce significantly in cold
+        weather and increase in heat. Working outside these parameters leads to bond failure.
+      </p>
+
+      <h2>Common Mistakes</h2>
+      <p>
+        Using inadequate edge and spacing distances for anchors is a leading cause of anchor failure. Manufacturer
+        data sheets specify minimum edge distances and anchor spacings; ignoring these leads to concrete breakout
+        or splitting before the anchor's full load capacity is reached. Similarly, using the wrong drill bit diameter
+        or failing to clean out the hole before installing a resin anchor dramatically reduces pull-out strength.
+      </p>
+
+      <h2>Who Needs This Information?</h2>
+      <p>
+        Structural engineers, fixings specialists, general contractors, steelwork fabricators, dry-lining operatives,
+        and site managers all depend on accurate technical data for fixings. For self-builders and DIYers, understanding
+        the right fixing for each substrate prevents costly failures and rework.
+      </p>
+    </div>
+
     {products.length > 0 ? (
       <ProductGrid products={products.map((p) => ({
         title: p.data.title,

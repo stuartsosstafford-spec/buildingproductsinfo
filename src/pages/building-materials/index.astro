@@ -36,6 +36,63 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>
 
+    <div class="category-content">
+      <h2>Building Materials: The Foundation of Every Project</h2>
+      <p>
+        Building materials form the structural and weather-resistant fabric of every construction project, from
+        a garden wall to a full new build. Getting the specification right — not just for cost, but for
+        performance, durability, and compliance — is fundamental to a building that stands the test of time
+        and passes building control inspection.
+      </p>
+      <p>
+        This category covers the core fabric of construction: aggregates, cement and concrete products,
+        bricks, blocks, lintels, timber, sheet materials (OSB, plywood, MDF), insulation (rigid, mineral wool,
+        spray foam), membranes, damp-proof courses, and roofing products including tiles, slates, and flat
+        roof systems. Each product type operates within its own technical standards and Building Regulations
+        compliance framework.
+      </p>
+
+      <h2>Key Buying Considerations</h2>
+      <p>
+        <strong>Structural adequacy:</strong> Load-bearing materials must be specified to handle the actual
+        loads imposed — not just selected on tradition or habit. Timber sections must meet BS EN 338 strength
+        class requirements; lintels must be specified by span and load; concrete must achieve the correct
+        compressive strength class (C16/20, C25/30, etc.) for its application.
+      </p>
+      <p>
+        <strong>Thermal performance:</strong> Part L of the Building Regulations sets minimum U-value requirements
+        for walls, roofs, and floors. Insulation product data sheets provide lambda (thermal conductivity)
+        values — the lower the lambda, the better the insulating performance per millimetre of thickness.
+        Comparing products on lambda rather than headline R-value avoids specification errors when space is limited.
+      </p>
+      <p>
+        <strong>Fire performance:</strong> Reaction to fire is classified under BS EN 13501-1 from A1 (non-combustible)
+        through to F. Insulation in cavities, on external facades, and in roof voids must meet the correct
+        classification for the application — particularly after changes to Approved Document B following
+        the Grenfell inquiry.
+      </p>
+      <p>
+        <strong>Moisture and exposure:</strong> Materials for external or below-ground use must be rated for
+        their exposure class. Mortar mixes, for instance, are designated M2 through M12 — a sulphate-resistant
+        mix is essential for chimneys and below-DPC work, where standard mixes would fail prematurely.
+      </p>
+
+      <h2>Common Mistakes</h2>
+      <p>
+        Mixing material specifications on-site without checking compatibility — for instance, using different
+        cement types in the same pour, or combining timber treatment classes incorrectly — can create structural
+        weaknesses or void warranties. Another common error is under-ordering structural materials to reduce
+        waste, then facing extended lead times mid-project when additional supply is needed.
+      </p>
+
+      <h2>Who Uses These Products?</h2>
+      <p>
+        Main contractors, groundworkers, bricklayers, carpenters, structural engineers, building control officers,
+        and self-builders all need detailed technical information on building materials to make informed procurement
+        decisions and produce accurate specifications.
+      </p>
+    </div>
+
     {products.length > 0 ? (
       <ProductGrid products={products.map((p) => ({
         title: p.data.title,
