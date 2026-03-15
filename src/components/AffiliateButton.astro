@@ -5,5 +5,19 @@ interface Props {
 }
 
 const { url, text = 'Check Price' } = Astro.props;
+
+function addLinkCode(href: string): string {
+  try {
+    const u = new URL(href);
+    if (u.hostname.includes('amazon.') && !u.searchParams.has('linkCode')) {
+      u.searchParams.set('linkCode', 'll2');
+    }
+    return u.toString();
+  } catch {
+    return href;
+  }
+}
+
+const finalUrl = addLinkCode(url);
 ---
-<a href={url} class="affiliate-btn" rel="sponsored nofollow" target="_blank">{text}</a>
+<a href={finalUrl} class="affiliate-btn" rel="sponsored nofollow" target="_blank">{text}</a>

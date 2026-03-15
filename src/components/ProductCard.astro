@@ -13,6 +13,20 @@ interface Props {
 
 const { title, slug, category, brand, shortDescription, featuredImage, affiliateUrl } = Astro.props;
 const href = `/${category}/${slug}/`;
+
+function addLinkCode(url: string): string {
+  try {
+    const u = new URL(url);
+    if (u.hostname.includes('amazon.') && !u.searchParams.has('linkCode')) {
+      u.searchParams.set('linkCode', 'll2');
+    }
+    return u.toString();
+  } catch {
+    return url;
+  }
+}
+
+const finalAffiliateUrl = affiliateUrl ? addLinkCode(affiliateUrl) : undefined;
 ---
 <article class="product-card">
   <div class="product-card-image">
@@ -25,6 +39,6 @@ const href = `/${category}/${slug}/`;
     <h3 class="product-card-title"><a href={href}>{title}</a></h3>
     <p class="product-card-description">{shortDescription}</p>
     <p class="product-card-brand">{brand}</p>
-    {affiliateUrl && <a href={affiliateUrl} class="affiliate-btn affiliate-btn-sm" rel="sponsored nofollow" target="_blank">Check Price on Amazon</a>}
+    {finalAffiliateUrl && <a href={finalAffiliateUrl} class="affiliate-btn affiliate-btn-sm" rel="sponsored nofollow" target="_blank">Check Price on Amazon</a>}
   </div>
 </article>
