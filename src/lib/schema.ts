@@ -44,10 +44,15 @@ export function productSchema(input: ProductSchemaInput) {
     ...(input.sku ? { sku: input.sku } : {}),
     ...(input.category ? { category: input.category } : {}),
     ...(input.dateModified ? { dateModified: input.dateModified } : {}),
+    // Minimal Offer required by Google for Product rich result eligibility.
+    // No price included — affiliate prices change frequently.
+    offers: {
+      '@type': 'Offer',
+      url: input.affiliateUrl ?? input.url,
+      priceCurrency: 'GBP',
+      availability: 'https://schema.org/InStock',
+    },
   };
-
-  // Offers block omitted — prices are affiliate/third-party and change
-  // frequently, so including a price in schema would be inaccurate.
 
   return schema;
 }
