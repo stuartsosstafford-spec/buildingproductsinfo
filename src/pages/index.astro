@@ -13,7 +13,7 @@ const latestProducts = allProducts
 
 const featuredProducts = allProducts
   .filter((p) => p.data.featured)
-  .slice(0, 3);
+  .slice(0, 8);
 
 const allBrands = await getCollection('brands', ({ data }) => !data.draft);
 ---

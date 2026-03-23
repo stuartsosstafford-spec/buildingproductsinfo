@@ -45,7 +45,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£299.99"
 addedDate: 2026-02-13
 draft: false
-featured: false
+featured: true
 metaTitle: "Karcher K 5 Power Control Pressure Washer — Specs & Info"
 metaDescription: "Full specifications and product information for the Karcher K 5 Power Control Pressure Washer. 145 bar, water-cooled motor, Power Control gun, 8m hose."
 relatedGuides:

@@ -47,7 +47,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£79.99"
 addedDate: 2026-02-13
 draft: false
-featured: false
+featured: true
 metaTitle: "Fluke T110 Voltage and Continuity Tester — Specs & Info"
 metaDescription: "Full specifications and product information for the Fluke T110 Two-Pole Voltage and Continuity Tester. CAT III 690V, switchable load, IP64, professional electrical testing."
 relatedGuides:

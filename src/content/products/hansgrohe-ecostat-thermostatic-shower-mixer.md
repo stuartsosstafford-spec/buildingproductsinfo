@@ -45,7 +45,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£299.99"
 addedDate: 2026-02-13
 draft: false
-featured: false
+featured: true
 metaTitle: "Hansgrohe Ecostat 1001 CL Thermostatic Shower Mixer — Specs & Info"
 metaDescription: "Full specifications and product information for the Hansgrohe Ecostat 1001 CL Thermostatic Shower Mixer. Exposed bar valve, SafetyStop, chrome finish."
 ---

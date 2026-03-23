@@ -40,7 +40,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£389.00"
 addedDate: 2025-03-08
 draft: false
-featured: true
+featured: false
 metaTitle: "DeWalt DCN692N 18V Framing Nailer — Specs & Info"
 metaDescription: "Full specifications for the DeWalt DCN692N cordless framing nailer. Fires 50-90mm nails, brushless motor, dual speed."
 ---

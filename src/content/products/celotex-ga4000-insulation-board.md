@@ -34,7 +34,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£54.99"
 addedDate: 2025-03-03
 draft: false
-featured: false
+featured: true
 metaTitle: "Celotex GA4000 100mm PIR Insulation Board — Specs & Info"
 metaDescription: "Full specifications for Celotex GA4000 PIR insulation board. 0.022 W/mK, BBA certified."
 relatedGuides:

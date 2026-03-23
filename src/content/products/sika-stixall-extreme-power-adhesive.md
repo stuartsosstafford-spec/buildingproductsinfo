@@ -45,7 +45,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£12.99"
 addedDate: 2026-02-13
 draft: false
-featured: false
+featured: true
 metaTitle: "Sika Stixall Extreme Power Adhesive & Sealant — Specs & Info"
 metaDescription: "Full specifications and product information for Sika Stixall Extreme Power Sealant and Adhesive. Bonds wet surfaces, permanently flexible, hybrid polymer."
 relatedGuides:

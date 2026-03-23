@@ -45,7 +45,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£89.99"
 addedDate: 2026-02-13
 draft: false
-featured: false
+featured: true
 metaTitle: "DeWalt Titanium S3 Safety Boots — Specs & Info"
 metaDescription: "Full specifications and product information for the DeWalt Titanium S3 Safety Boots. Waterproof, steel toe, penetration-resistant midsole, all-day comfort."
 relatedGuides:

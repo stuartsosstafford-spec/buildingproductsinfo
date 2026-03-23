@@ -45,7 +45,7 @@ affiliateButtonText: "Check Price on Amazon"
 price: "£139.99"
 addedDate: 2025-03-10
 draft: false
-featured: true
+featured: false
 metaTitle: "Milwaukee M18 FID3 FUEL Impact Driver — Specs & Info"
 metaDescription: "Full specifications for the Milwaukee M18 FID3-0 FUEL impact driver. 226Nm torque, brushless motor, 4-mode drive control."
 relatedGuides:
