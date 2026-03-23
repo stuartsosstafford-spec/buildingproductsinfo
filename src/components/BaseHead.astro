@@ -13,7 +13,8 @@ interface Props {
 const { title, description, canonical, ogImage, ogType = 'website', noindex = false } = Astro.props;
 const fullTitle = buildTitle(title);
 const canonicalUrl = canonical ?? buildCanonical(Astro.url.pathname);
-const ogImg = ogImage ?? buildCanonical('/images/hero-banner.svg');
+// Only use raster images for og:image — SVGs are not supported by social platforms
+const ogImg = ogImage && !ogImage.endsWith('.svg') ? ogImage : undefined;
 ---
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -30,14 +31,14 @@ const ogImg = ogImage ?? buildCanonical('/images/hero-banner.svg');
 <meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonicalUrl} />
-<meta property="og:image" content={ogImg} />
+{ogImg && <meta property="og:image" content={ogImg} />}
 <meta property="og:site_name" content="Building Products Info" />
 
 <!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:card" content={ogImg ? 'summary_large_image' : 'summary'} />
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
-<meta name="twitter:image" content={ogImg} />
+{ogImg && <meta name="twitter:image" content={ogImg} />}
 
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EHCV5GXL26"></script>
