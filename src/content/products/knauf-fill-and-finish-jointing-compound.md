@@ -54,16 +54,20 @@ relatedGuides:
 
 ## In-Depth Look
 
-Knauf Fill & Finish is the jointing compound that has made plasterboard finishing accessible to a wider range of trades. Where traditional jointing compounds required experience to mix correctly and skill to apply, Fill & Finish comes ready-mixed and is forgiving enough for non-specialists to achieve a good result.
+Knauf Fill & Finish is the jointing compound that has made plasterboard finishing accessible to a wider range of trades. Where traditional jointing systems required experience to mix powder compounds to the correct consistency and skill to apply a separate fill coat and finish coat, Fill & Finish comes ready-mixed at the correct consistency for immediate use.
 
 ### Two Coats, One Product
 
-The first coat fills the joint, embedding the jointing tape and building up the profile. Once dry, the second coat feathers out the edges to create a seamless transition between boards. With traditional systems, these two coats used different products. Fill & Finish does both, which means less waste and fewer products to buy and store.
+The first coat is applied over the jointing tape, embedding it and filling the joint recess flush with the board face. A wide jointing knife — typically 150-200mm — is used to feather the compound 100-150mm either side of the joint on this coat. Once fully dry (approximately 24 hours in normal conditions), the second coat is applied over a wider area, feathering out 250-300mm either side to create a seamless transition between boards. With traditional two-product systems, the fill coat used a heavier compound and the finish coat a lighter one; Fill & Finish handles both stages with the same product, reducing confusion and waste.
+
+### Jointing Tape
+
+Fill & Finish is used with paper jointing tape embedded in the first coat. The tape bridges the joint and prevents cracking from board movement. Paper tape requires the base coat to be applied first, the tape pressed into it, and then a further thin layer worked over the tape to lock it. Mesh tape can also be used but is more prone to cracking with lightweight compounds.
 
 ### Sandability
 
-The lightweight formula sands down easily with fine-grit paper, which is critical for achieving a paint-ready surface. Heavier compounds can be difficult to sand without creating gouges, but Fill & Finish feathers out smoothly.
+The lightweight formula sands easily with 120-grit paper, which is critical for achieving a paint-ready surface. Heavier compounds can be difficult to sand without creating gouges or burnishing the surface, but Fill & Finish feathers out cleanly with a sanding block. The compound should be fully dry before sanding — any residual moisture causes the paper to clog and the surface to roll rather than sand.
 
 ### Verdict
 
-Knauf Fill & Finish is the jointing compound that makes plasterboard finishing straightforward. Whether you are a professional dry-liner or a builder taping joints as part of a wider project, the 2-in-1 formula, ready-mixed convenience, and easy sanding make it the obvious choice.
+Knauf Fill & Finish is the jointing compound that makes plasterboard finishing straightforward. The 2-in-1 formula, ready-mixed convenience, and easy sandability make it the practical choice for both professional dry-liners and builders taping joints as part of a wider project.

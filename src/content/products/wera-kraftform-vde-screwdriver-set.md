@@ -54,16 +54,24 @@ metaDescription: "Full specifications and product information for the Wera Kraft
 
 ## In-Depth Look
 
-The Wera Kraftform VDE set has become the screwdriver set that UK electricians recommend to apprentices and experienced sparks alike. It represents a genuine step up from budget VDE sets without the extreme price of some premium alternatives.
+The Wera Kraftform VDE set has become the screwdriver set that UK electricians recommend to apprentices and experienced sparks alike. It represents a genuine step up from budget VDE sets without the extreme cost of some premium German alternatives.
 
-### Safety
+### VDE Safety Standard
 
-Every screwdriver in the set is individually tested to 10,000V before being rated for use at 1,000V. This is not a marketing claim — it is the IEC 60900 standard, and Wera applies it rigorously. The insulation is clearly marked and colour-coded for instant identification of VDE-rated tools.
+Every screwdriver in the set is individually tested to 10,000V AC before being certified for use at 1,000V under the IEC 60900 standard. Individual testing — not batch testing — is the requirement, and Wera applies it to every driver. The insulation is colour-coded and clearly marked, allowing instant identification of VDE-rated tools when reaching into a bag alongside non-insulated hand tools. HSE guidance note GS38 requires electricians using hand tools for live electrical work to use tools meeting IEC 60900; the Wera set complies fully.
 
-### Comfort
+### Kraftform Handle Design
 
-The Kraftform handle is Wera's signature feature. The multi-component design places harder zones where torque is applied and softer zones where the hand rests, reducing blisters and fatigue during long days on site. For electricians who spend hours terminating circuits in consumer units, this makes a real difference.
+The Kraftform handle is Wera's signature development. The multi-component construction uses harder, higher-friction material in the torque-application zones and softer material in the grip zones. This combination reduces the force needed to apply torque, prevents the handle spinning in the palm under load, and reduces blisters and fatigue during extended termination work. For electricians spending hours in consumer unit enclosures, this comfort advantage is noticeable across a full working day.
+
+### Tip Quality
+
+The hard tip zones are laser-hardened for precise fit into terminal screw heads and reduced cam-out. Cam-out — where the driver slips out of the screw head under torque — damages terminal screws and wastes time on site. Hard tips maintain their geometry over years of use, whereas soft tip screwdrivers round off quickly on the hard stainless steel terminal screws common in modern consumer units.
+
+### Set Contents
+
+The 7-piece set covers slotted sizes 1.0mm, 4.0mm, and 5.5mm, and Phillips PH1 and PH2 — the sizes most commonly needed in domestic and light commercial electrical work. A voltage tester screwdriver is also included.
 
 ### Verdict
 
-The Wera Kraftform VDE set is the sweet spot between budget VDE screwdrivers and premium alternatives. It offers genuine German engineering, proper VDE safety compliance, and the comfort of Kraftform handles at a price that represents excellent value for professional electricians.
+The Wera Kraftform VDE set delivers genuine German engineering, proper IEC 60900 safety compliance, and Kraftform comfort at a price that represents excellent value for professional electricians at any experience level.

@@ -56,16 +56,24 @@ metaDescription: "Full specifications and product information for the Makita DJV
 
 ## In-Depth Look
 
-The Makita DJV182Z is the kind of tool that tradespeople buy once and wonder how they managed without. Its brushless motor delivers the sort of cutting performance you would expect from a corded jigsaw, but with the freedom of the 18V LXT battery platform.
+The Makita DJV182Z is the kind of tool that tradespeople buy once and wonder how they managed without. Its brushless motor delivers the sort of cutting performance you would expect from a corded jigsaw, combined with the freedom of the 18V LXT battery platform.
 
 ### Cutting Performance
 
-With a 26mm stroke length and variable speed up to 3,500 SPM, the DJV182Z handles everything from delicate scrollwork in MDF to aggressive rip cuts through thick softwood. The 4-stage orbital action lets you match the cut aggressiveness to the material, and the 135mm maximum depth in wood covers the vast majority of site cutting tasks.
+With a 26mm stroke length and variable speed up to 3,500 SPM, the DJV182Z handles everything from delicate scrollwork in MDF to aggressive rip cuts through thick softwood. The 4-stage orbital action adjusts the blade's forward thrust during the cutting stroke — Stage 0 is straight up-and-down for clean curved cuts in thin material, Stage 4 is maximum orbital action for fast, aggressive straight cutting in thick timber. Most general site work sits at Stage 2-3. The 135mm maximum depth in wood and 10mm in steel covers the vast majority of site cutting tasks.
 
-### Soft No-Load
+### Blade Selection
 
-Makita's Soft No-Load technology is the standout feature for all-day use. When the blade is not under load, the motor automatically drops to a lower speed, reducing vibration and extending both battery life and user comfort. For tradespeople making dozens of cuts across a shift, this is a genuine fatigue reducer.
+T-shank blades are the standard fitting for this jigsaw and for all modern professional jigsaws. Blade choice significantly affects cut quality: fine-toothed blades for clean cuts in laminate and veneered materials, coarse blades for fast rough timber cutting, specialist blades for metal, plastic, and ceramic tiles. Having a selection of Bosch T-shank blades (widely stocked and cost-effective) on site covers most cutting requirements.
+
+### Soft No-Load Technology
+
+Makita's Soft No-Load system automatically reduces motor speed when the blade is not under load — between cuts, repositioning, or pausing. This reduces vibration transmitted to the hand during idle time and extends battery life across a session of multiple cuts. For tradespeople making dozens of cuts across a shift, this is a genuine fatigue reducer compared to a jigsaw that runs at full speed continuously.
+
+### Parallel Fence
+
+An optional parallel fence attachment allows straight cuts parallel to an edge without a guide rail, useful for ripping narrow strips from sheet material or cutting floorboards to a consistent width. The fence rod inserts through the base plate and is secured with a locking screw.
 
 ### Verdict
 
-The DJV182Z delivers genuine trade-level jigsaw performance in a cordless package. Its combination of cutting depth, orbital action, and the Soft No-Load system makes it one of the best cordless jigsaws available on the UK market.
+The DJV182Z delivers genuine trade-level jigsaw performance in a cordless package. Orbital action, brushless motor efficiency, Soft No-Load, and LXT platform compatibility make it one of the best cordless jigsaws available in the UK market.

@@ -52,16 +52,24 @@ metaDescription: "Full specifications and product information for the Stanley Fa
 
 ## In-Depth Look
 
-A tool bag is only as good as its base, and the Stanley FatMax Technician bag's waterproof hard base is what sets it apart from cheaper alternatives. On construction sites where every surface is wet, dusty or dirty, that hard base keeps tools dry and the bag upright.
+A tool bag is only as good as its base, and the Stanley FatMax Technician bag's waterproof hard base is what sets it apart from cheaper alternatives. On construction sites where every surface is wet, dusty, or dirty, that hard base keeps tools dry and the bag upright without external support.
 
 ### Waterproof Hard Base
 
-The moulded plastic base is the feature that justifies the FatMax over generic tool bags. It creates a waterproof barrier between the bag contents and whatever surface the bag sits on, and it also gives the bag structural rigidity at the bottom. Tools do not roll around or settle into the base fabric.
+The moulded plastic base creates a waterproof barrier between the bag contents and whatever the bag is placed on — wet concrete, damp floors, muddy ground, or the back of a van. Tools set directly on the base do not contact fabric that can absorb moisture, rust metal tools, or become contaminated with wet dust. The hard base also gives the bag structural rigidity at the bottom, so it stands upright whether full or half-full.
 
-### Organisation
+### Organisation System
 
-The multiple internal and external pockets allow hand tools to be stored upright and separated rather than thrown into one compartment. External pockets keep frequently accessed items — tape measure, pencils, utility knife — immediately available without opening the main compartment.
+The main compartment has a wide mouth opening that stays open during use, allowing tools to be removed and replaced without the bag collapsing. Internal pockets are positioned down the sides of the main compartment, keeping frequently used items like voltage testers, screwdrivers, and Allen keys visible and accessible without emptying the bag. External zip pockets on the ends hold tape measures, pencils, and utility knives immediately to hand without opening the main compartment.
+
+### Capacity for a Day's Kit
+
+At 18 inches, the FatMax comfortably holds a full day's hand tool kit for most trades — a set of VDE screwdrivers, combination pliers, a multimeter, cable stripper, and miscellaneous accessories sit alongside each other without the bag being over-full. For trades that need to carry more tools, the FatMax 24-inch is the larger alternative.
+
+### Durability
+
+The 600x600 denier fabric is significantly heavier than the 300-400 denier used in budget tool bags. At the stress points — handles, zip pulls, and the base perimeter where the plastic meets the fabric — the FatMax uses reinforcement stitching that prevents the bag tearing apart after months of heavy use.
 
 ### Verdict
 
-The Stanley FatMax Technician bag is the tool bag that lasts. Its waterproof base, heavy-duty construction and practical pocket layout make it the standard choice for tradespeople who need a reliable, organised way to carry their hand tools between the van and the job.
+The Stanley FatMax Technician bag is the tool bag that lasts. Its waterproof base, heavy-duty fabric, and practical pocket layout make it the reliable choice for tradespeople who carry hand tools between the van and the job every day.

@@ -55,16 +55,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-The DeWalt DCD796 has become one of the most popular combi drills on UK building sites. It strikes an excellent balance between power, compactness, and value within the 18V cordless category.
+The DeWalt DCD796 has become one of the most popular combi drills on UK building sites. It strikes a strong balance between power, compactness, and value — and the brushless motor makes it a more efficient choice than the older brushed DCD776 at similar price points.
 
-### Build Quality
+### Two-Speed Gearbox
 
-The DCD796 features a robust housing that withstands the knocks of site work. The 13mm all-metal chuck provides reliable bit retention, and the rubber overmould grip reduces vibration.
+The two-speed gearbox covers the full range of drilling and driving applications. First gear (0-600 RPM) provides maximum torque for driving large screws and drilling with larger auger or spade bits. Second gear (0-2000 RPM) is the faster setting for drilling through timber and masonry with smaller bits. Selecting the wrong gear is the most common cause of poor results — stalling on large screws in first gear is far less likely than in second.
+
+### Hammer Drill Function
+
+The DCD796 includes a hammer drill mode for masonry work. When combined with an SDS-less masonry bit, it drills into brick and block effectively for fixing plugs, anchors, and conduit clips. For continuous heavy masonry work, an SDS drill remains the better tool, but the hammer function covers the occasional masonry task without reaching for a separate machine.
+
+### Build Quality and Ergonomics
+
+At 1.8kg bare, the DCD796 is notably light for a combi drill with this power output. The 180mm front-to-back length fits into tight spots above ceilings and inside cabinets. The all-metal 13mm chuck provides reliable bit retention, and the rubber overmould grip reduces fatigue during extended driving sessions. The LED work light with 20-second delay illuminates fixings in dark ceiling voids and corner cupboards.
 
 ### Battery Platform
 
-As part of the DeWalt 18V XR platform, the DCD796 is compatible with the full range of DeWalt 18V slide-pack batteries, from compact 2.0Ah units to high-capacity 5.0Ah packs.
+Compatible with all DeWalt 18V XR slide batteries. Tradespeople already running DeWalt impact drivers, circular saws, and lights can share battery packs without additional investment.
 
 ### Verdict
 
-The DCD796 is a solid, dependable combi drill that delivers genuine trade-level performance. Its brushless motor, compact form factor, and compatibility with the extensive XR platform make it a practical choice for professionals across all trades.
+The DCD796 is a dependable, efficient combi drill that delivers genuine trade-level performance. Its brushless motor, compact dimensions, and XR platform compatibility make it a practical choice for electricians, plumbers, joiners, and general builders alike.

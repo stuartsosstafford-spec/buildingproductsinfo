@@ -54,16 +54,24 @@ metaDescription: "Full specifications and product information for the Knipex 87 
 
 ## In-Depth Look
 
-The Knipex Cobra is one of those tools that sells itself through word of mouth. Ask any plumber, electrician or mechanic in the UK what their most-used hand tool is, and the Cobra 250mm comes up with remarkable frequency.
+The Knipex Cobra is one of those tools that sells itself through word of mouth. Ask any plumber, electrician, or mechanic in the UK what their most-used hand tool is, and the Cobra 250mm comes up with remarkable frequency.
 
 ### Self-Locking Jaw
 
-The defining feature of the Cobra is its self-locking jaw mechanism. Unlike traditional water pump pliers that can slip under heavy torque, the Cobra grips harder the more force you apply. This means less risk of rounding fasteners and a much more confident grip on pipework and fittings.
+The defining feature of the Cobra is its self-locking jaw mechanism. A compound lever action means that as you apply force at the handles, the jaws clamp tighter against the workpiece — not looser. Unlike traditional water pump pliers where the jaws splay open under heavy torque, the Cobra holds its grip. This produces less fastener rounding on hexagonal fittings and a far more confident grip on round sections of pipe, cable glands, and compression nuts.
 
 ### Push-Button Adjustment
 
-The one-hand push-button adjustment is a genuine time saver on site. Instead of wrestling with a traditional slip-joint mechanism, you press the button, slide the jaw to the width you need, and start working. It is fast, precise, and works reliably even after years of daily use.
+The one-hand push-button adjustment is a genuine time saver. Instead of wrestling with a traditional slip-joint that requires two hands to adjust and often jumps positions under light pressure, the Cobra's push-button mechanism releases cleanly, slides to the width you need, and locks precisely. Jaw width can be adjusted to any position, not just fixed increments, which means it can grip unusual sizes that a fixed-slot mechanism would skip past.
+
+### Box Joint Durability
+
+The box-type joint that connects the two plier halves is stronger and more wear-resistant than the open rivet joint used in cheaper water pump pliers. Open rivets loosen over time with heavy use, introducing slop into the mechanism. The Cobra's box joint maintains its precision for the lifetime of the tool — which is typically measured in decades of daily professional use.
+
+### Size Range
+
+The 180mm Cobra suits fine work inside electrical panels and for smaller compression fittings. The 250mm is the most versatile all-rounder for plumbing and general trade use. The 300mm handles large pipework, basin taps, and high-torque applications. Many tradespeople start with the 250mm and subsequently add the 180mm for tight-access work.
 
 ### Verdict
 
-At around £28, the Knipex Cobra 250mm is one of the best-value tool investments any tradesperson can make. It replaces multiple tools, lasts for decades, and performs its job with a precision that cheaper alternatives simply cannot match. Buyers often come back for the 180mm and 300mm sizes to complete the set.
+The Knipex Cobra 250mm is one of the best-value tool investments any tradesperson can make. It replaces multiple tools, lasts decades, and performs with precision that cheaper alternatives cannot match.

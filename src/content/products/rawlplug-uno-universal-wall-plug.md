@@ -52,16 +52,24 @@ metaDescription: "Full specifications and product information for the Rawlplug U
 
 ## In-Depth Look
 
-Wall plug selection used to mean carrying red plugs for masonry, brown plugs for block, and special toggles for plasterboard. The Rawlplug Uno simplifies this by providing a single plug that adapts to whatever substrate it is installed in.
+Wall plug selection used to mean carrying red plugs for solid masonry, brown plugs for block, and special toggling fixings for plasterboard. The Rawlplug Uno simplifies this to a single plug that adapts to whatever substrate it encounters.
 
 ### Universal Mechanism
 
-In solid masonry, the Uno expands radially like a traditional wall plug. In hollow substrates like plasterboard or hollow block, the plug collapses and forms a toggle behind the board, spreading the load. This dual-action mechanism means one plug genuinely works in both situations.
+In solid masonry and concrete, the Uno expands radially as the screw is driven — identical in action to a traditional nylon wall plug, but with the additional anti-rotation fins that prevent spinning. In hollow substrates such as plasterboard or hollow concrete block, the plug deforms and collapses behind the board face as the screw advances, spreading the load across a larger area. In aerated concrete, the plug expands within the softer substrate to provide a reliable grip. This multi-action mechanism requires no additional hardware or toggle assembly.
 
 ### Anti-Rotation Fins
 
-A common frustration with wall plugs is the plug spinning in the hole as the screw is driven. The Uno's anti-rotation fins grip the sides of the drilled hole, preventing rotation and ensuring the plug expands correctly as the screw tightens.
+A common frustration with standard wall plugs is the plug spinning in the hole as the screw is driven in, particularly in larger-diameter or rough drilled holes. The Uno's fins grip the drilled hole walls to prevent rotation and ensure the plug expands correctly rather than spinning freely. This makes for a more reliable fixing and reduces the need to hold the plug with pliers during installation.
+
+### Load Ratings and Limitations
+
+The 6mm Uno is rated for general fixing of light and medium loads — electrical back boxes, pipe clips, shelving brackets, and mirror fixings. For heavy-duty structural fixings, masonry anchors or chemical anchors are the appropriate specification. In plasterboard, the Uno carries lighter loads than a dedicated toggle anchor — for heavy shelving or grab rails on plasterboard, a stud or a plasterboard anchor designed for higher loads is preferable.
+
+### Size Range
+
+The 6mm covers the most common screw gauges from 3.5mm to 5.0mm. Rawlplug also produce the Uno in 8mm (for 4.5-6.0mm screws) and 10mm (for heavier fixings), which complement the 6mm jar for a complete site fixing kit.
 
 ### Verdict
 
-The Rawlplug Uno is the wall plug that simplifies site work. One 6mm drill bit, one plug type, and reliable fixings in whatever wall you encounter. The jar of 500 provides enough stock for multiple jobs and keeps the van organised with a single product instead of three or four.
+The Rawlplug Uno is the wall plug that simplifies site work. One 6mm drill bit, one plug type, and reliable fixings across solid masonry, hollow block, aerated concrete, and plasterboard. The jar of 500 stocks the van for multiple jobs.

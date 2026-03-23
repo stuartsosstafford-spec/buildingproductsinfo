@@ -54,16 +54,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-Tyvek Supro has earned its reputation as the go-to breather membrane for UK construction. Whether it is used as a pitched roof underlay or a timber frame wall membrane, it delivers consistent performance that building control inspectors recognise immediately.
+Tyvek Supro has earned its reputation as the go-to breather membrane for UK construction. Whether used as a pitched roof underlay or a timber frame wall membrane, it delivers consistent performance that building control inspectors recognise and accept without question.
 
 ### Why Breathable Membranes Matter
 
-Traditional roofing felt traps moisture vapour inside the roof structure, leading to condensation on the underside of the membrane and potential timber decay. A breather membrane like Tyvek Supro allows moisture vapour to pass through from inside to outside while preventing rain and wind from penetrating inward. This is essential for modern energy-efficient buildings with high insulation levels.
+Traditional roofing felt (Type 1F sarking felt) is a low-permeability membrane that traps moisture vapour inside the roof structure. As insulation levels in UK buildings have increased under Part L, more moisture is driven upward into the roof void, raising the risk of condensation on the underside of the felt and the top surfaces of roof timbers. A breathable membrane like Tyvek Supro has a vapour resistance of only 0.13 MNs/g — highly permeable — allowing moisture vapour to escape from the structure while its W1 water classification prevents driving rain from penetrating inward.
 
 ### BBA Certification
 
-The BBA certificate is what sets Tyvek Supro apart from cheaper alternatives. Building control officers accept BBA-certified products without further evidence, which avoids delays on site. For warranty purposes, many timber frame manufacturers also require a BBA-certified breather membrane.
+The BBA (British Board of Agrément) certificate is what separates premium membranes from generic alternatives in UK building practice. Building control inspectors accept BBA-certified products as compliant with Building Regulations without requiring additional evidence or calculations. Many structural timber frame manufacturers specify a BBA-certified membrane as a warranty condition. For self-builders and contractors who want zero friction at inspection, the BBA stamp on Tyvek Supro removes the risk of challenge.
+
+### Installation Guidance
+
+Tyvek Supro is laid horizontally from eaves to ridge, with each course overlapping the course below by a minimum of 150mm. The laps should be sealed with Tyvek tape at joints to maintain the windtight layer. On wall applications, the membrane is fixed to the structural frame before the outer cladding is applied, with the laps taped as specified. The 4-month UV resistance provides a generous site tolerance between membrane installation and cladding completion.
+
+### Compliance
+
+Tyvek Supro is CE-marked and complies with BS EN 13859-1 (underlays for discontinuous roofing) and BS EN 13859-2 (underlays for walls), covering both primary applications.
 
 ### Verdict
 
-Tyvek Supro is the breather membrane that professionals specify when the building needs to perform correctly for decades. The cost premium over generic alternatives is small relative to the total build cost, and the BBA certification removes any doubt at inspection stage.
+Tyvek Supro is the breather membrane that professionals specify when the building needs to perform correctly for decades. The BBA certification removes doubt at inspection stage, and the cost premium over generic alternatives is negligible relative to the total build cost.

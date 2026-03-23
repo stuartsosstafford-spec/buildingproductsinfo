@@ -54,16 +54,20 @@ metaDescription: "Full specifications and product information for the Martindale
 
 ## In-Depth Look
 
-The Martindale EZ150 is the socket tester that serious electricians carry alongside their multifunction tester. It provides a fast first-look at socket condition without the setup time of a full loop impedance test.
+The Martindale EZ150 is the socket tester that serious electricians carry alongside their multifunction tester. It provides a fast first-look at socket condition without the setup time and calibration of a full loop impedance measurement with a multifunction instrument.
 
 ### 31 Fault Conditions
 
-Where basic socket testers check for three or four common wiring faults, the EZ150 detects 31 different conditions. This includes reversed polarity, missing earth, high earth impedance, and several fault combinations that cheaper testers simply cannot identify.
+Where basic three-LED socket testers check for correct wiring, reversed polarity, and missing earth, the EZ150 detects 31 different conditions. This extends to high earth impedance, broken neutral, and several complex fault combinations that cheaper testers cannot distinguish. In EICR inspection work, identifying the precise nature of a fault before opening the circuit saves time and narrows the diagnosis before further investigation with a full instrument.
 
-### T-Safe Non-Trip
+### T-Safe Non-Trip Technology
 
-The T-Safe technology is the EZ150's standout feature for working electricians. When performing the earth loop impedance check, the test current is kept below the trip threshold of RCDs, meaning you can test sockets on RCD-protected circuits without cutting power to the entire circuit. For electricians working in occupied homes and offices, this is invaluable.
+The T-Safe technology is the EZ150's standout feature for working electricians. When performing the earth loop impedance check, the test current is carefully controlled to remain below the trip threshold of installed RCDs. Standard loop impedance test methods apply enough current to trip 30mA RCDs, cutting power to the entire circuit and requiring a reset visit to every affected outlet. T-Safe avoids this entirely, allowing loop impedance measurement across a full installation without interrupting supply to sockets or appliances. For electricians working in occupied homes, offices, and multi-unit properties, this is a significant practical advantage.
+
+### Limitations
+
+The EZ150 is a supplementary tool, not a substitute for a full EICR with a calibrated multifunction tester. It does not replace a Fluke or Megger instrument for ring circuit continuity, insulation resistance, or full Zs measurement. Its value is speed: plugging the EZ150 into each socket on a visual inspection tour gives an instant fault indicator before committing to a full electrical test.
 
 ### Verdict
 
-The Martindale EZ150 is the professional socket tester that goes beyond basic pass/fail. Its 31-fault detection, earth loop impedance measurement, and T-Safe non-trip technology make it an essential tool for electricians who need quick, reliable socket checks without the disruption of tripped RCDs.
+The Martindale EZ150 is the professional socket tester that goes beyond basic pass/fail. Its 31-fault detection, earth loop impedance measurement, and T-Safe non-trip technology make it an essential pre-screening tool for electricians carrying out inspections, EICR work, and quick socket checks on occupied premises.

@@ -56,11 +56,23 @@ Cloakrooms and small en-suites present a consistent challenge: how to provide a 
 
 ### Compact Dimensions
 
-At 400mm wide and 222mm deep, the Vault occupies minimal floor space while still providing a usable basin and a storage cupboard. The slim depth means it does not project far from the wall, leaving walkway space in tight rooms.
+At 400mm wide and 222mm deep, the Vault occupies minimal floor space while still providing a usable basin and a storage cupboard. The slim 222mm depth means it does not project far from the wall, leaving walkway space in narrow cloakrooms. Height at 781mm is standard vanity height, matching wheelchair access requirements and comfortable for standing use.
 
 ### Soft-Close Door
 
 The soft-close mechanism is a small detail that makes a noticeable difference. In a small room where the vanity door is opened and closed frequently, a slamming door is irritating. The soft-close prevents this while also protecting the unit from impact damage over time.
+
+### Basin and Tap Compatibility
+
+The included ceramic basin has a single tap hole, which accepts a mono basin mixer tap. In a compact cloakroom, a mono mixer is generally preferable to separate hot and cold pillar taps — it takes up less space and provides easier temperature control. The basin is not compatible with taps requiring two tap holes; buyers intending to use existing separate taps should check compatibility before ordering.
+
+### Waste and Trap
+
+The waste fitting and trap are sold separately. A slotted click-clack waste to match the basin overflow, combined with a 32mm trap, is the typical specification. The 222mm depth limits the trap options slightly — a bottle trap or low-profile P-trap is usually needed to fit within the cabinet below the basin.
+
+### Installation
+
+Floor standing installation screws the unit directly to the floor or wall-fixes through the back panel. Plumbing connections are made through the bottom or rear of the cabinet. The internal shelf provides usable storage once the plumbing is routed correctly.
 
 ### Verdict
 

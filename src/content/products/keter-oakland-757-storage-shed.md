@@ -54,16 +54,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-The Keter Oakland 757 represents the point at which resin sheds became a genuine alternative to timber. Earlier plastic sheds looked and felt cheap, but the Oakland's textured wood-effect panels, steel reinforcement and solid build quality make it a convincing replacement.
+The Keter Oakland 757 represents the point at which resin sheds became a genuine alternative to timber. Earlier plastic sheds looked and felt cheap, but the Oakland's textured wood-effect panels, steel reinforcement, and solid build quality make it a convincing replacement.
 
-### Maintenance-Free
+### Maintenance-Free Construction
 
-The single biggest advantage over timber is zero maintenance. No annual preservative treatment, no repainting, no replacing rotten panels. The resin construction is impervious to moisture, and the UV-protected finish does not fade or discolour over time. For homeowners who want storage without ongoing work, this is the primary selling point.
+The single biggest advantage over timber is zero maintenance. No annual preservative treatment, no repainting, no replacing rotten panels. The resin construction is impervious to moisture, and the UV-protected finish does not fade or discolour over time. For homeowners who want secure garden storage without ongoing work, this is the primary selling point.
 
 ### Steel Reinforcement
 
-The Oakland's steel-reinforced walls and roof provide structural rigidity that pure plastic sheds lack. Heavy items can be placed on shelving without the walls flexing, and the roof handles snow loading without concern.
+The Oakland's steel-reinforced walls and roof provide structural rigidity that pure plastic sheds lack. Heavy items can be placed on shelving without the walls flexing, and the roof handles the snow loading common in UK winters without concern. The built-in resin floor keeps contents off the ground and dry, eliminating the damp-base problem that affects many timber sheds with earthen or concrete floors.
+
+### Assembly
+
+Assembly is a panel-by-panel process with steel connectors. Two people are strongly recommended — the large panels are unwieldy to hold and fix alone. On a level surface, a straightforward assembly typically takes 3-4 hours. A concrete or paved base is ideal; gravel is not suitable as the built-in floor needs a firm, flat surface to sit correctly without flexing.
+
+### Security
+
+The doors are lockable with a padlock (not included). For additional security, a hasp and padlock can be fitted through the pre-drilled holes on the door. Resin construction is more resistant to forced entry than lightweight timber sheds, though for high-value tool storage, a ground anchor bolted through the floor is worth considering.
 
 ### Verdict
 
-The Keter Oakland 757 is the shed for people who never want to treat a shed again. Its maintenance-free construction, realistic appearance, and solid build quality make it the sensible long-term choice over timber sheds that need annual attention.
+The Keter Oakland 757 is the shed for people who want secure storage without maintenance. Its resin construction, steel reinforcement, built-in floor, and realistic wood-effect appearance make it the long-term alternative to timber sheds that demand annual attention.

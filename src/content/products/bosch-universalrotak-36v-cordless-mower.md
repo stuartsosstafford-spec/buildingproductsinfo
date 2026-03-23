@@ -54,16 +54,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-Cordless mowers have reached the point where they genuinely compete with petrol for most domestic lawns. The Bosch UniversalRotak 2x18V-37-550 is the model that covers the majority of UK garden sizes with enough battery life and cutting performance to make petrol unnecessary.
+Cordless mowers have reached the point where they genuinely compete with petrol for most domestic lawns. The Bosch UniversalRotak 2x18V-37-550 is the model that covers the majority of UK garden sizes with enough battery life and cutting performance to make a petrol mower unnecessary.
 
 ### Dual Battery System
 
-The dual 18V system uses two 4.0Ah batteries simultaneously, providing the power and runtime equivalent to a 36V system. Bosch includes both batteries and the charger in the box, so there is no additional cost to get started. The batteries are also compatible with other Bosch 18V garden tools.
+The dual 18V configuration uses two 4.0Ah batteries simultaneously, delivering 36V-equivalent power and runtime. Both batteries and the charger are included in the box, making this a complete out-of-the-box solution. On a fully charged pair, the mower covers up to 500m² before the batteries need recharging. The 4.0Ah batteries are compatible with other tools in the Bosch 18V UniversalSeries range, including the hedge trimmer and blower.
 
 ### ProSilence Motor
 
-The ProSilence motor is measurably quieter than both petrol mowers and older cordless designs. This is a practical advantage in residential areas where mowing early or late can cause friction with neighbours. The reduced noise also makes the mowing experience more pleasant.
+At the rated noise level, the ProSilence motor produces less than half the acoustic pressure of a comparable petrol mower. This is a practical advantage in residential areas where early-morning or late-evening mowing can cause friction with neighbours. Many UK local authorities have restrictions on noise above certain decibel thresholds during specific hours; the ProSilence motor typically keeps the mower within acceptable limits where a petrol equivalent would not.
+
+### Cutting Height and Grass Box
+
+Seven cutting height settings from 20mm to 70mm cover the full range from a closely cut ornamental lawn to a relaxed meadow-style height. The 40-litre grass box is adequate for a 500m² lawn before emptying. A full-indicator window shows when the box is approaching capacity. For very long or wet grass, the mower struggles more than a petrol equivalent — the standard recommendation of not cutting more than one-third of the grass blade height applies here as for any rotary mower.
+
+### Storage
+
+The folding handles reduce the footprint for garage or shed storage. The mower should be stored with the batteries removed when not in use for extended periods, and should not be stored with wet grass inside the housing.
 
 ### Verdict
 
-The Bosch UniversalRotak cordless mower is the sensible choice for UK homeowners with gardens up to 500m². No petrol, no cables, no excessive noise — just charge the batteries and mow. The included batteries and charger make it ready to go from the first use.
+The Bosch UniversalRotak cordless mower is the sensible, low-maintenance choice for UK homeowners with gardens up to 500m². No petrol, no cables, no excessive noise — and batteries and charger included from day one.

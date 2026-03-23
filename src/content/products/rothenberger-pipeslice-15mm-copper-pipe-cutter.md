@@ -56,12 +56,20 @@ The Rothenberger Pipeslice is one of those tools that has become so ubiquitous i
 
 ### Tight Space Performance
 
-The Pipeslice's defining feature is its ability to cut pipe in places where a standard adjustable pipe cutter cannot physically fit. The compact body slides over the pipe and cuts with a simple rotating motion, making it invaluable for first-fix plumbing, boiler swaps, and radiator replacements where pipes run through tight voids.
+The Pipeslice's defining feature is its ability to cut pipe in places where a standard adjustable pipe cutter cannot physically fit. The compact body slides over the pipe and cuts with a simple rotating motion — no adjustment required, just slide onto the pipe and rotate. This makes it invaluable for first-fix plumbing, boiler swaps, and radiator replacements where pipes run through confined voids, under floorboards, or tightly against surfaces.
 
 ### Cut Quality
 
-The hardened cutting wheel produces clean, square cuts with minimal burr. This matters because a clean cut makes for a better solder or compression joint — and fewer callbacks.
+The hardened cutting wheel produces clean, square cuts with minimal burr. This matters because a clean, square cut is essential for a leak-free solder joint or a properly seated compression fitting. A ragged cut from a hacksaw requires deburring and filing before the joint can be made — the Pipeslice removes that step entirely.
+
+### Replaceable Cutting Wheel
+
+The cutting wheel is replaceable when it eventually wears. Replacement wheels for the Pipeslice are widely stocked by plumbing merchants, and the cost is minimal. A tool that can be re-edged indefinitely represents much better long-term value than one with a fixed blade.
+
+### Size Range
+
+The 15mm Pipeslice is the most commonly used size, covering the majority of domestic hot and cold supply pipework. Rothenberger also produce Pipeslice tools for 22mm and 28mm copper, which cover heating flow and return and primary pipework sizes. Many plumbers carry all three for full domestic coverage.
 
 ### Verdict
 
-At its price point, the Rothenberger Pipeslice is an automatic purchase for anyone who works with 15mm copper pipe. It is small enough to live permanently in a trouser pocket and reliable enough to last years of daily use.
+At its price point, the Rothenberger Pipeslice is an automatic purchase for anyone who works with 15mm copper pipe. Small enough to live in a trouser pocket, durable enough for years of daily use, and inexpensive enough that losing one is not a disaster.

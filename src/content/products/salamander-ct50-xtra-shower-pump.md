@@ -56,14 +56,22 @@ metaDescription: "Full specifications and product information for the Salamander
 
 The Salamander CT50 Xtra is the shower pump that UK plumbers reach for when a customer complains about poor shower pressure in a gravity-fed property. It has earned its reputation through years of reliable service across thousands of UK installations.
 
+### Positive Head — Understanding the Requirement
+
+The CT50 Xtra is a positive head pump, which means it requires a gravity feed from the cold water storage tank to activate. The water outlet from the tank must be at least 300mm above the pump inlet for positive head operation to work correctly. In properties with a loft-mounted cold water tank, this is typically straightforward. In properties where the tank and pump are on the same floor level, a negative head pump (such as the Salamander CT50+ Xtra) is required instead. Specifying the correct type for the installation is the single most important consideration.
+
 ### Twin-Ended Design
 
-The twin impeller design is the key advantage of the CT50 over single-ended pumps. By boosting both hot and cold supplies simultaneously, it delivers balanced pressure to thermostatic shower valves — preventing the temperature fluctuations that plague single-pump installations.
+The twin impeller design is the key advantage of the CT50 over single-ended pumps. By boosting both hot and cold supplies simultaneously, it delivers balanced pressure to thermostatic shower valves — preventing the temperature fluctuations that occur when only one supply is boosted. Single-ended pumps are only appropriate where the cold supply is mains-pressure and only the hot needs boosting.
 
-### Installation
+### Installation Considerations
 
-With 22mm push-fit connections, the CT50 Xtra is straightforward to install in an airing cupboard or loft space. Anti-vibration feet and quiet motor design mean it can be installed close to bedrooms without causing noise complaints.
+With 22mm push-fit connections, the CT50 Xtra installs directly onto 22mm pipework without additional fittings. Anti-vibration feet and the quiet motor design allow installation in an airing cupboard or loft space close to living areas. WRAS approval confirms the pump meets Water Regulations requirements for connection to the hot and cold water supply — essential for compliance on domestic installations.
+
+### Selecting the Correct Size
+
+Salamander produce the CT50 (1.5 bar), CT75 (2.2 bar), and CT100 (3.0 bar) variants. The CT50 suits most standard gravity-fed showers. Where the gravity head is very low or the shower demand is high — large rainfall heads or multi-outlet systems — the CT75 is the better specification.
 
 ### Verdict
 
-The Salamander CT50 Xtra is the safe, proven choice for boosting shower pressure in gravity-fed systems. Its WRAS approval, twin-ended design, and quiet operation make it the pump that plumbers recommend with confidence.
+The Salamander CT50 Xtra is the reliable, proven choice for boosting shower pressure in positive head gravity-fed systems. Its WRAS approval, twin-ended design, and quiet operation make it the pump that plumbers specify with confidence.

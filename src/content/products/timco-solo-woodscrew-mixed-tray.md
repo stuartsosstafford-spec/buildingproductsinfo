@@ -54,16 +54,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-Every carpenter, joiner and general builder gets through woodscrews at a rate that makes individual box purchases inconvenient. The TIMCO Solo mixed tray solves this by providing 1,200 of the most commonly used sizes in one organised tray.
+Every carpenter, joiner, and general builder gets through woodscrews at a rate that makes individual box purchases inconvenient. The TIMCO Solo mixed tray solves this by providing 1,200 of the most commonly used sizes in a single organised format.
 
-### Solo Range
+### Solo Range Design
 
-The TIMCO Solo range is designed to drive into softwood and most hardwoods without pre-drilling. The sharp point, coarse thread and optimised geometry reduce splitting and allow fast, one-step fixing. For carpenters fitting battens, trims, and boards, this speeds up work significantly compared to screws that require pilot holes.
+The TIMCO Solo range is designed to drive into softwood and most hardwoods without pre-drilling in normal conditions. The sharp point initiates without slipping, the coarse thread maximises pull-through resistance, and the geometry is optimised to reduce the splitting that plagues cheaper woodscrews in hardwood close to edges. The countersunk Pozi head is the most versatile head form for general building joinery — compatible with No.2 Pozi bits across all sizes in the tray.
+
+### For Hardwood and Difficult Applications
+
+In dense hardwoods, thin timber close to edges, or when driving near the end grain, a pilot hole remains advisable even with the Solo range. A 2.5-3mm pilot slightly shorter than the screw length eliminates splitting risk and ensures the screw pulls the joint tight rather than lifting the upper piece.
 
 ### Mixed Tray Format
 
-The compartmentalised tray separates each size into its own section, making it easy to grab the right screw without rummaging through a mixed bag. The tray fits on a van shelf or workshop bench and keeps stock visible so you know when sizes are running low.
+The compartmentalised tray separates each size into its own section, making it easy to grab the right size without rummaging through a mixed bag. Sizes run from 3.5mm diameter up to 5.0mm in the most commonly used lengths, covering fixing timber battens, architrave, skirting board, floorboards, carcass joinery, and general building carpentry.
+
+### Yellow Zinc Finish and Limitations
+
+The yellow zinc plating provides mild corrosion resistance suitable for internal use and sheltered conditions. It is not appropriate for external use, direct ground contact, or treated timber where a green corrosive treatment is applied. For external and treated timber applications, stainless steel or A2 stainless is the correct specification.
 
 ### Verdict
 
-The TIMCO Solo mixed tray is the practical woodscrew purchase for anyone who uses screws regularly. The 1,200-piece count, organised tray format, and no-pre-drill performance make it a van essential for carpenters and general builders alike.
+The TIMCO Solo mixed tray is the practical woodscrew purchase for anyone who uses screws regularly. The 1,200-piece count, organised tray format, and no-pre-drill performance in softwood make it a van essential for carpenters and general builders.

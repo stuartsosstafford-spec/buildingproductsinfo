@@ -54,16 +54,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-The Fernox TF1 Compact sits alongside the F1 Protector (already on this site) as one of Fernox's core central heating protection products. While the F1 is a chemical inhibitor, the TF1 Compact is a physical filter — and the two work best together.
+The Fernox TF1 Compact sits alongside the F1 Protector as one of Fernox's core central heating protection products. While the F1 is a chemical inhibitor, the TF1 Compact is a physical filter — and the two work best in combination, providing both chemical and mechanical protection against system contamination.
 
 ### How It Works
 
-The TF1 Compact uses two filtration methods simultaneously. Hydrocyclonic action spins water to separate heavier debris particles, while powerful neodymium magnets capture iron oxide sludge — the black magnetite that causes most boiler and pump failures. Together, they remove the contaminants that degrade heating performance and cause expensive breakdowns.
+The TF1 Compact uses two filtration methods simultaneously. Hydrocyclonic action spins the system water at high velocity, using centrifugal force to separate heavier non-magnetic debris particles — rust flakes, scale fragments, and installation grit — out of the flow and into the collection chamber. Simultaneously, powerful neodymium magnets capture magnetite (iron oxide sludge), the fine black magnetic particles that form when steel radiators corrode internally. Magnetite is the primary cause of boiler heat exchanger fouling, pump seizure, and valve failure in UK central heating systems.
 
 ### Compact Advantage
 
-The slim body is designed to fit flush against a wall, making it ideal for installations where space is tight — under a wall-hung boiler, inside a kitchen cupboard, or in a utility room. It connects directly to 22mm pipework using the included valve fittings.
+The slim body is designed to sit flush against a wall, making it suitable for tight installations — under a wall-hung boiler where access is limited, inside a kitchen cupboard, or in a narrow utility room. The 22mm valve connections are included in the kit, allowing direct pipework connection without additional fittings. Horizontal or vertical installation orientation is both supported.
+
+### Servicing
+
+The TF1 Compact can be cleaned without draining the heating system. The isolation valves included in the kit allow the filter body to be isolated, the magnet assembly removed, cleaned under running water to remove the magnetite accumulation, and refitted — typically a 5-10 minute task. Annual servicing at the boiler service interval is recommended.
+
+### Gas Safe and Building Regulations
+
+Gas Safe registered engineers fitting magnetic filters as part of a new boiler installation or service are following current best practice guidance from HHIC and BESA. Central heating system filters are also referenced in British Standard BS 7593, which covers the treatment of water in domestic hot water central heating systems.
 
 ### Verdict
 
-The Fernox TF1 Compact is an essential component of any well-protected central heating system. Paired with Fernox F1 inhibitor, it provides comprehensive physical and chemical protection against sludge, corrosion and scale — the three main causes of heating system failure.
+The Fernox TF1 Compact is an essential component of any well-protected central heating system. Paired with Fernox F1 inhibitor, it provides comprehensive physical and chemical protection against the sludge, corrosion, and scale that cause heating system failures.

@@ -59,10 +59,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-The DCS391N has been a staple in the DeWalt 18V range for years. While it uses a brushed motor rather than the newer brushless technology found in the DCS572, it remains a popular choice due to its lower price point and proven reliability.
+The DCS391N has been a staple in the DeWalt 18V range for years. While it uses a brushed motor rather than the brushless technology found in the newer DCS572, it remains a popular choice due to its lower price point and proven track record across UK sites.
 
-The 165mm blade handles most common cutting tasks — sheet materials, decking boards, and framing timber. The keyless bevel adjustment is quick to set, and the electronic motor brake adds a useful safety feature when making repeated cuts.
+### Cutting Capacity
+
+The 165mm blade delivers 55mm depth at 90 degrees and 42.5mm at 45 degrees, handling 2x4 framing timber, 18mm sheet materials, decking boards, and most panel cutting tasks without difficulty. The 47-degree bevel capacity covers compound mitre cuts on skirting, architrave, and flooring work. For cutting full sheets of 8x4 ply or OSB, a straight edge guide or ripping fence improves accuracy and prevents the saw from wandering.
+
+### Electronic Brake and Safety
+
+The electronic motor brake stops the blade within seconds of releasing the trigger — a significant safety advantage over saws that coast to a stop. When making repeated cuts in framing or sheet materials, this reduces waiting time and keeps fingers safer around the work area.
+
+### Brushed vs Brushless Consideration
+
+The brushed motor draws more current than brushless equivalents, which means slightly less runtime per charge and marginally more heat generation under sustained load. For most applications — general site cutting rather than continuous heavy production work — this is not a practical limitation. Paired with a 5.0Ah battery, the DCS391N handles a full morning of cutting without a charge interruption.
+
+### Battery Platform
+
+As part of the DeWalt 18V XR platform, the DCS391N takes any standard 18V XR slide battery. Trades already running DeWalt drills, impact drivers, and lights can add this saw without buying a new battery ecosystem.
 
 ### Verdict
 
-A proven, affordable cordless circular saw. If you're already in the DeWalt 18V system and don't need brushless efficiency, this does the job reliably.
+A proven, affordable cordless circular saw for tradespeople already in the DeWalt 18V system. Where brushless efficiency is not essential, the DCS391N delivers reliable performance at a significantly lower cost than the premium alternatives.

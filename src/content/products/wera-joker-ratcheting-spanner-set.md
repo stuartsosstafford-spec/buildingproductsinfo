@@ -54,16 +54,24 @@ metaDescription: "Full specifications and product information for the Wera Joker
 
 ## In-Depth Look
 
-The Wera Joker set is one of those tools that tradespeople discover once and then recommend to everyone they work with. It represents a genuine rethinking of what a combination spanner can do.
+The Wera Joker set is one of those tools that tradespeople discover once and then recommend to everyone they work with. It represents a genuine rethinking of what a combination spanner can do, addressing the two main frustrations with traditional designs: dropped fasteners and limited access in confined spaces.
 
 ### The Holding Function
 
-This is the feature that sets the Joker apart from every other combination spanner on the market. When you release pressure on the open end, the spanner grips the fastener head rather than falling away. For anyone working overhead, in tight spaces, or at height, this eliminates the frustration of dropped fasteners and the time wasted retrieving them.
+This is the feature that sets the Joker apart from every other combination spanner on the market. A spring-loaded retention mechanism in the open jaw grips the fastener head when pressure is released. For plumbing engineers working inside boiler cupboards, HVAC engineers working above suspended ceilings, or electricians tightening earth bonding connections in tight meter tails, this eliminates the dropped fastener problem entirely. Over the course of a working day, it saves meaningful time that would otherwise be spent retrieving spanners from behind panels or under equipment.
 
-### Build Quality
+### Limit Stop
 
-Chrome-molybdenum steel is a step up from the chrome-vanadium used in most combination spanners. It is harder, more impact-resistant, and holds its shape better under heavy torque. The canvas roll pouch is a practical touch for site work, keeping all 11 sizes organised and accessible.
+The limit stop on the open end is a secondary innovation. Traditional open-ended spanners can slip off the fastener under load, especially when access angle forces the spanner onto only two of the six fastener flats. The Joker's limit stop engages before the jaws can spread enough to slip, keeping the spanner engaged under heavy torque. This reduces fastener rounding significantly.
+
+### 30-Degree Return Angle
+
+Standard combination spanners require 30 degrees of rotation space to take a bite — the ring ratchet reduces this further. In the tight spaces behind boilers and inside electrical panels, this matters: even 15 degrees of clearance is enough to make a full turn with the reversible ratchet ring.
+
+### Sizes and Coverage
+
+The 11-piece set covers 8mm through 19mm — the range needed for most domestic plumbing, gas fitting, and electrical installation work. The canvas roll pouch organises all 11 sizes and can be rolled up and stored in a tool bag or dropped into a box without losing individual spanners.
 
 ### Verdict
 
-The Wera Joker set is a premium product at a premium price, but for tradespeople who use spanners daily, it pays for itself in saved time and reduced frustration. The holding function and 30-degree return angle are genuine innovations, not gimmicks.
+The Wera Joker set justifies its premium through genuine engineering innovation. The holding function and limit stop are not gimmicks — they solve real problems that every tradesperson who uses spanners daily has experienced.

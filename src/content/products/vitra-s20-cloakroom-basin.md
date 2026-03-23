@@ -54,16 +54,24 @@ metaDescription: "Full specifications and product information for the Vitra S20 
 
 ## In-Depth Look
 
-Cloakroom basins need to balance size with usability. Too large and they overwhelm the space; too small and hand washing becomes impractical. The Vitra S20 at 450mm wide sits in the sweet spot for most UK cloakroom installations.
+Cloakroom basins need to balance size with usability. Too large and they overwhelm the space; too small and hand washing becomes impractical. The Vitra S20 at 450mm wide sits in the sweet spot for most UK cloakroom and downstairs WC installations.
 
 ### Size and Proportion
 
-The 450mm width and 355mm projection give enough basin area for comfortable hand washing while keeping the unit small enough for the narrow cloakrooms found in many UK homes. The single tap hole accommodates a mono basin mixer, which is the most common tap choice for cloakrooms as it takes up less space than separate pillar taps and provides easier temperature control.
+The 450mm width and 355mm projection provide a usable washing area while keeping the unit small enough for the narrow cloakrooms common in UK terrace houses and new builds. The 355mm projection means it does not project excessively from the wall — an important consideration in narrow downstairs WCs where door clearance is tight.
 
-### Material Quality
+### Tap Compatibility
 
-Vitreous china is the standard material for quality sanitaryware. The glaze is fired at high temperature, creating a non-porous surface that resists staining, is easy to clean, and maintains its appearance over many years. Vitra's manufacturing quality is consistent, with well-formed edges and reliable glaze coverage.
+The single tap hole accepts a mono basin mixer tap, which is the standard choice for cloakroom basins. A mono mixer occupies a single hole, allows one-handed temperature control, and is available in hundreds of designs from traditional to contemporary. The tap and waste fittings are not included; a ½ inch mono mixer and a slotted click-clack waste are the typical specification.
+
+### Wall-Mounted Installation
+
+The S20 is designed for wall mounting using the included brackets and fixings. The waste pipe must be routed through or behind the wall, or a chrome trap and exposed waste run can be fitted if rear routing is not possible. A semi-pedestal is available separately for installations where the pipework needs to be concealed but full pedestal bulk is not wanted.
+
+### Material and Warranty
+
+Vitreous china is fired at 1,200°C, creating a dense, non-porous surface that resists household chemicals, staining, and impact damage in normal use. The glaze does not yellow with age, unlike acrylic or composite basins. Vitra backs the S20 with a 10-year warranty against manufacturing defects — a strong commitment for a product at this price point.
 
 ### Verdict
 
-The Vitra S20 is the practical cloakroom basin that delivers quality without unnecessary cost. The compact dimensions, clean design, and Vitra build quality make it a reliable choice for cloakroom and en-suite installations where space is limited but quality matters.
+The Vitra S20 is the practical cloakroom basin that delivers quality without unnecessary cost. Compact dimensions, clean modern lines, vitreous china durability, and a 10-year warranty make it a reliable choice for any cloakroom or small bathroom installation.

@@ -54,16 +54,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-A pressure washer is only as good as its motor, and the K 5's water-cooled induction motor is what separates it from the budget models. Where universal motors in the K 2 and K 3 range overheat during extended use, the K 5 runs cool and lasts for years.
+A pressure washer is only as good as its motor, and the K 5's water-cooled induction motor is what separates it from the budget models. Where universal motors in the K 2 and K 3 range overheat during extended cleaning sessions, the K 5 runs cool and can operate continuously without heat-related shutdowns.
+
+### Motor Technology
+
+Water-cooled induction motors are more expensive to manufacture but last significantly longer than the universal motors in entry-level pressure washers. Universal motors run hot under sustained load and typically last 50-100 hours before performance degrades; induction motors are rated for 500+ hours. For homeowners who clean a driveway once a month, this translates to many years of reliable service before the motor becomes an issue.
 
 ### Power Control
 
-The Power Control trigger gun lets you adjust the pressure setting to match the surface being cleaned. Full power for concrete and block paving, reduced pressure for timber decking and painted surfaces. This single feature prevents the accidental damage that fixed-pressure washers can inflict.
+The Power Control trigger gun lets you dial the pressure to match the surface being cleaned. Full 145 bar for concrete, block paving, and stone where maximum cleaning power is needed. Reduced pressure for timber decking, rendered walls, and vehicle paintwork where high pressure can damage the surface. This adjustment is done at the trigger without switching attachments — a practical advantage when moving between surfaces on the same job.
 
 ### Driveway and Patio Cleaning
 
-At 145 bar, the K 5 has enough pressure to remove algae, moss, grime and ingrained dirt from most hardstanding surfaces. Combined with the optional surface cleaner attachment, it can clean a typical domestic driveway in under an hour.
+At 145 bar and 500 l/h flow rate, the K 5 handles most residential driveway and patio cleaning tasks effectively. The optional Karcher surface cleaner attachment (T 350 or T 450) makes wide-area cleaning significantly faster than a lance — it covers a 350-450mm wide path with each pass, eliminating the stripes that a single lance often leaves. For a typical UK 3x6m driveway, a surface cleaner attachment reduces the cleaning time from 30 minutes to under 15.
+
+### Winterising
+
+Water left in the pump over winter can damage internal seals through freezing. After the last autumn use, run the machine briefly with anti-freeze solution through the pump, or store in a frost-free environment. Karcher provide specific winterising guidance for the K 5 range.
 
 ### Verdict
 
-The Karcher K 5 Power Control is the pressure washer for people who want serious cleaning performance without stepping up to contractor-grade machines. The water-cooled motor, adjustable pressure, and Karcher build quality make it a reliable long-term investment.
+The Karcher K 5 Power Control is the pressure washer for homeowners who want serious cleaning performance and long-term reliability. The water-cooled motor, adjustable Power Control gun, and Karcher build quality make it a sound long-term investment over cheaper alternatives.

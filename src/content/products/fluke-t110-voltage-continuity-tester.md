@@ -56,16 +56,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-The Fluke T110 sits in the sweet spot of the Fluke two-pole tester range — more capable than the T90 but at a lower price than the T150. For the majority of UK electricians, it provides everything needed for daily safe isolation and voltage verification.
+The Fluke T110 sits in the sweet spot of the Fluke two-pole tester range — more capable than the basic T90 but at a lower price than the T150. For the majority of UK electricians, it provides everything needed for daily safe isolation and voltage verification.
+
+### Safe Isolation Procedure
+
+Under HSE guidance note GS38, the safe isolation procedure requires a two-pole tester to be verified against a known voltage source using a proving unit before and after use — confirming the tester itself is working correctly before it is used to declare a circuit dead. The Fluke T110 paired with the Fluke PRV proving unit (sold separately) completes this procedure. The proving unit applies a known voltage that the T110 should detect; if it does not, the tester is faulty and should not be used for safe isolation work.
 
 ### Switchable Load
 
-The switchable load is the feature that separates serious two-pole testers from basic voltage indicators. When testing cables in trunking or conduit, induced voltages from adjacent live cables can give false readings. The switchable load applies a low-impedance load that collapses ghost voltages while displaying genuine supply voltages accurately.
+The switchable load is the feature that separates professional two-pole testers from basic voltage indicators. Cables run in trunking or conduit alongside live circuits develop induced voltages capacitively — a 230V supply can induce voltages of 50-100V into an adjacent dead cable. A basic high-impedance voltage indicator will display this induced voltage as a live reading, potentially causing an electrician to believe a dead circuit is live. The T110's switchable load collapses these ghost voltages while accurately displaying genuine supply voltages.
 
-### Safety Ratings
+### CAT Rating
 
-Rated to CAT III 690V and CAT IV 600V, the T110 is suitable for testing at distribution boards and at the origin of the supply. Combined with a Fluke PRV proving unit (sold separately), it meets the requirements of HSE guidance note GS38 for safe electrical testing.
+The T110 is rated CAT III 690V and CAT IV 600V. CAT IV 600V is the rating required for testing at the origin of the electrical installation — at the meter and main incoming supply — and at service entrance equipment. Most domestic and light commercial electrical work falls within CAT III, but the CAT IV rating provides additional overvoltage protection margin at distribution boards fed directly from street supplies.
+
+### IP64 for Site Conditions
+
+Rated IP64, the T110 is dust-tight and splash-proof — adequate for all typical construction site and commercial electrical installation conditions.
 
 ### Verdict
 
-The Fluke T110 is the two-pole tester that balances capability, safety, and price for the working UK electrician. Its switchable load and CAT IV rating provide the safety margins that cheaper alternatives lack, and Fluke's reputation for reliability means it will last years of daily site use.
+The Fluke T110 balances capability, safety rating, and price for the working UK electrician. The switchable load, CAT IV rating, and Fluke's long-term reliability make it the professional standard for daily safe isolation and voltage testing.

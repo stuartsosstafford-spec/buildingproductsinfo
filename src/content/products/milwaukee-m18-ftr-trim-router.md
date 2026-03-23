@@ -54,16 +54,24 @@ metaDescription: "Full specifications and product information for the Milwaukee 
 
 ## In-Depth Look
 
-The Milwaukee M18 FTR represents a genuine step change in cordless routing. For the first time, a battery-powered trim router can genuinely match the speed and consistency of a mains-powered equivalent.
+The Milwaukee M18 FTR represents a genuine step change in cordless routing. For the first time, a battery-powered trim router can genuinely match the speed and consistency of a mains-powered equivalent — removing the last practical reason to keep a corded router in the van.
 
 ### Power Under Load
 
-The POWERSTATE brushless motor is the defining feature. While other cordless routers bog down when cutting through dense hardwood or thick MDF, the M18 FTR maintains its RPM, delivering cleaner cuts with less burning. The variable speed dial lets you match the speed to the material, from 10,000 RPM for plastics up to 31,000 RPM for hardwoods.
+The POWERSTATE brushless motor is the defining feature. While other cordless routers drop speed under load in dense hardwood or thick MDF — producing burning, chatter, and a poor finish — the M18 FTR maintains its set RPM through the cut. The variable speed dial covers 10,000 RPM for routing plastics and soft materials up to 31,000 RPM for hardwood profiling and high-speed trimming.
 
 ### Plunge Base
 
-The included plunge base with three adjustable stop pins transforms this from a simple edge trimmer into a versatile mortising tool. Kitchen fitters use it for hinge recesses, joiners for lock mortises, and the micro-adjustment system ensures repeatable depth across multiple workpieces.
+The included plunge base with three adjustable stop pins transforms this from a simple edge trimmer into a versatile mortising tool. Kitchen fitters use it for hinge recesses and lock pockets; joiners for lock mortises and housing joints. The three-position stop allows a multi-pass mortise to be completed at progressively increasing depths without resetting the depth collar between passes. The 0.4mm micro-adjustment ensures repeatability across an entire run of identical workpieces.
+
+### Fixed Base and Edge Guide
+
+The fixed base is the primary working configuration for most edge profiling and template work. The supplied edge guide attaches to the base for parallel-to-edge routing without a template, and its fine adjustment allows precise fence positioning. For template routing, template guide bushes attach to the base plate in the standard 30mm pattern used across most routing systems.
+
+### Collet Sizes
+
+The M18 FTR accepts both 6mm and 6.35mm (¼ inch) collets. UK router bits are predominantly 6mm shank; ¼ inch is the US/import standard. Both collets are typically supplied with the tool, giving access to the full range of bits from both markets.
 
 ### Verdict
 
-The M18 FTR is a premium tool at a premium price, but for joiners and kitchen fitters who route daily, it pays for itself in convenience and quality of cut. It is the benchmark by which all other cordless routers are measured.
+The M18 FTR is a premium tool at a premium price, but for joiners and kitchen fitters who route daily, it eliminates mains dependency without any performance penalty. It is the benchmark cordless trim router in the UK professional market.

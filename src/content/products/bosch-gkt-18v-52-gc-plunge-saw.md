@@ -54,16 +54,24 @@ metaDescription: "Full specifications and product information for the Bosch Prof
 
 ## In-Depth Look
 
-The Bosch GKT 18V-52 GC is a serious piece of kit aimed at professionals who make their living cutting sheet materials to precision tolerances. It represents Bosch's top-tier BITURBO technology in a plunge saw format.
+The Bosch GKT 18V-52 GC is a serious piece of kit aimed at professionals who make their living cutting sheet materials to precision tolerances. It represents Bosch's top-tier BITURBO technology applied to a plunge saw format — the tool that shopfitters, kitchen installers, and site carpenters reach for when accuracy in sheet material is the priority.
 
 ### Multi-Rail Compatibility
 
-The headline feature for many buyers is four-brand guide rail compatibility. If you already own Festool, Makita or Mafell rails, you do not need to buy new ones. This is a significant cost saving and a genuine differentiator in a market where rail lock-in is common.
+The headline feature for many buyers is four-brand guide rail compatibility: Bosch, Festool, Mafell, and Makita rails all work with the GKT 18V-52 GC using the supplied adaptor. If you already own a Festool or Makita rail system, you do not need to replace it. This is a significant cost saving and a genuine market differentiator, as most plunge saws lock you into the manufacturer's own rail system.
 
-### BITURBO Performance
+### BITURBO Motor Performance
 
-Tested by UK trade reviewers against corded plunge saws, the GKT 18V-52 GC cuts MDF, plywood and hardwood sheet goods at near-identical speeds. The variable speed range from 2,800 to 5,500 RPM lets you optimise for different materials, and the Connectivity Module allows fine-tuning via the Bosch app.
+The BITURBO brushless motor uses a dual-battery architecture through the ProCORE18V system, effectively creating a 36V equivalent performance from two 18V batteries. In UK trade testing, the GKT cuts MDF, plywood, and hardwood sheet goods at near-identical speeds to corded equivalents in the same class. The variable speed range — 2,800 to 5,500 RPM — allows the user to optimise blade speed for the material, and the Bosch Connectivity Module (GCM) provides fine speed control and overload protection via the Bosch app.
+
+### Cut Quality and Splinter Guard
+
+The anti-splinter insert sits alongside the blade, minimising tearout on the upper face of the workpiece. For kitchen worktop cutting, veneered plywood, and laminate flooring, this reduces the need for masking tape and hand sanding. The 10mm wall clearance means the blade can reach cut lines close to a wall face without body interference.
+
+### Battery Consideration
+
+Best performance requires ProCORE18V 8.0Ah batteries. Standard Bosch 18V batteries work but deliver reduced power and shorter runtime. For professionals investing in this tool, budgeting for ProCORE batteries is worthwhile.
 
 ### Verdict
 
-The GKT 18V-52 GC is a premium investment, but for professionals who cut sheet materials daily, the combination of cordless freedom, corded-equivalent power, and multi-brand rail compatibility makes it a compelling proposition. It is one of the most capable cordless plunge saws available in the UK.
+The GKT 18V-52 GC is a premium investment justified for professionals cutting sheet materials daily. Cordless freedom, corded-equivalent BITURBO power, and multi-brand rail compatibility place it among the most capable plunge saws in the UK market.

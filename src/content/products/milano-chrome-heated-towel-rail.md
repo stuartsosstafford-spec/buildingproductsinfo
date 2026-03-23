@@ -56,12 +56,20 @@ The heated towel rail has replaced the traditional bathroom radiator in most UK 
 
 ### Central Heating Connection
 
-This towel rail connects to the central heating system via standard 15mm pipework, just like a radiator. It is controlled by thermostatic radiator valves (TRVs) for individual room temperature control. For plumbers, installation is identical to fitting any radiator.
+This towel rail connects to the central heating system via standard 15mm pipework, just like a radiator. It is typically controlled by a thermostatic radiator valve (TRV) on the flow connection and a lockshield valve on the return, allowing individual temperature control for the bathroom. For plumbers, installation is identical to fitting any panel radiator — fill, vent, and balance in the same way.
+
+### BTU Output and Sizing
+
+The 800mm x 600mm size produces approximately 1,300 BTU/h output, which is sufficient to maintain comfortable bathroom temperatures during the heating season. For larger bathrooms — typically above 6 square metres — or bathrooms with poor insulation or external walls, a second panel radiator may be needed to supplement the towel rail. For standard UK bathroom sizes, the 800x600 is adequate as the sole heat source.
+
+### TRV or Manual Valve
+
+Fitting a TRV on a heated towel rail is good practice — it allows the bathroom to be kept warmer than the rest of the house when the central heating is running, and saves energy by turning down in summer. Manual lockshield valves on both sides are a cheaper alternative but offer no individual temperature control.
 
 ### Chrome Finish
 
-Polished chrome remains the most popular finish for bathroom fixtures because it complements virtually every colour scheme and tile choice. The flat-bar design is the classic heated towel rail profile — practical for draping towels and visually clean.
+Polished chrome remains the most popular finish for bathroom fixtures because it complements virtually every colour scheme and tile choice. The flat-bar design drapes towels effectively and maintains a clean visual appearance. Regular cleaning with a damp cloth and occasional chrome polish keeps the finish looking sharp.
 
 ### Verdict
 
-The Milano chrome heated towel rail is the bathroom upgrade that adds both function and comfort. Warm towels after a shower are one of those small luxuries that homeowners notice and appreciate every day, and the dual heating function means no separate radiator is needed.
+The Milano chrome heated towel rail is the straightforward bathroom upgrade that adds both function and comfort. The 800x600mm size suits most standard UK bathrooms, and the central heating connection means no separate electrical supply is needed.

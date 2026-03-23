@@ -58,16 +58,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-The Luceco FType has quietly dominated the UK fire-rated downlight market by solving a simple problem: electricians used to carry warm white, cool white and daylight downlights separately. The FType MK2 CCT combines all four colour temperatures in one unit.
+The Luceco FType has quietly dominated the UK fire-rated downlight market by solving a simple problem: electricians used to carry warm white, cool white, and daylight downlights separately. The FType MK2 CCT combines all four colour temperatures in one unit, reducing van stock and eliminating the risk of ordering the wrong temperature for a job.
 
 ### Colour Temperature Selection
 
-A simple slide switch on the back of the fitting lets you choose between 2700K (warm white), 3000K (neutral white), 4000K (cool white), and 6500K (daylight). This means the same downlight works in a cosy living room at 2700K and a bright kitchen at 4000K — decided at the point of installation, not at the point of purchase.
+A slide switch on the back of the fitting selects between 2700K (warm white — suitable for bedrooms and living areas), 3000K (neutral white — a versatile option for most domestic spaces), 4000K (cool white — popular for kitchens and home offices), and 6500K (daylight — task areas and garages). The selection is made before the bezel is clipped into position. Once installed, the switch is not easily accessible without removing the bezel, so confirming the correct colour temperature before installation is important.
 
-### Fire Rating and IP65
+### Power Change Switch
 
-The FType MK2 is fire rated to 30, 60 and 90 minutes, meeting Building Regulations Part B requirements for all domestic ceiling installations. The IP65 rating means it is suitable for bathrooms and wet areas, eliminating the need for separate bathroom-specific fittings.
+A separate switch selects 4W or 6W output. The 4W setting is adequate for most bedroom and living room applications; 6W provides noticeably higher output for kitchens, bathrooms, and areas where task lighting matters. The ability to adjust output at the fitting reduces the need to stock two separate wattage products.
+
+### Building Regulations Compliance
+
+The fire rating to 30/60/90 minutes satisfies Building Regulations Part B (fire safety) requirements for downlights in ceilings that form part of a fire compartment — which is the case for virtually all domestic ceiling installations between floors or below lofts. IP65 satisfies Part P requirements for zone-rated bathroom luminaires in zones 1 and 2.
+
+### Installation
+
+The push-fit terminal block accepts standard 1.0mm and 1.5mm two-core-and-earth cable without requiring a screwdriver — the cable simply inserts and locks. This speeds up multiple-fitting installations significantly. The 70mm cut-out is a standard size that fits new plasterboard installations and most existing halogen cut-outs.
 
 ### Verdict
 
-The Luceco FType MK2 CCT is the fire-rated downlight that simplifies life for electricians and gives homeowners a better result. Its selectable colour temperature, IP65 rating, and competitive price make it the obvious choice for domestic lighting installations.
+The Luceco FType MK2 CCT is the fire-rated downlight that simplifies stock, speeds up installation, and gives homeowners flexibility over the final lighting result. Its selectable colour temperature, IP65 rating, and push-fit wiring make it the obvious choice for domestic electrical work.

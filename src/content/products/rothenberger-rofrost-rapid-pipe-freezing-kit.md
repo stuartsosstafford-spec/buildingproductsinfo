@@ -52,16 +52,24 @@ metaDescription: "Full specifications and product information for the Rothenberg
 
 ## In-Depth Look
 
-The Rothenberger Rofrost Rapid is one of those tools that pays for itself on the first job. Instead of spending an hour draining a system, making a repair, refilling, bleeding and re-pressurising, you freeze the pipe, do the work, and move on.
+The Rothenberger Rofrost Rapid is one of those tools that pays for itself on the first job. Instead of spending an hour draining a system, making a repair, refilling, bleeding, and re-pressurising, you freeze the pipe, do the work, and move on.
 
-### How It Works
+### How the Freeze Works
 
-The insulated clamp wraps around the copper pipe and the freeze spray is applied through the clamp's inlet. The refrigerant rapidly cools the pipe, freezing the water inside to create a solid ice plug. As long as the plug remains frozen, you have a dry pipe to work on upstream or downstream.
+The insulated clamp wraps around the copper pipe and the freeze spray is applied through the clamp's aerosol inlet port. The refrigerant gas (difluoroethane) cools the pipe wall rapidly, freezing the water inside to create a solid ice plug in the pipe bore. Typical freeze time is 5-10 minutes depending on pipe temperature and whether the water in the pipe is static — the water must not be flowing for the plug to form. Once formed, the ice plug holds as long as the pipe remains below 0°C. Working time in an unheated property or on a cold day is longer than in a warm room.
 
-### Time Savings
+### Pipe Preparation
 
-For a straightforward valve swap or tee insertion, the Rofrost Rapid can save 30-60 minutes compared to a full drain-down. In occupied properties — particularly flats and commercial buildings where a drain-down affects multiple areas — the time saving and convenience are even greater.
+The pipe must be clean and the clamp positioned in a straight section at least 200mm from any fitting or valve. Scaling or heavily corroded pipe can reduce freeze effectiveness. For heavily scaled systems, the freeze time may need to be extended, and a test squeeze of the pipe with pipe grips confirms whether the plug is solid before cutting.
+
+### Time and Cost Savings
+
+For a straightforward valve swap or tee insertion on a domestic heating circuit, the Rofrost Rapid typically saves 30-60 minutes compared to a full drain-down, refill, and bleed. In multi-unit flats or commercial properties where a drain-down affects multiple tenants or requires coordinating with building management, the saving is significantly greater. The consumable freeze spray cans are the ongoing cost; a single can typically covers two or three freeze operations on 15mm pipe.
+
+### Limitations
+
+The kit covers 15mm and 22mm copper pipe only. Pipes with flowing water — such as a live mains supply with no isolation — cannot be frozen. Very short pipe runs between fittings may not allow enough straight length for the clamp to work effectively.
 
 ### Verdict
 
-The Rothenberger Rofrost Rapid is an essential van tool for any plumber who values their time. The upfront cost is recovered after just one or two jobs where it eliminates a drain-down, and the reliability of the patented clamp system means you can trust it on customer properties.
+The Rothenberger Rofrost Rapid is an essential van tool for plumbers who value their time. The upfront cost is recovered in one or two jobs where it eliminates a drain-down, and the patented clamp system delivers reliable results on occupied properties.

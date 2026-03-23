@@ -52,16 +52,24 @@ metaDescription: "Full specifications and product information for the Husqvarna 
 
 ## In-Depth Look
 
-Robotic mowers have moved from novelty to necessity for many homeowners, and the Husqvarna Automower Aspire R4 is the entry point from the brand that has more robotic mowing experience than any other manufacturer.
+Robotic mowers have moved from novelty to mainstream, and the Husqvarna Automower Aspire R4 is the entry point from the brand that has more robotic mowing experience than any other manufacturer. Husqvarna pioneered the category in 1995, and the Aspire range distils that experience into an accessible unit for domestic gardens.
 
 ### How It Works
 
-A boundary wire is installed around the perimeter of the lawn (either pegged to the surface or buried just below it). The Automower navigates within this boundary, cutting grass in a random pattern that ensures complete coverage over time. When the battery runs low, it returns to the charging station automatically.
+A boundary wire is installed around the perimeter of the lawn — either pegged to the surface or buried just below it — and around any obstacles such as flower beds or trees. The Automower navigates within this boundary using a random cutting pattern that ensures complete coverage over time. When the battery runs low, it detects the boundary wire signal and returns to the charging station automatically.
 
-### Micro-Cutting
+### Boundary Wire Installation
 
-Rather than cutting the grass short once a week, the Automower trims a small amount frequently. This mulch-mowing approach returns fine clippings to the soil as fertiliser, promoting denser, healthier grass without the stress of heavy cuts. The result is a lawn that looks consistently maintained.
+Initial setup requires laying and fixing the boundary wire — typically a two to three hour job for an average-sized garden. The wire can be pegged above ground using the supplied pegs, or buried 5-10mm below the surface for a neater result. Corners and narrow passages require careful routing to prevent the mower from becoming confused. Husqvarna provides clear installation guides, and professional installation services are available through Husqvarna dealers for more complex garden layouts.
+
+### Micro-Cutting and Lawn Health
+
+Rather than cutting the grass short once a week, the Automower trims a small amount frequently. This mulch-mowing approach returns fine clippings to the soil as natural fertiliser, promoting denser and healthier grass growth. The result is a consistently maintained lawn without the stress response that a heavy weekly cut can trigger in dry weather.
+
+### Weather Timer
+
+The weather timer feature adjusts the mowing schedule based on grass growth rate — mowing more frequently during rapid spring growth and reducing sessions during dry spells when growth slows. This extends battery life and blade life while keeping the lawn at a consistent height.
 
 ### Verdict
 
-The Husqvarna Automower Aspire R4 is the robotic mower that makes sense for UK gardens up to 400m². The Husqvarna pedigree, app control, and quiet operation make it a genuine set-and-forget solution for lawn maintenance.
+The Husqvarna Automower Aspire R4 is the robotic mower that makes sense for UK gardens up to 400m². The Husqvarna pedigree, app control, micro-cutting benefits, and quiet 59 dB operation make it a genuine set-and-forget solution for lawn maintenance.

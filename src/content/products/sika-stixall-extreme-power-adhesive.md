@@ -54,15 +54,23 @@ relatedGuides:
 
 ## In-Depth Look
 
-Sika Stixall is the adhesive that solved the wet substrate problem. On UK building sites, waiting for surfaces to dry before bonding is often impractical, and Stixall's ability to grip on damp and even underwater surfaces has made it a genuine go-to product.
+Sika Stixall is the adhesive that solved the wet substrate problem. On UK building sites, waiting for surfaces to dry before bonding is often impractical, and Stixall's ability to grip on damp and even underwater surfaces has made it a genuine go-to product across multiple trades.
 
 ### Hybrid Polymer Technology
 
-Unlike silicone sealants (which do not paint) or polyurethane adhesives (which foam and expand), Stixall uses a hybrid polymer that combines the best properties of both. It bonds with high strength, remains permanently flexible, can be painted over, and does not foam or shrink.
+Unlike silicone sealants (which do not accept paint) or polyurethane adhesives (which foam, expand, and can push lightweight panels off position), Stixall uses a hybrid polymer that combines the best properties of both. It bonds with high initial grab, remains permanently flexible after cure, accepts paint and finishes, and does not foam or shrink. This combination of properties is difficult to achieve with any single-chemistry alternative.
 
 ### Universal Bonding
 
-Stixall bonds to wood, metal, concrete, brick, stone, glass, ceramic, most plastics, and even polystyrene without dissolving it. This universality means one product in the van replaces several specialist adhesives, which is why it has become a default choice for tradespeople.
+Stixall bonds to wood, metal, concrete, brick, stone, glass, ceramic, most plastics, and even polystyrene — without dissolving the surface. In practice this means one product in the van replaces a grab adhesive, a flexible sealant, and a construction adhesive. The ability to bond wet and submerged surfaces is particularly valuable for bathroom and external applications where waiting for a substrate to dry is impractical.
+
+### Open Time and Application
+
+From a 290ml cartridge, open time after gun application is approximately 10-15 minutes before the skin forms, giving enough working time to adjust panel positions. Full cure proceeds at 3mm depth per 24 hours — a slower full cure than polyurethane, but adequate for most applications. The cartridge requires a standard mastic gun; a ratchet-release gun prevents drip when the trigger is released.
+
+### Temperature Range
+
+Cured Stixall remains flexible and bonded from -40°C to +100°C, which covers virtually all UK construction applications including external cladding, roofline fixings, and high-temperature areas near flue pipes.
 
 ### Verdict
 

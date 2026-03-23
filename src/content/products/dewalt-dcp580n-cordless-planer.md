@@ -56,16 +56,24 @@ metaDescription: "Full specifications and product information for the DeWalt DCP
 
 ## In-Depth Look
 
-The DeWalt DCP580N is one of those tools that consistently appears at the top of every "best cordless planer" list in the UK, and for good reason. It does one job exceptionally well: removing small amounts of material with precision.
+The DeWalt DCP580N is one of those tools that consistently appears at the top of every "best cordless planer" list in the UK, and for good reason. It does one job exceptionally well: removing small amounts of material from timber with precision.
 
 ### Door Fitting
 
-This is where the DCP580N truly excels. The 9mm rebate capacity means you can plane a door edge to fit a frame without multiple passes, and the 0.1mm depth adjustment gives you the control to take off exactly the right amount. For joiners hanging multiple doors in a day, the cordless convenience and precise control save significant time.
+This is where the DCP580N truly excels. The 9mm rebate capacity is the best-in-class figure for an 18V cordless planer — most competitors manage 6-7mm. This allows a full door edge rebate in a single pass rather than multiple shallow cuts. The 0.1mm depth adjustment lets you dial in exactly the material removal needed; when you are taking off 0.5mm to ease a binding door, this level of precision prevents the common mistake of removing too much and leaving a visible gap. For joiners hanging multiple doors in a day, the cordless convenience eliminates trailing leads across finished floors.
 
 ### Blade Economy
 
-The twin reversible TCT blades give you four cutting edges before you need a replacement set. This is a meaningful cost saving over single-use HSS blades, and the TCT edges stay sharper for longer, particularly when planing hardwood or MDF.
+The twin reversible TCT blades give four cutting edges before you need a replacement set. TCT edges stay sharper for longer than HSS, particularly when planing hardwood, MDF, or timber with occasional grit contamination. The reversal mechanism is tool-free and takes under a minute, meaning you can swap to a fresh edge on site without losing time.
+
+### Dust and Chip Management
+
+Chips eject from either side via a switchable deflector, which directs the output away from the user and finished surfaces. A dust bag can be connected for cleaner working inside, though it is sold separately. For external door fitting or rough carpentry, the chip deflector alone is adequate.
+
+### Depth Settings
+
+The front shoe height relative to the rear shoe determines the depth of cut, with 0.1mm increments from zero to 2mm maximum. The V-groove running lengthways in the front shoe allows accurate chamfering of edges without a jig.
 
 ### Verdict
 
-The DCP580N is the cordless planer that other manufacturers benchmark against. Its precision, rebate capacity, and brushless efficiency make it an essential addition to any joiner's or carpenter's tool kit.
+The DCP580N is the cordless planer that other manufacturers benchmark against. Its 9mm rebate capacity, 0.1mm precision adjustment, and brushless efficiency make it the definitive choice for joiners and carpenters who fit doors and trim timber on site.

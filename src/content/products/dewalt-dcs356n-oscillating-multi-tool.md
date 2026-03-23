@@ -54,14 +54,22 @@ metaDescription: "Full specifications and product information for the DeWalt DCS
 
 The DeWalt DCS356N has become one of the most popular oscillating multi-tools among UK tradespeople, earning a reputation for reliability and versatility across multiple trades.
 
-### Versatility
+### Blade Selection by Application
 
-Where this tool really shines is its ability to handle cutting, scraping, sanding and grout removal with a single tool and a quick blade swap. The Quick-Change system means you can switch accessories in seconds without reaching for an Allen key, and the universal adaptor ensures compatibility with blades from Bosch, Fein, and other manufacturers.
+The tool's practical value depends heavily on matching the blade to the task. Bi-metal segment blades cut timber, plastic, and non-ferrous metals. Carbide blades tackle hardened grout, ceramic tiles, and masonry. Sanding pads are used for contour sanding and surface prep in corners. Scraper blades remove adhesive, old sealant, and floor levelling compound. With the Quick-Change system and universal adaptor, switching between applications takes seconds rather than the minute spent wrestling with an Allen key on older tools.
 
 ### Brushless Advantage
 
-The brushless motor is not just about runtime — it also means significantly less vibration and noise than brushed alternatives. For tradespeople doing hours of internal work, this makes a noticeable difference to comfort and fatigue levels by the end of the day.
+The brushless motor delivers two advantages over brushed alternatives: more runtime per charge and significantly less vibration. The 1.6-degree oscillation angle is narrower than some rivals, which means lower vibration transferred to the hand during extended use. For tradespeople doing hours of internal work — flush cutting, grout removal, or repeated sanding passes — reduced vibration translates directly to lower fatigue by the end of the day.
+
+### Speed Settings
+
+The three-stage speed selector runs from low (for delicate cutting in thin plastics or veneered MDF), through mid (general cutting and scraping), to high (maximum material removal rate at 20,000 OPM). The dual-grip variable speed trigger provides fine control within each stage for precision work close to finished surfaces.
+
+### Universal Blade Compatibility
+
+The included universal adaptor means your existing collection of Bosch, Fein, or Starlock blades is not wasted. DeWalt's own Quick-Change blades are also readily available and competitively priced.
 
 ### Verdict
 
-The DCS356N is the multi-tool that earns its place in every trade van. Its combination of brushless efficiency, universal blade compatibility, and Quick-Change convenience makes it one of the most practical additions to the DeWalt 18V XR platform.
+The DCS356N is the multi-tool that earns its place in every trade van. Brushless efficiency, universal blade compatibility, and the Quick-Change system combine to make it one of the most practical tools in the DeWalt 18V XR platform.

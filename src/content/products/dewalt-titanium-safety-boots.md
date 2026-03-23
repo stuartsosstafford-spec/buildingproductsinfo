@@ -56,14 +56,22 @@ relatedGuides:
 
 Safety boots are the one piece of PPE that every construction worker wears every day, and getting them wrong means sore feet, blisters, and distraction from the job. The DeWalt Titanium has earned its reputation by getting the balance right between protection, comfort, and durability.
 
-### S3 Protection
+### S3 Rating Explained
 
-The S3 rating means the Titanium provides steel toe cap protection against 200-joule impacts, a steel midsole that prevents nail and sharp object penetration through the sole, and a waterproof upper. This is the minimum protection level required on most UK construction sites.
+The S3 rating under EN ISO 20345:2011 requires the boot to provide steel toe cap protection against 200-joule impacts, a penetration-resistant steel midsole that stops nails and sharp objects from passing through the sole, and a waterproof upper. The SRA suffix indicates the sole is tested for slip resistance on ceramic tile with sodium lauryl sulphate solution — a standard test for construction site conditions. S3 SRA is the rating specified by most UK principal contractors for mandatory site footwear.
+
+### Break-In Period
+
+Full-grain leather boots require a short break-in period before they reach maximum comfort. The Titanium typically needs two to three days of wear before the leather softens and moulds to the foot. Wearing thin socks for the first few days can cause blisters; standard work socks of medium thickness are recommended during the break-in phase.
 
 ### All-Day Comfort
 
-The padded collar and tongue, combined with the cushioned insole, make the Titanium comfortable enough for full working days on hard surfaces. Many safety boots sacrifice comfort for protection, but the Titanium manages to deliver both.
+The padded collar and tongue, combined with the cushioned insole, make the Titanium comfortable enough for 10-hour days on hard surfaces. Many safety boots sacrifice comfort for protection, but the Titanium manages both. The steel toe cap adds weight compared to composite alternatives — approximately 200-300g extra over a full working day — which some workers notice on very long shifts on stairs or scaffolding.
+
+### Durability
+
+The DeWalt Titanium's longevity is its other key strength. Full-grain leather with proper cleaning and occasional conditioning will outlast synthetic alternatives by a significant margin. Many UK tradespeople report 12-18 months of heavy site use before replacement — a strong return on investment at the Titanium's price point.
 
 ### Verdict
 
-The DeWalt Titanium is the safety boot that UK tradespeople have trusted for years. It meets all site safety requirements, keeps feet dry and comfortable, and lasts well under heavy use. When your current pair wears out, you buy the same ones again.
+The DeWalt Titanium is the safety boot that UK tradespeople have trusted for years. It meets S3 SRA site requirements, keeps feet dry and comfortable all day, and lasts well under heavy use.

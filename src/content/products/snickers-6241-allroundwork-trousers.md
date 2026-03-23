@@ -54,16 +54,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-Snickers work trousers have become the uniform of serious UK tradespeople. The 6241 AllroundWork is the model that balances all the features most workers need — stretch, knee pad pockets, holster pockets and durability — without being over-specified for any single trade.
+Snickers work trousers have become the uniform of serious UK tradespeople across all disciplines. The 6241 AllroundWork is the model that balances all the features most workers need — stretch, knee pad pockets, holster pockets, and durability — without being over-specified for any single trade.
 
-### 4-Way Stretch
+### 4-Way Stretch Fabric
 
-The stretch fabric is the feature that converts people from standard work trousers. Climbing ladders, kneeling under sinks, reaching into ceiling voids — every awkward position on site becomes more comfortable when the fabric moves with you instead of fighting against you.
+The stretch fabric is the feature that converts people from standard work trousers. Climbing ladders, kneeling under sinks, reaching into ceiling voids — every awkward position on site becomes more comfortable when the fabric moves with the body instead of pulling tight. The difference is immediately noticeable in squatting and kneeling positions that rigid cotton canvas work trousers resist and restrict.
+
+### Cordura Knee Pad Pockets
+
+The KneeGuard knee pad pocket system uses Cordura-reinforced fabric in the knee area and a built-in pocket that accepts Snickers knee pad inserts. The Cordura provides abrasion resistance where the trouser contacts hard surfaces during kneeling work, and the structured pocket holds the knee pad in the correct anatomical position throughout movement. Knee pads are sold separately — the D3O Lite or FlexiWork pads are the most commonly paired option.
 
 ### Holster Pocket System
 
-The integrated holster pockets keep pencils, screwdrivers, pliers and other hand tools immediately accessible without the bulk and weight of a tool belt. For trades that use a limited number of hand tools throughout the day, holster pockets are faster and more comfortable than constantly reaching for a belt or pouch.
+The integrated holster pockets keep pencils, screwdrivers, pliers, and similar hand tools immediately accessible without the bulk and weight of a tool belt. For trades that use a limited set of hand tools throughout the day — electricians, plumbers, carpenters — holster pockets are faster and more comfortable than constantly reaching for a belt pouch.
+
+### Sizing
+
+Snickers sizing runs by waist measurement and leg length independently, giving a much better fit than high-street trouser sizing. Tradespeople upgrading from generic work trousers commonly find they need to size down on the waist and confirm the correct leg length separately. Checking the Snickers sizing chart before ordering is strongly recommended.
 
 ### Verdict
 
-Snickers 6241 AllroundWork trousers are the work trousers that justify their price premium every working day. The stretch fabric, Cordura durability and intelligent pocket layout make them the standard by which all other work trousers are measured.
+Snickers 6241 AllroundWork trousers justify their price premium every working day. The stretch fabric, Cordura durability, KneeGuard system, and holster pockets make them the standard by which all other work trousers are measured.
