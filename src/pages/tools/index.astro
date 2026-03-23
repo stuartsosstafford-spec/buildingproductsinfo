@@ -25,14 +25,14 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
 })));
 ---
 <BaseLayout
-  title={categoryLabel}
+  title="Trade Power Tools & Hand Tools"
   description="Independent specifications and buying guides for hand tools, power tools, and trade accessories. Find the right tools for any job with detailed product information."
 >
   <SchemaOrg schema={listSchema} slot="head" />
   <div class="container">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1>{categoryLabel}</h1>
+    <h1>Trade Power Tools & Hand Tools</h1>
     <p style="margin-bottom:2rem;color:var(--color-text-light);">
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>

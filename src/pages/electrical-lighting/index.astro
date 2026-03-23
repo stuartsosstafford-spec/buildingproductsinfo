@@ -25,14 +25,14 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
 })));
 ---
 <BaseLayout
-  title={categoryLabel}
+  title="Electrical & Lighting Products"
   description="Independent product information for electrical and lighting products. Specifications, IP ratings, and buying advice for trade electricians, contractors, and DIYers."
 >
   <SchemaOrg schema={listSchema} slot="head" />
   <div class="container">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1>{categoryLabel}</h1>
+    <h1>Electrical & Lighting Products</h1>
     <p style="margin-bottom:2rem;color:var(--color-text-light);">
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>

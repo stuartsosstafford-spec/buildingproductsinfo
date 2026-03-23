@@ -25,14 +25,14 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
 })));
 ---
 <BaseLayout
-  title={categoryLabel}
+  title="Landscaping & Garden Products"
   description="Product information for paving, decking, fencing, drainage, and landscaping equipment. Independent specifications for landscapers, contractors, and homeowners."
 >
   <SchemaOrg schema={listSchema} slot="head" />
   <div class="container">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1>{categoryLabel}</h1>
+    <h1>Landscaping & Garden Products</h1>
     <p style="margin-bottom:2rem;color:var(--color-text-light);">
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>

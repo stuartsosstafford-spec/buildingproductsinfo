@@ -25,14 +25,14 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
 })));
 ---
 <BaseLayout
-  title={categoryLabel}
+  title="Plumbing & Heating Products & Supplies"
   description="Technical specifications and buying guides for plumbing and heating products. Boilers, radiators, pipework, valves, and heating controls for trade and DIY."
 >
   <SchemaOrg schema={listSchema} slot="head" />
   <div class="container">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1>{categoryLabel}</h1>
+    <h1>Plumbing & Heating Products & Supplies</h1>
     <p style="margin-bottom:2rem;color:var(--color-text-light);">
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>

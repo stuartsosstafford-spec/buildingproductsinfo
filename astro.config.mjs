@@ -6,7 +6,6 @@ export default defineConfig({
   site: 'https://buildingproductsinfo.co.uk',
   integrations: [mdx(), sitemap({
     changefreq: 'weekly',
-    lastmod: new Date(),
   })],
   image: {
     service: {

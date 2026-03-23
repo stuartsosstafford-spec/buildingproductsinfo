@@ -25,14 +25,14 @@ const listSchema = itemListSchema(categoryLabel, products.map((p) => ({
 })));
 ---
 <BaseLayout
-  title={categoryLabel}
+  title="Building Materials & Supplies"
   description="Detailed specifications for building materials — insulation, timber, concrete, membranes, and roofing products. Independent information for trade and self-build projects."
 >
   <SchemaOrg schema={listSchema} slot="head" />
   <div class="container">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1>{categoryLabel}</h1>
+    <h1>Building Materials & Supplies</h1>
     <p style="margin-bottom:2rem;color:var(--color-text-light);">
       Browse our range of {categoryLabel.toLowerCase()} products with full specifications, key features, and independent product information.
     </p>
