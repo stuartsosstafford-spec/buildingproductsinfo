@@ -43,8 +43,20 @@ relatedGuides:
 
 ## In-Depth Look
 
-Fischer is the name most associated with wall fixings in the UK trade.
+Fischer is the name most associated with quality wall plugs in the UK trade. Where budget plugs can spin, crack, or pull out under load, Fischer DuoPower plugs are engineered to expand uniformly and hold securely across a wide range of substrates.
+
+### The DuoPower Advantage
+
+The DuoPower is a dual-material plug — a nylon outer shell with a softer inner zone — that expands differently depending on the substrate it encounters. In solid materials such as concrete and brick, the outer zone grips. In hollow materials such as plasterboard and cavity block, the inner zone collapses and locks behind the face, functioning similarly to a dedicated wall anchor. This genuine dual-mode performance makes it suitable for mixed-substrate situations, reducing the need to carry multiple specialist plug types.
+
+### What's in the FIXtainer
+
+The FIXtainer assortment is sorted into labelled compartments by size, typically covering S6, S8, and S10 plug sizes with corresponding screw gauges. The stackable case fits on a shelf or in van racking. Common sizes will deplete faster than others — particularly S6 for lighter fixings — so it is worth tracking which sizes need replenishing rather than simply buying a replacement box.
+
+### When to Use Fischer DuoPower
+
+The DuoPower range is appropriate for general fixings up to medium load requirements. For structural fixings, fixings in cracked concrete, or applications requiring a specified load certification, Fischer produce specialist anchor systems including the FIS injection anchor and the Bolt Anchor range. The FIXtainer assortment covers everyday general fixing tasks, not structural or safety-critical applications.
 
 ### Verdict
 
-Essential van stock for any tradesperson.
+Essential van stock for any tradesperson. Genuine Fischer quality, sorted storage, and DuoPower versatility across solid and hollow substrates make this the easiest fixings assortment to recommend.

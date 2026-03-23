@@ -50,8 +50,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-Grohe taps are a reliable mid-to-premium specification for kitchen installations.
+Grohe taps are a reliable mid-to-premium specification for kitchen installations across the UK. The Essence range has been a consistent seller for kitchen fitters looking for a contemporary single-lever tap that delivers long-term reliability without callbacks.
+
+### SilkMove Ceramic Cartridge
+
+The defining technical feature of the Grohe Essence is the SilkMove ceramic cartridge. Ceramic discs provide smooth, precise control over flow rate and temperature, with minimal resistance and no rubber washers to wear out or replace. A correctly installed ceramic cartridge tap should require no maintenance for the life of the kitchen. The 40mm cartridge size used in the Essence is a standard format, straightforward to replace by any competent plumber if required.
+
+### Pressure Compatibility
+
+The 0.2 bar minimum operating pressure makes the Essence compatible with low-pressure gravity-fed hot water systems — common in older UK properties with a cold water tank in the loft. It also works on mains-pressure unvented systems. Confirming the system pressure before specifying is always good practice; a tap that requires 0.5 bar minimum will fail to perform adequately on a gravity-fed supply.
+
+### Spout and Fixing
+
+The 263mm spout height clears most standard sink depths, and the 360° rotation allows the spout to be swung fully clear for filling large pots or cleaning the sink. The tap fits a standard 35mm hole and comes with flexible braided supply hoses. Installation is straightforward for a competent kitchen fitter.
+
+### StarLight Chrome Finish
+
+Grohe's multi-layer StarLight chrome plating is harder and more resistant to water spotting than standard chrome. The Essence is also available in brushed nickel, matte black, and brushed hard graphite if the client prefers an alternative finish to complement their kitchen hardware.
 
 ### Verdict
 
-A quality kitchen tap that kitchen fitters can confidently recommend.
+A quality kitchen mixer tap backed by a 5-year Grohe guarantee. The SilkMove ceramic cartridge, 360° spout, and low minimum pressure rating make it a reliable specification at this price point.

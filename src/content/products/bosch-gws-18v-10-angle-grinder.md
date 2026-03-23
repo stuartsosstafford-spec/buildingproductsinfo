@@ -47,12 +47,24 @@ metaDescription: "Full specifications for the Bosch GWS 18V-10 Professional cord
 
 ## In-Depth Look
 
-Cordless angle grinders have reached the point where they genuinely rival corded models. The Bosch GWS 18V-10 is one of the more refined options, with thoughtful safety features.
+Cordless angle grinders have reached the point where they genuinely rival corded models for most cutting and grinding tasks on site. The Bosch GWS 18V-10 is among the more refined options in the cordless 18V class, combining a brushless motor with electronic safety systems that are absent from most budget cordless grinders.
 
-### Safety Features
+### KickBack Control
 
-KickBack Control detects sudden stalls and shuts down the motor in a fraction of a second. Restart protection prevents the grinder from spinning up unexpectedly.
+KickBack Control is Bosch's electronic safety system that monitors the rotational dynamics of the disc in real time. When the disc stalls suddenly — typically when it binds in a cut — the system detects the rapid deceleration and cuts motor power in milliseconds. This is the moment at which most angle grinder injuries occur, as a stalled disc can cause the tool to kick back violently toward the operator. KickBack Control does not replace safe working technique, but it provides a meaningful safety margin that standard grinders lack.
+
+### Restart Protection
+
+Restart protection is a separate electronic feature that prevents the grinder from spinning up if the battery is connected with the trigger held in. This prevents unexpected starts when changing batteries on site — a common cause of incidents with conventional grinders. The operator must release and repull the trigger after any power interruption before the tool will run.
+
+### Brushless Motor and Battery Platform
+
+The brushless EC motor delivers higher efficiency than brushed motors, extending runtime per charge and producing less heat during sustained use. The GWS 18V-10 is compatible with Bosch 18V Professional (blue range) batteries including the higher-capacity CORE18V packs for demanding applications.
+
+### 115mm Disc Format
+
+The 115mm disc is well-suited to pipe cutting, metalwork preparation, tile cutting, and grinding in tight spaces. For higher-volume grinding or cutting of larger sections, the GWS 18V-15 (125mm) or mains grinders are more appropriate.
 
 ### Verdict
 
-A well-built cordless grinder with meaningful safety features for professionals who value both performance and safety.
+A well-built cordless grinder with KickBack Control and restart protection — meaningful safety features for any professional using the tool regularly in trade conditions.

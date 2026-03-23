@@ -44,8 +44,20 @@ relatedGuides:
 
 ## In-Depth Look
 
-The Greenstar 4000 sits in Worcester Bosch's mid-range lineup, offering a sensible balance of features, performance, and price.
+The Worcester Bosch Greenstar 4000 sits in the mid-range of the current Worcester Bosch combi boiler lineup, positioned above the entry-level models and below the premium Greenstar 8000 Style. Worcester Bosch is consistently rated as the most trusted boiler brand by UK heating engineers, supported by the strongest independent installer network in the country and readily available spare parts.
+
+### Sizing the 30kW Output
+
+The 30kW output is appropriate for a mid-sized property with a single bathroom, good radiator coverage, and reasonable hot water demand. Worcester Bosch specify a hot water flow rate of approximately 12 litres per minute at a 35°C temperature rise, which is adequate for a single shower or one active hot water outlet at a time. For properties with two bathrooms in simultaneous use, high-flow rainfall shower heads, or larger radiator systems, the 35kW variant or a system boiler with a hot water cylinder will be the better specification. Undersizing a combi boiler is the most common cause of poor hot water flow and heating performance complaints.
+
+### Hydrogen-Blend Ready
+
+The Greenstar 4000 is designed to operate on natural gas blended with up to 20% hydrogen. This future-proofing reflects the UK government's potential pathway to blend hydrogen into the existing gas distribution network as part of decarbonisation strategy. No hardware modification is required when operating on blended gas.
+
+### Installation Dimensions
+
+At 710 x 400 x 330mm, the Greenstar 4000 fits within a standard kitchen cupboard. The 330mm depth is useful when replacing an older boiler in a tight alcove or corner cabinet where clearance is limited. All gas and water connections are located at the base of the appliance.
 
 ### Verdict
 
-A solid, mid-range combi boiler from a well-established manufacturer. Practical choice for standard domestic installations.
+A reliable mid-range combi boiler from the most trusted name in UK domestic heating. Correct sizing is critical — specify the 30kW for standard single-bathroom properties and size up for higher demand installations.

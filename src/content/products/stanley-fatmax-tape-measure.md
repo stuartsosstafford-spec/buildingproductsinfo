@@ -49,12 +49,24 @@ metaDescription: "Full specifications for the Stanley FatMax 8m tape measure. 32
 
 ## In-Depth Look
 
-The Stanley FatMax has earned its place as the default tape measure for UK tradespeople. The combination of standout, durability, and measurement clarity makes it the benchmark.
+The Stanley FatMax has earned its place as the default tape measure on UK building sites. The combination of standout, durability, and measurement clarity sets it apart from standard tapes and makes it the benchmark against which alternatives are assessed.
 
 ### BladeArmor
 
-The first 150mm of the blade has a reinforced coating that resists the bending and wear at the hook end.
+The first 150mm of the blade has a reinforced protective coating that resists the bending, kinking, and wear that occur at the hook end during normal use. This section of the blade takes the most abuse — it bends sharply each time the tape retracts and is dragged across surfaces at angles. Standard tape blades develop a permanent set or kink in this area relatively quickly; BladeArmor significantly extends the life of this critical section, keeping the hook flat and measurements accurate.
+
+### Standout and Blade Width
+
+The 3.3m standout is directly related to the 32mm blade width — a wider blade is stiffer and extends further before buckling. This makes solo measuring practical on site: the hook locks onto a fixed point, the tape extends to 3 metres, and the reading is taken without a second person. The wider blade does make the case bulkier than a 25mm tape, which is a trade-off for trouser or tool belt storage.
+
+### Magnetic Hook
+
+The magnetic hook holds to steel structural members, metal framing channels, and steel door frames without slipping, which is useful for structural and drylining work. It functions normally on non-ferrous materials without any impairment.
+
+### Markings
+
+The dual-sided blade markings include metric and imperial, with stud spacings (600mm intervals) highlighted in red — a practical feature for partition installation and structural carpentry.
 
 ### Verdict
 
-A sensible investment for any tradesperson. It costs more than a basic tape measure but lasts significantly longer and makes solo work easier.
+A sensible daily investment for any tradesperson. The BladeArmor coating, standout, and magnetic hook make it earn its price premium over cheaper alternatives every day.

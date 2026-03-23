@@ -44,8 +44,20 @@ metaDescription: "Full specifications for Uvex Pheos safety spectacles. Anti-fog
 
 ## In-Depth Look
 
-Safety glasses that fog up get taken off. The Uvex Pheos anti-fog coating actually works, so people wear them.
+Safety spectacles that fog up get removed — that is the central compliance problem with eye protection on building sites. The Uvex Pheos addresses it with an anti-fog coating that genuinely performs, making them consistently the most-worn safety glasses at their price point.
+
+### Anti-Fog Performance
+
+The supravision excellence anti-fog coating is applied to the inner lens surface, where condensation forms when warm, humid air contacts cold lenses. The coating prevents the surface energy differential that causes water droplets to form — moisture spreads into a thin transparent film rather than condensing into opaque droplets. For tradespeople moving between cold and warm environments — from a cold van into a heated building, or from outdoors into a heated plant room — this is particularly valuable. Lower-quality anti-fog coatings degrade within weeks of use; the Uvex supravision coating maintains performance with normal cleaning over extended use.
+
+### EN 166 Certification
+
+The EN 166 1F T rating confirms the spectacles have been independently tested and certified to European PPE standards. Optical class 1 (the '1' prefix) is the highest available, meaning the lens does not introduce optical distortion — important for sustained wear where distorted vision causes fatigue. The 'F' designation confirms high-speed particle protection to 45 m/s; the 'T' confirms temperature resistance. This covers the vast majority of construction site and workshop environments including cutting, grinding, drilling, and chasing.
+
+### Ergonomics
+
+At 25g, the Pheos is one of the lightest safety spectacle frames available. The frame is designed to sit slightly away from the face, allowing air circulation that further reduces fogging. The temples have three adjustable length positions to fit different head sizes, though some users with wider-set eyes find the fit slightly narrow.
 
 ### Verdict
 
-Best value safety spectacles on the market. At under seven pounds there is no excuse not to have a fresh pair.
+The best-value safety spectacles on the market. EN 166 optical class 1 certification and genuine anti-fog performance at under £7 — there is no justification for wearing inferior eye protection on site.

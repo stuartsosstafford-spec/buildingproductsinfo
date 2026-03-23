@@ -41,8 +41,20 @@ metaDescription: "Full specifications for the Hive Active Heating thermostat. Ap
 
 ## In-Depth Look
 
-Smart thermostats are a standard upsell for heating engineers. Hive remains one of the most popular choices in the UK market with straightforward installation and genuine energy-saving benefits.
+Smart thermostats have become a standard upsell for heating engineers at service and installation appointments. Hive Active Heating remains one of the most popular choices in the UK market due to its reliable app, straightforward installation, and strong consumer brand recognition built through British Gas's national marketing campaigns.
+
+### Installation Requirements
+
+The Hive Active Heating system comprises the thermostat, a receiver (wired to the boiler's switching circuit), and the Hive Hub (connects to the home router via ethernet). Installation involves replacing an existing wired room thermostat or programmer with the receiver, which takes most heating engineers under an hour on a standard setup. Hive publish detailed wiring diagrams for common UK boiler configurations, and the Hive Pro installer programme provides technical support.
+
+### Geolocation and Scheduling
+
+Geolocation uses the homeowner's smartphone GPS to detect when they leave and approach home, adjusting heating automatically without manual intervention. This is the most effective energy-saving feature in everyday use, eliminating heating of empty properties. The scheduling function supports up to six time periods per day and can control heating and hot water independently. Multi-zone Hive systems support separate scheduling per zone.
+
+### Boiler Compatibility
+
+Hive Active Heating is compatible with most UK combi, system, and regular boiler installations including Worcester Bosch, Vaillant, Baxi, Ideal, and Alpha systems. It is not compatible with electric storage heaters. Compatibility with heat pumps depends on the specific system configuration — check with Hive before specifying on heat pump installations.
 
 ### Verdict
 
-A reliable, well-supported smart thermostat that heating engineers can confidently recommend.
+A reliable, well-supported smart thermostat that heating engineers can confidently recommend and install. The geolocation feature delivers genuine energy savings for most households without requiring any behavioural change from the homeowner.

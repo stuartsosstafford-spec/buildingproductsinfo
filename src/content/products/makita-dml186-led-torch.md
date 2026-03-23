@@ -44,8 +44,20 @@ metaDescription: "Full specifications for the Makita DML186 18V LXT LED Torch."
 
 ## In-Depth Look
 
-A practical always-in-the-bag tool for any Makita user.
+The DML186 is a practical, always-in-the-bag tool for any tradesperson already on the Makita 18V LXT platform. It is a torch rather than a site work light — 160 lumens is sufficient for close-work illumination, inspecting circuits and cavities, and seeing into dark meter cupboards or roof spaces, but it is not designed to flood a room.
+
+### Battery Platform Integration
+
+The DML186 accepts any Makita 18V LXT battery, from the compact 1.5Ah to the 6.0Ah extended packs. With a 3.0Ah battery, runtime is around 20 hours; with a 5.0Ah, approximately 33 hours. Because it uses batteries already on site for drills, saws, and other tools, there is no separate battery investment. The torch draws very little current compared to power tools, so a partially depleted battery that is not worth putting in a drill still gives hours of torch use.
+
+### Adjustable Head
+
+The head adjusts to six fixed positions, allowing the beam direction to range from parallel with the handle to perpendicular. This is practical when using the torch as a hands-free task light on a surface, or when directing the beam precisely while holding the tool in a fixed position with one hand.
+
+### Practical Limitations
+
+At 160 lumens and a single brightness setting, the DML186 is not a substitute for a dedicated site light on extended illumination tasks. Makita produce the DML805 and DML813 battery-powered site lights for area illumination requirements. The DML186 suits inspection lighting, close-work task lighting, and emergency illumination rather than general site lighting.
 
 ### Verdict
 
-A compact, lightweight torch that runs on batteries you already own. Affordable and practical.
+A compact, lightweight torch that runs on batteries you already own. Affordable and practical — it earns its place in any Makita 18V LXT user's bag without adding bulk or weight.

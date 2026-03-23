@@ -47,12 +47,24 @@ metaDescription: "Full specifications for the DeWalt DCN692N cordless framing na
 
 ## In-Depth Look
 
-The DCN692N is DeWalt's flagship framing nailer. It delivers the power to drive 90mm nails into softwood without a compressor.
+The DCN692N is DeWalt's flagship cordless first fix nailer. It delivers the power to drive 90mm ring-shank nails into structural softwood without a compressor, air line, or gas cartridge — a significant site efficiency improvement for timber frame construction, roofing, and first fix carpentry.
 
 ### Two-Speed Operation
 
-The dual speed switch optimises motor speed for different nail lengths. This extends battery life significantly on mixed-length nailing tasks.
+The dual-speed switch selects between a high-speed setting for longer nails (75–90mm) and a lower-speed setting optimised for shorter nails (50–64mm). Matching motor speed to nail length extends battery life significantly on mixed nailing tasks and reduces the risk of driving shorter nails too deep — a common issue with pneumatic nailers set up for maximum nail length.
+
+### Sequential vs Bump Fire
+
+Sequential mode — press the contact foot, then pull the trigger — drives one nail per trigger pull, giving precision for each fixing position. Bump fire mode allows continuous nailing by holding the trigger and bouncing the contact foot against each fixing point, significantly increasing speed for repetitive work such as roofing battens and studwork. Most carpenters use sequential for precise positioning and bump fire for volume work.
+
+### Nail Compatibility
+
+The DCN692N accepts 34° paper-collated round head framing nails from 50–90mm. DeWalt and compatible third-party nail strips are widely available from builders' merchants and timber frame suppliers. The 55-nail magazine capacity reduces reloading interruptions on high-volume tasks.
+
+### Practical Considerations
+
+At 4.1kg bare — over 5kg with a 5.0Ah battery — the DCN692N is heavy for sustained overhead nailing. For operatives doing extended overhead work, the weight is a genuine consideration.
 
 ### Verdict
 
-A genuine game-changer for first fix carpentry. The freedom from compressors and hoses makes it worth the investment for regular users.
+A genuine game-changer for first fix carpentry. Eliminating the compressor and air lines simplifies site logistics and improves flexibility for regular users, justifying the premium over pneumatic alternatives.

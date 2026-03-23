@@ -43,8 +43,24 @@ relatedGuides:
 
 ## In-Depth Look
 
-Marshalls is the UK's leading paving manufacturer.
+Marshalls is the UK's leading paving manufacturer, with over a century of experience producing concrete and natural stone landscaping products. The Argent range sits at the premium end of their pressed concrete offering, targeted at residential patios, paths, and courtyards where a clean, contemporary appearance is the priority.
+
+### Construction and Finish
+
+The Argent Smooth is manufactured using a hydraulic pressing process that produces a denser, harder-wearing surface than vibrated concrete. The 38mm thickness gives good rigidity, and calibrated thickness is consistent from slab to slab — an important factor when laying on a sand bed, as inconsistent thickness forces constant adjustment of levels. The smooth finish gives a uniform colour across the patio, without the texture variation found with exposed aggregate or brushed surfaces.
+
+### Installation Considerations
+
+At 28kg per slab, the 600x600mm format requires two people to manoeuvre safely on site. Laying on a full mortar bed is recommended for pedestrian areas. The Argent is rated for pedestrian use only — it is not specified for vehicular loading. Jointing compound rather than standard mortar pointing is recommended to accommodate slight thermal movement in larger concrete slabs.
+
+### Slip Resistance
+
+The smooth finish provides adequate slip resistance for pedestrian use in normal conditions, but for steps, ramps, or areas that remain permanently damp, a textured or riven finish is preferable. Marshalls produce the Argent Riven variant with a slightly textured surface for applications where slip resistance is the priority.
+
+### Warranty and Brand Assurance
+
+Marshalls products are covered by the Marshalls Guarantee against manufacturing defects. The Marshalls Register of Approved Contractors scheme ensures most Marshalls installers are trained to correct laying standards, providing recourse for homeowners if installation falls short.
 
 ### Verdict
 
-A solid mid-range paving choice for residential landscaping projects.
+A clean, well-made concrete paving slab from the most trusted name in UK landscaping products. The calibrated 38mm thickness and smooth contemporary finish make it a practical, attractive choice for residential patios and paths.

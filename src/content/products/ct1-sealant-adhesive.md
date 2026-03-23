@@ -43,8 +43,20 @@ relatedGuides:
 
 ## In-Depth Look
 
-CT1 has gone from niche product to one of the most talked-about sealants in the UK trade.
+CT1 has gone from a niche Irish product to one of the most talked-about sealants in the UK trade over the past decade. Its reputation was built on genuine performance in difficult applications — wet surfaces, non-porous substrates, and situations where standard silicone or polyurethane sealants fail or are unsuitable.
+
+### TRIBRID Polymer Technology
+
+CT1 is based on TRIBRID polymer chemistry, an evolution of HYBRID polymer technology. Unlike standard silicone (which doesn't accept paint and has limited adhesion to many substrates) or polyurethane sealants (which require dry conditions and can contain isocyanates), CT1 bonds to virtually any combination of building materials without primers, cures in wet conditions, and can cure fully submerged. Substrates include glass, metal, wood, concrete, tile, UPVC, fibreglass, and most other building materials.
+
+### Performance Characteristics
+
+The cured product is permanently flexible and maintains adhesion through thermal movement, making it suitable for joints that expand and contract seasonally. The temperature range of -40°C to +100°C covers all UK exterior applications. CT1 is UV stable without yellowing, overpaintable once fully cured, and demonstrates better mould resistance than standard silicone sealants in wet areas.
+
+### Trade Applications
+
+CT1's following among plumbers relates to its ability to seal around waste pipes and sanitary ware fittings without waiting for wet surfaces to dry. Tilers use it for movement joints in wet rooms and large format tile installations where grout alone is inappropriate. Roofers use it for emergency sealing in wet weather when other products cannot be applied. The CT1 TRIBRID range also includes metal-specific and mirror-safe variants for substrate-specific applications.
 
 ### Verdict
 
-CT1 justifies its premium price through versatility and reliability.
+CT1 justifies its premium price through genuine versatility. Not a universal replacement for all sealants, but for difficult applications it regularly outperforms standard products and reduces the need for remedial work.
