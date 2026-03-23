@@ -42,6 +42,7 @@ prosAndCons:
     - "Inset installation leaves a visible rim around the edge"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0FCG4C6TR?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£199.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -44,6 +44,7 @@ prosAndCons:
     - "Large unit may look imposing on smaller properties"
 affiliateUrl: "https://www.amazon.co.uk/dp/B08F6HMZ7C?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£139.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

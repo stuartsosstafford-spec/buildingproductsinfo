@@ -44,6 +44,7 @@ prosAndCons:
     - "Less sustained power than a comparable petrol chainsaw for extended felling"
 affiliateUrl: "https://www.amazon.co.uk/dp/B083F5L5RL?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£179.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -44,6 +44,7 @@ prosAndCons:
     - "Not ideal for very fine precision work on delicate fittings"
 affiliateUrl: "https://www.amazon.co.uk/dp/B000X4J2H0?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£32.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

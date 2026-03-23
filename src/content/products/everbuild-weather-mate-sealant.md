@@ -42,6 +42,7 @@ prosAndCons:
     - "Translucent colour may yellow slightly over time in direct sunlight"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0012X5XGU?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£5.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

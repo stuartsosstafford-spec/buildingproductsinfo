@@ -44,6 +44,7 @@ prosAndCons:
     - "Spout does not pull out or extend for rinsing"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00PW3MWD8?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£99.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -44,6 +44,7 @@ prosAndCons:
     - "Smaller 175ml cartridge runs out quickly on bigger jobs"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0FQWSPZX1?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£4.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

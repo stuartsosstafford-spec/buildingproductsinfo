@@ -42,6 +42,7 @@ prosAndCons:
     - "Mains water connection required — not suitable for tank-fed use"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0DQL9P6Z8?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£299.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

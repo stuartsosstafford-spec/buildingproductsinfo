@@ -44,6 +44,7 @@ prosAndCons:
     - "Magnetic filtration alone does not capture non-magnetic debris"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00XEV3JFA?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£79.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

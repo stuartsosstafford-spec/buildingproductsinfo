@@ -44,6 +44,7 @@ prosAndCons:
     - "7.5L tin is heavy and can be difficult to pour neatly"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00HW9I47S?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£29.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

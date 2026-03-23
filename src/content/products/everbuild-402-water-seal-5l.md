@@ -44,6 +44,7 @@ prosAndCons:
     - "Needs reapplication every 5-10 years depending on exposure"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0012LETNK?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£19.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -42,6 +42,7 @@ prosAndCons:
     - "25m may not be enough for very large sites or outdoor work at distance"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00I084ZUU?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£39.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

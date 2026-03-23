@@ -44,6 +44,7 @@ prosAndCons:
     - "White cover may yellow over time in steamy environments"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0080XNKQ0?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£34.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -44,6 +44,7 @@ prosAndCons:
     - "Cannot be painted over like a decorator's caulk"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01G3OCFVI?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£4.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

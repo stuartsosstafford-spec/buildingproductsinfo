@@ -44,6 +44,7 @@ prosAndCons:
     - "Festool-specific hose fittings and accessories limit cross-brand compatibility"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0DZ71D1Q4?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£749.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

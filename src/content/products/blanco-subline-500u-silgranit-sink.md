@@ -44,6 +44,7 @@ prosAndCons:
     - "Rock Grey may show limescale marks in hard water areas if not wiped"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07CH3HRVD?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£449.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

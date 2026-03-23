@@ -44,6 +44,7 @@ prosAndCons:
     - "Not suitable for structural foundations or large concrete pours"
 affiliateUrl: "https://www.amazon.co.uk/dp/B06W58KD68?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£6.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

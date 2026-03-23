@@ -42,6 +42,7 @@ prosAndCons:
     - "22-inch length may be too large for confined spaces or detail work"
 affiliateUrl: "https://www.amazon.co.uk/dp/B001OXDBXU?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

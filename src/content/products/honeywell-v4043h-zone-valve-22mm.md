@@ -42,6 +42,7 @@ prosAndCons:
     - "230V supply required — not suitable for low-voltage systems"
 affiliateUrl: "https://www.amazon.co.uk/dp/B001ANU6UA?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£39.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

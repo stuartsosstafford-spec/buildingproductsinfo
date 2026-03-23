@@ -42,6 +42,7 @@ prosAndCons:
     - "Not designed for heavy-duty thatch removal or scarifying"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0001E3VGA?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

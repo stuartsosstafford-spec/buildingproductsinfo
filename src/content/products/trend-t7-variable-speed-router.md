@@ -44,6 +44,7 @@ prosAndCons:
     - "Loud at full speed — ear protection is essential"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07XL4Q6NV?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£249.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -44,6 +44,7 @@ prosAndCons:
     - "Basic design may not suit premium bathroom refurbishments"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07DHVC8BB?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£69.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

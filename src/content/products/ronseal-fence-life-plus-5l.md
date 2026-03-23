@@ -44,6 +44,7 @@ prosAndCons:
     - "Colour can fade noticeably in the first year on exposed surfaces"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01AIPH73E?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£19.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

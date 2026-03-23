@@ -42,6 +42,7 @@ prosAndCons:
     - "Not suitable for chrome-plated or stainless steel tube"
 affiliateUrl: "https://www.amazon.co.uk/dp/B08NF5H57M?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£49.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

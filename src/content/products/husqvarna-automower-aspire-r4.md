@@ -42,6 +42,7 @@ prosAndCons:
     - "Not suitable for very uneven or steeply sloped gardens"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0F147HN96?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£699.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

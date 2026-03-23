@@ -42,6 +42,7 @@ prosAndCons:
     - "Single pole only — neutral must be terminated separately"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00WRBR64S?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£4.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

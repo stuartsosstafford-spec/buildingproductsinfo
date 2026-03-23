@@ -44,6 +44,7 @@ prosAndCons:
     - "22mm connections only — adaptors needed for 15mm pipework"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0B8DTS753?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£249.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -44,6 +44,7 @@ prosAndCons:
     - "Integrated battery cannot be swapped out when depleted"
 affiliateUrl: "https://www.amazon.co.uk/dp/B09MG1GYQG?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£49.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

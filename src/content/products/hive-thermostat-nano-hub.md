@@ -44,6 +44,7 @@ prosAndCons:
     - "Hub still requires an Ethernet connection to your router"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0DCGMD9KX?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£129.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

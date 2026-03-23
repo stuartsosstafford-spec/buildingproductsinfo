@@ -44,6 +44,7 @@ prosAndCons:
     - "Not ideal for creating striped lawn finishes"
 affiliateUrl: "https://www.amazon.co.uk/dp/B08W9KD1Y1?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£129.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

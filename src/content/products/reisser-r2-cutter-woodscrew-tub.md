@@ -44,6 +44,7 @@ prosAndCons:
     - "Pozi drive less popular than Torx among some tradespeople"
 affiliateUrl: "https://www.amazon.co.uk/dp/B077YDK22C?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£19.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

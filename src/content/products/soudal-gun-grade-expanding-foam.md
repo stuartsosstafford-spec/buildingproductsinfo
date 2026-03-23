@@ -42,6 +42,7 @@ prosAndCons:
     - "Must be used above +5°C for proper curing"
 affiliateUrl: "https://www.amazon.co.uk/dp/B08NK8YH54?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£8.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

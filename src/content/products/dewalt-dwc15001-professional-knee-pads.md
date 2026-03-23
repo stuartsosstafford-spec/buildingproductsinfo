@@ -42,6 +42,7 @@ prosAndCons:
     - "Bulkier than trouser-insert knee pads, which some users find restrictive"
 affiliateUrl: "https://www.amazon.co.uk/dp/B000Y8Y2QG?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£19.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

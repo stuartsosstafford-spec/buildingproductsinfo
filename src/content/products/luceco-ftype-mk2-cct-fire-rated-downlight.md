@@ -46,6 +46,7 @@ prosAndCons:
     - "Dimming performance varies depending on the dimmer switch used"
 affiliateUrl: "https://www.amazon.co.uk/dp/B095NM2CM6?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£8.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

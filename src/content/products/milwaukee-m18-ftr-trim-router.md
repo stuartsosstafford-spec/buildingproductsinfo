@@ -44,6 +44,7 @@ prosAndCons:
     - "Heavier than a comparable corded trim router"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0859D87KV?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£229.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

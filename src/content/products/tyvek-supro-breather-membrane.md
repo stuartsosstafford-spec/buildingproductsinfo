@@ -42,6 +42,7 @@ prosAndCons:
     - "Overkill for simple garden buildings or non-habitable structures"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07TVN8JW6?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£79.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

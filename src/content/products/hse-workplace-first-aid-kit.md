@@ -44,6 +44,7 @@ prosAndCons:
     - "Basic case quality may not withstand rough handling on active construction sites"
 affiliateUrl: "https://www.amazon.co.uk/dp/B09P591SVB?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

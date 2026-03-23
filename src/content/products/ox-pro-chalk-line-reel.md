@@ -42,6 +42,7 @@ prosAndCons:
     - "Line can lose chalk coating if dragged across rough surfaces before snapping"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0DMPLBXZ5?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£12.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

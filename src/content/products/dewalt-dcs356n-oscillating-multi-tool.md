@@ -42,6 +42,7 @@ prosAndCons:
     - "1.6-degree oscillation angle is narrower than some rivals"
 affiliateUrl: "https://www.amazon.co.uk/dp/B081CT8R4X?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£149.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

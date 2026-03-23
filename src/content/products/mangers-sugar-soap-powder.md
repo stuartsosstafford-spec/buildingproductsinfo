@@ -42,6 +42,7 @@ prosAndCons:
     - "Powder can clump if stored in damp conditions"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00LXM37VS?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£9.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

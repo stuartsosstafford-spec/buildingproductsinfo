@@ -44,6 +44,7 @@ prosAndCons:
     - "Limited adjustment once fully driven home"
 affiliateUrl: "https://www.amazon.co.uk/dp/B019DHEO02?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£9.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

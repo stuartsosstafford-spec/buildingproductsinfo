@@ -44,6 +44,7 @@ prosAndCons:
     - "85-piece box may be too large for occasional users"
 affiliateUrl: "https://www.amazon.co.uk/dp/B071W6GLW7?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£14.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

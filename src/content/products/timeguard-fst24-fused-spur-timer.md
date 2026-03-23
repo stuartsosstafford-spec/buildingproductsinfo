@@ -42,6 +42,7 @@ prosAndCons:
     - "Timer dial can be fiddly to set in a dimly lit airing cupboard"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01E9R2SZO?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

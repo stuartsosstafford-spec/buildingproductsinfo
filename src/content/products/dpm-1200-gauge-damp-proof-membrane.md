@@ -42,6 +42,7 @@ prosAndCons:
     - "Easily punctured during construction if not protected"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07BWRT1BW?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£44.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

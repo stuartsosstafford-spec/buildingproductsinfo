@@ -42,6 +42,7 @@ prosAndCons:
     - "Aluminium can feel cold in winter without gloves"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0009I9Z4A?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£19.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

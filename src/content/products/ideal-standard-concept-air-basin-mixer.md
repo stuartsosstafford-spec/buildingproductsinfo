@@ -44,6 +44,7 @@ prosAndCons:
     - "Pop-up waste mechanism can be less reliable than click-clack alternatives"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0876YX4GW?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£199.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

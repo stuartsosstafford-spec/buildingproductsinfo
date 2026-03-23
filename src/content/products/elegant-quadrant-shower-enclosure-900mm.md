@@ -44,6 +44,7 @@ prosAndCons:
     - "Curved glass panels cannot be cut down on site"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01M7R71I4?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£199.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

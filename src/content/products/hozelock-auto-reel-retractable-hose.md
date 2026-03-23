@@ -44,6 +44,7 @@ prosAndCons:
     - "Retract mechanism can be firm when the hose is fully extended"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0C27WXD6W?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£79.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

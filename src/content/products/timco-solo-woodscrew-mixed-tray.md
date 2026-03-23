@@ -42,6 +42,7 @@ prosAndCons:
     - "Plastic tray is functional but not as durable as a metal case"
 affiliateUrl: "https://www.amazon.co.uk/dp/B097C59464?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

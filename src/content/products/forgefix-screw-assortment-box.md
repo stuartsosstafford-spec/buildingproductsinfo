@@ -44,6 +44,7 @@ prosAndCons:
     - "Not suitable for exterior or treated timber applications"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0DR8Z9HM9?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£19.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

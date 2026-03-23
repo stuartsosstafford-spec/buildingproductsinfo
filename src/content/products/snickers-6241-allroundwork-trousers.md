@@ -42,6 +42,7 @@ prosAndCons:
     - "Sizing runs differently to high-street trousers — check the size guide"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07N6M2FHG?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£89.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

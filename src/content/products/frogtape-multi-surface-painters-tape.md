@@ -44,6 +44,7 @@ prosAndCons:
     - "Must be removed promptly after painting for best results"
 affiliateUrl: "https://www.amazon.co.uk/dp/B007AS07UI?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£7.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

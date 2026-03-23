@@ -42,6 +42,7 @@ prosAndCons:
     - "2.5L tin size limits value on larger projects"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07P4898QN?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£14.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

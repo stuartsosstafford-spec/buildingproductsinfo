@@ -44,6 +44,7 @@ prosAndCons:
     - "460 lumens may be insufficient for large rooms without close spacing"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07LDB1JZ6?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£12.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

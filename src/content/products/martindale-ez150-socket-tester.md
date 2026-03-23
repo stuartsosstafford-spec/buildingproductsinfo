@@ -44,6 +44,7 @@ prosAndCons:
     - "LED indication requires reference to the included chart for some faults"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00QKS2YCI?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£49.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

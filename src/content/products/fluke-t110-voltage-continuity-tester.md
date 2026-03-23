@@ -44,6 +44,7 @@ prosAndCons:
     - "LCD can be harder to read in direct sunlight"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00LEWM0C4?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£79.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

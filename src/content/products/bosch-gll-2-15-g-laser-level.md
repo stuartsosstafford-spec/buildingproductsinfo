@@ -44,6 +44,7 @@ prosAndCons:
     - "No receiver compatibility for outdoor or long-range work"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0883SMTXL?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£99.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

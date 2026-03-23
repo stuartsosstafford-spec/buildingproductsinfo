@@ -42,6 +42,7 @@ prosAndCons:
     - "Does not cover 28mm pipe — separate clamp needed"
 affiliateUrl: "https://www.amazon.co.uk/dp/B019E62FF8?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£79.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

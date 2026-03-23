@@ -40,6 +40,7 @@ prosAndCons:
     - "Counterfeits are common — buy from trusted sellers"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01JP78596?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£49.99"
 addedDate: 2025-09-15
 draft: false
 featured: false

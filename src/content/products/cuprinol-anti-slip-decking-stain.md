@@ -44,6 +44,7 @@ prosAndCons:
     - "Colour can vary depending on the timber species and condition"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0851FBML6?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

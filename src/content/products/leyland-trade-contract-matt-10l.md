@@ -44,6 +44,7 @@ prosAndCons:
     - "Finish quality does not match mid-range or premium trade matts"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0DRTJBBF9?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£34.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

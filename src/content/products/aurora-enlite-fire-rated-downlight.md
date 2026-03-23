@@ -44,6 +44,7 @@ prosAndCons:
     - "IP20 as standard — requires optional seal for bathroom zone 1 use"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01MXPZ4CE?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£9.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

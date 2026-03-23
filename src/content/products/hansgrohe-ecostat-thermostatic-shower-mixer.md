@@ -42,6 +42,7 @@ prosAndCons:
     - "Chrome requires regular cleaning to maintain appearance"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01MG2DCK9?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£299.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

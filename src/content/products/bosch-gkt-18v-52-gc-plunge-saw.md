@@ -44,6 +44,7 @@ prosAndCons:
     - "Heavier than some rivals at 4.1kg"
 affiliateUrl: "https://www.amazon.co.uk/dp/B087S1K2XB?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£399.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

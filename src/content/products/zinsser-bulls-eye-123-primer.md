@@ -44,6 +44,7 @@ prosAndCons:
     - "May require two coats over severe nicotine or smoke staining"
 affiliateUrl: "https://www.amazon.co.uk/dp/B004VDEAFS?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£14.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

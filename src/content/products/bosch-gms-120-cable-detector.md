@@ -44,6 +44,7 @@ prosAndCons:
     - "9V battery life is limited with heavy use"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0046041C8?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£49.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

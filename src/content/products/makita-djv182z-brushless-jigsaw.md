@@ -46,6 +46,7 @@ prosAndCons:
     - "No dust extraction port — relies on blow-off function only"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07M6P1Y69?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£139.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

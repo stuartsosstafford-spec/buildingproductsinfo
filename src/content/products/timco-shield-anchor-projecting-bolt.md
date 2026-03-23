@@ -44,6 +44,7 @@ prosAndCons:
     - "Cannot be easily removed once the shell has expanded"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0CC9K3XJP?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£12.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

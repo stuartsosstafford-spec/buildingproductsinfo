@@ -44,6 +44,7 @@ prosAndCons:
     - "Hole preparation must be precise for approved performance"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00LF4I0DY?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£34.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

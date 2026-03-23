@@ -42,6 +42,7 @@ prosAndCons:
     - "Assembly is a two-person job and takes several hours"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0145KTCQS?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£299.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

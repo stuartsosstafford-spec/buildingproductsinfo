@@ -44,6 +44,7 @@ prosAndCons:
     - "Premium pricing compared to other smart lighting brands"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0FJXZJ9N7?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£119.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

@@ -42,6 +42,7 @@ prosAndCons:
     - "Replacement blades are an ongoing cost for heavy users"
 affiliateUrl: "https://www.amazon.co.uk/dp/B06ZZ69CDS?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

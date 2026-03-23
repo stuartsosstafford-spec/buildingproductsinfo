@@ -42,6 +42,7 @@ prosAndCons:
     - "Type B — not suitable for circuits with high inrush currents"
 affiliateUrl: "https://www.amazon.co.uk/dp/B08Q7MKKXS?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

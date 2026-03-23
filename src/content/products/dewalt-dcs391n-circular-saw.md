@@ -43,6 +43,7 @@ prosAndCons:
     - "Battery and charger not included"
 affiliateUrl: "https://www.amazon.co.uk/dp/B006XBSXAE?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£109.99"
 addedDate: 2025-09-10
 draft: false
 featured: false

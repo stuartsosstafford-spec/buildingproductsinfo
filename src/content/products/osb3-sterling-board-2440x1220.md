@@ -44,6 +44,7 @@ prosAndCons:
     - "Rough surface finish is not suitable for visible or decorative applications"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0CN9JNTR8?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£19.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

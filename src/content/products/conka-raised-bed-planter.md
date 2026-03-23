@@ -42,6 +42,7 @@ prosAndCons:
     - "Will require lining to prevent soil contact with treated wood for edibles"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0BP2Q1VFP?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£69.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

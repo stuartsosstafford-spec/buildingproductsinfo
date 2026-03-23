@@ -44,6 +44,7 @@ prosAndCons:
     - "Can flash if cutting in and rolling are not kept wet-edge"
 affiliateUrl: "https://www.amazon.co.uk/dp/B007ZU78JO?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£49.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

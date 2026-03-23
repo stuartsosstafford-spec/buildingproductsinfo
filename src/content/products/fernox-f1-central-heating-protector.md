@@ -44,6 +44,7 @@ prosAndCons:
     - "Concentration should be tested periodically to confirm adequate protection"
 affiliateUrl: "https://www.amazon.co.uk/dp/B003HQ97E4?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£14.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

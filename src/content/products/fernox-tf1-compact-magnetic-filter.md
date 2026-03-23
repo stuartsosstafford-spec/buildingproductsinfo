@@ -42,6 +42,7 @@ prosAndCons:
     - "Requires isolation valves for servicing (included)"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00Y3P5ID2?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£49.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

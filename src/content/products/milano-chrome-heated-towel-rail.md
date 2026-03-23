@@ -42,6 +42,7 @@ prosAndCons:
     - "BTU output may not fully heat larger bathrooms alone"
 affiliateUrl: "https://www.amazon.co.uk/dp/B001S2BTVS?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£89.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

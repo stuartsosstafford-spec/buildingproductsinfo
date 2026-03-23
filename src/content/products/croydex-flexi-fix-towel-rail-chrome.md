@@ -42,6 +42,7 @@ prosAndCons:
     - "Unheated — for towel hanging only, not drying"
 affiliateUrl: "https://www.amazon.co.uk/dp/B006Z84VPQ?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£29.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

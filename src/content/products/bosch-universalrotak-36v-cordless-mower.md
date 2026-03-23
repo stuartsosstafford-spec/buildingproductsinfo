@@ -42,6 +42,7 @@ prosAndCons:
     - "Not suitable for very long or wet grass"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0C1GXX8Z8?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£349.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

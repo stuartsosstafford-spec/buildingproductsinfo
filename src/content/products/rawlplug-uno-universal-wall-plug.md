@@ -42,6 +42,7 @@ prosAndCons:
     - "Jar packaging is bulky compared to boxed plugs"
 affiliateUrl: "https://www.amazon.co.uk/dp/B08X96GMBN?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£9.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

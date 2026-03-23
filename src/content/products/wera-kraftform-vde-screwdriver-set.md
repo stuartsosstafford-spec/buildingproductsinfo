@@ -44,6 +44,7 @@ prosAndCons:
     - "Handle size may feel large for those with smaller hands"
 affiliateUrl: "https://www.amazon.co.uk/dp/B06XFG8TC3?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£79.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

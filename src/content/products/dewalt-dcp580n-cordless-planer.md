@@ -46,6 +46,7 @@ prosAndCons:
     - "Dust bag sold separately"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01AI0X2OW?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£179.00"
 addedDate: 2026-02-13
 draft: false
 featured: false

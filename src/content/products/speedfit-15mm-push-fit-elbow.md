@@ -44,6 +44,7 @@ prosAndCons:
     - "Bulkier than soldered joints, which can be an issue in tight spaces"
 affiliateUrl: "https://www.amazon.co.uk/dp/B07V4LD5JR?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£1.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

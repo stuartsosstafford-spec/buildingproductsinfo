@@ -33,6 +33,7 @@ prosAndCons:
     - "Flow rate may be insufficient for multiple bathrooms"
     - "Premium price compared to some competitors"
 affiliateButtonText: "Check Price on Amazon"
+price: "£699.00"
 addedDate: 2025-02-01
 draft: false
 featured: true

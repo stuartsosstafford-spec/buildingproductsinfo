@@ -42,6 +42,7 @@ prosAndCons:
     - "Soft-grip handle can wear over time with heavy use"
 affiliateUrl: "https://www.amazon.co.uk/dp/B01BYB4P5E?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£29.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

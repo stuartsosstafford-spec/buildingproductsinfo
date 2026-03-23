@@ -42,6 +42,7 @@ prosAndCons:
     - "Pipe must be cut square and deburred for a reliable seal"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00ZRL6PLU?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£3.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

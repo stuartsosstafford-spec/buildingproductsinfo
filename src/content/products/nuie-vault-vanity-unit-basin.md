@@ -42,6 +42,7 @@ prosAndCons:
     - "Gloss white finish shows fingerprints and water marks"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00FSA3TL4?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£249.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

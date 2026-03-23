@@ -42,6 +42,7 @@ prosAndCons:
     - "Slow full cure — 3mm depth per 24 hours"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0012RR256?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£12.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

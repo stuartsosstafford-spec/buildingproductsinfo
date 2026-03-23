@@ -44,6 +44,7 @@ prosAndCons:
     - "No digital readout — the TECH 196 DL is the digital upgrade path"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0001P0TIW?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£79.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

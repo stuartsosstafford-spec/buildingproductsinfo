@@ -44,6 +44,7 @@ prosAndCons:
     - "Yellow colour shows dirt and staining quickly on active sites"
 affiliateUrl: "https://www.amazon.co.uk/dp/B00HR5AWJU?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£4.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

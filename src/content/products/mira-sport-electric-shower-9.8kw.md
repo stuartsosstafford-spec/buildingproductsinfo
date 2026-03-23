@@ -44,6 +44,7 @@ prosAndCons:
     - "Electric showers cannot match the flow of thermostatic mixer valves"
 affiliateUrl: "https://www.amazon.co.uk/dp/B0CVS385J9?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£179.99"
 addedDate: 2026-02-13
 draft: false
 featured: false

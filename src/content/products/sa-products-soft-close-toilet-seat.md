@@ -42,6 +42,7 @@ prosAndCons:
     - "Adjustable fixings require careful alignment during installation"
 affiliateUrl: "https://www.amazon.co.uk/dp/B074N6D85M?tag=buildingproductsinfo-21"
 affiliateButtonText: "Check Price on Amazon"
+price: "£24.99"
 addedDate: 2026-02-13
 draft: false
 featured: false
