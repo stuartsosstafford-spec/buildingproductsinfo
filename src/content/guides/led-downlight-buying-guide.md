@@ -4,7 +4,7 @@ category: "Electrical & Lighting"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "LED Downlight Buying Guide — Fire Rating, CCT & Dimming | Guide"
-metaDescription: "A practical guide to choosing LED downlights for UK installations. Covers fire rating, IC rating, colour temperature, CRI, dimming compatibility, and IP ratings."
+metaDescription: "Fire ratings, IC ratings, colour temperature, CRI and dimming compatibility — the electrician's specification guide for LED downlights in UK installations."
 draft: false
 faq:
   - question: "Do all downlights need to be fire rated?"

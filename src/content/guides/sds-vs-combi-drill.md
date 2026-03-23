@@ -4,7 +4,7 @@ category: "Tools"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "SDS Drill vs Combi Drill — Which Do You Need? | Buying Guide"
-metaDescription: "Confused about SDS vs combi drills? This guide explains the differences, when to use each, and which is worth buying for trade or serious DIY use."
+metaDescription: "SDS+ or combi drill — understand how each works, what each is suited to, and whether you need both for trade or serious DIY use."
 draft: false
 faq:
   - question: "Can a combi drill drill into concrete?"
@@ -66,7 +66,7 @@ A combi drill is the right tool for:
 
 Most screwdriving on site is done with a combi drill or a dedicated impact driver. The [DeWalt DCD796 combi drill](/tools/dewalt-dcd796-combi-drill/) is a compact 18V brushless tool well suited to a full day of drilling and driving across mixed materials.
 
-For pure screwdriving volume — in timber, through metal brackets — an impact driver is faster and puts less strain on the wrist. A combi drill remains necessary for drilling and for applications where an impact driver's rotational impact would be inappropriate (such as driving into soft materials).
+For pure screwdriving volume — in timber, through metal brackets — an impact driver is faster and puts less strain on the wrist. The [Milwaukee M18 FID3 impact driver](/tools/milwaukee-m18-fid3-impact-driver/) is a compact, high-torque option well suited to heavy screwdriving alongside a combi drill. A combi drill remains necessary for drilling and for applications where an impact driver's rotational impact would be inappropriate (such as driving into soft materials).
 
 ## SDS+ vs SDS Max
 

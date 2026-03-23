@@ -4,7 +4,7 @@ category: "Building Materials"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Paint a Room Like a Professional — Buying Guide"
-metaDescription: "A practical guide to painting a room to a professional standard. Covers preparation, primers, trade paints, masking, and the right order of work."
+metaDescription: "How to paint a room to a professional finish — preparation, primer choice, cutting in, roller technique and the right order of work."
 draft: false
 faq:
   - question: "What order should I paint a room in?"

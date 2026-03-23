@@ -4,7 +4,7 @@ category: "Plumbing & Heating"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Central Heating Components — Buying Guide"
-metaDescription: "A practical guide to choosing central heating components for your home. Covers boilers, thermostats, TRVs, magnetic filters, pipework fittings, and plumbing tools."
+metaDescription: "Boiler sizing, thermostats, magnetic filters, TRVs and pipework — the heating engineer's guide to specifying central heating components correctly."
 draft: false
 faq:
   - question: "Do I need a magnetic filter on my central heating system?"

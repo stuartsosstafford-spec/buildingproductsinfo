@@ -5,7 +5,7 @@ author: "Editorial Team"
 publishDate: 2025-01-20
 updatedDate: 2026-02-13
 metaTitle: "How to Choose the Right Combi Drill — Buying Guide"
-metaDescription: "A practical guide to choosing the right combi drill for trade or DIY use. Covers voltage, torque, brushless vs brushed, and key features to look for."
+metaDescription: "Voltage, torque, brushless vs brushed and battery platform explained. Pick the right combi drill for trade use without overspending on features you won't use."
 draft: false
 faq:
   - question: "What voltage combi drill do I need?"

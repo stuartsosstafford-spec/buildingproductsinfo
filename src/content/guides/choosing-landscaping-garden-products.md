@@ -4,7 +4,7 @@ category: "Landscaping & Outdoors"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Landscaping and Garden Products — Buying Guide"
-metaDescription: "A practical guide to choosing landscaping and garden products. Covers lawn mowers, hedge trimmers, chainsaws, paving, decking, raised beds, storage, and essential garden tools."
+metaDescription: "Paving, decking, cordless mowers, storage sheds and garden tools — what to buy for low-maintenance UK gardens and landscaping projects."
 draft: false
 faq:
   - question: "Is a cordless lawn mower powerful enough for a medium garden?"

@@ -4,7 +4,7 @@ category: "Electrical & Lighting"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "Essential Tools for First-Fix Electricians — Buying Guide"
-metaDescription: "A practical guide to the essential tools every first-fix electrician needs. Covers VDE hand tools, test equipment, connectors, cable detection, lighting, and workwear."
+metaDescription: "VDE screwdrivers, Fluke testers, Wago connectors and cable detection — the essential tools every first-fix electrician needs on site."
 draft: false
 faq:
   - question: "Do electricians need VDE-rated tools?"

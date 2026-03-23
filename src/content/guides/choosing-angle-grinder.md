@@ -4,7 +4,7 @@ category: "Tools"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "How to Choose an Angle Grinder — Buying Guide for Trade"
-metaDescription: "A practical guide to choosing the right angle grinder for trade use. Covers disc size, power, cordless vs corded, safety features, and key specs."
+metaDescription: "Disc size, power, cordless vs corded and safety features explained. Pick the right angle grinder for trade use without the guesswork."
 draft: false
 faq:
   - question: "What size angle grinder do I need?"
@@ -55,7 +55,7 @@ Where corded remains the better choice:
 - Applications where battery drain would cause disruption (e.g., continuous cutting through a long run of steel)
 - Very high-power output requirements
 
-If you are already on an 18V battery platform (Bosch Professional, DeWalt, Makita, Milwaukee), a cordless grinder that shares batteries with your other tools is the practical choice for most work.
+If you are already on an 18V battery platform (Bosch Professional, DeWalt, Makita, Milwaukee), a cordless grinder that shares batteries with your other tools is the practical choice for most work. The [Makita BL1850B 18V 5.0Ah battery](/tools/makita-bl1850b-18v-battery/) is a high-capacity option that provides extended runtime for sustained cutting tasks on the LXT platform.
 
 ## Safety Features
 
@@ -82,7 +82,7 @@ Always match the disc to the material and confirm the disc's maximum RPM against
 
 The angle grinder's guard is not optional. It must be fitted at all times. A failing disc can fragment at extremely high velocity, and the guard deflects fragments away from the operator.
 
-Personal protective equipment: face shield (not just safety glasses) for grinding and cutting operations, leather gloves, and hearing protection for prolonged use. Cutting masonry and concrete generates silica dust — appropriate respiratory protection (FFP3 minimum) is legally required under COSHH.
+Personal protective equipment: face shield (not just safety glasses) for grinding and cutting operations, leather gloves, and hearing protection for prolonged use. Cutting masonry and concrete generates silica dust — appropriate respiratory protection (FFP3 minimum) is legally required under COSHH. Connecting a [Festool CTM 26 dust extractor](/tools/festool-ctm-26-dust-extractor/) to a suitable grinding shroud significantly reduces airborne silica at source.
 
 ## What to Spend
 

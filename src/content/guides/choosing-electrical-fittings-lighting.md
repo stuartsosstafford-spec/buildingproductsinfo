@@ -4,7 +4,7 @@ category: "Electrical & Lighting"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Electrical Fittings and Lighting — Buying Guide"
-metaDescription: "A practical guide to choosing electrical fittings and lighting for domestic installations. Covers consumer units, RCBOs, downlights, smart lighting, sockets, and essential test equipment."
+metaDescription: "RCBOs, fire-rated downlights, smart lighting, sockets and test equipment — a specification guide for UK domestic electrical installations."
 draft: false
 faq:
   - question: "What is the difference between an MCB and an RCBO?"

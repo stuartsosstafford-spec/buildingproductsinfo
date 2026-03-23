@@ -4,7 +4,7 @@ category: "Site Equipment & PPE"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Trade Workwear — Buying Guide"
-metaDescription: "A practical guide to choosing trade workwear and PPE. Covers work trousers, safety boots, helmets, eye and ear protection, hi-vis, and knee pads for construction professionals."
+metaDescription: "Work trousers, safety boots, knee pads, hi-vis and helmets — how to choose trade workwear that performs on UK construction sites every day."
 draft: false
 faq:
   - question: "Are Snickers work trousers worth the price?"

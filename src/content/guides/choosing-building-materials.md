@@ -4,7 +4,7 @@ category: "Building Materials"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Building Materials for Common Projects — Buying Guide"
-metaDescription: "A practical guide to choosing building materials for common construction and renovation projects. Covers insulation, timber, membranes, paints, primers, and jointing compounds."
+metaDescription: "Insulation, timber, breather membranes and jointing compounds — what to specify and why for common UK construction and renovation projects."
 draft: false
 faq:
   - question: "What thickness insulation do I need for a flat roof?"

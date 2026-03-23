@@ -4,7 +4,7 @@ category: "Interiors, Kitchens & Bathrooms"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Kitchen and Bathroom Fittings — Buying Guide"
-metaDescription: "A practical guide to choosing kitchen and bathroom fittings. Covers kitchen sinks, taps, shower enclosures, thermostatic mixers, WCs, vanity units, radiators, and extractor fans."
+metaDescription: "Kitchen sinks, thermostatic showers, WCs, vanity units and heated towel rails — how to specify bathroom and kitchen fittings that perform and last."
 draft: false
 faq:
   - question: "Do I need a thermostatic shower mixer?"

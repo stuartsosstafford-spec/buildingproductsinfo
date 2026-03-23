@@ -4,7 +4,7 @@ category: "Tools"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose a Cordless Power Tool Platform — Buying Guide"
-metaDescription: "A practical guide to choosing the right cordless power tool battery platform. Compares DeWalt 18V XR, Makita 18V LXT, Milwaukee M18, and Bosch Professional 18V ecosystems."
+metaDescription: "DeWalt 18V XR, Makita LXT, Milwaukee M18 and Bosch Professional compared — which cordless tool platform to commit to for UK trade use in 2026."
 draft: false
 faq:
   - question: "Can I use DeWalt batteries in Makita tools?"

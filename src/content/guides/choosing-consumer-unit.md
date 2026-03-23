@@ -4,7 +4,7 @@ category: "Electrical & Lighting"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "How to Choose a Consumer Unit — Buying Guide for Electricians"
-metaDescription: "A practical guide to consumer unit selection for UK domestic and light commercial installations. Covers RCBO vs RCD, dual RCD, metal vs plastic, and regulations."
+metaDescription: "Metal enclosures, RCBO boards, Type A devices and main switch sizing — how to specify a UK domestic consumer unit correctly under current Building Regulations."
 draft: false
 faq:
   - question: "Do I need a metal consumer unit?"
@@ -104,4 +104,4 @@ Quality consumer units for domestic installation come from a relatively small nu
 
 ## Regulatory Note
 
-Consumer unit installation and replacement in domestic properties is **notifiable work under Part P** of the Building Regulations. The work must be carried out by a competent person registered with an approved scheme (NICEIC, NAPIT, etc.) or notified to the local authority building control. Issue an Electrical Installation Certificate on completion.
+Consumer unit installation and replacement in domestic properties is **notifiable work under Part P** of the Building Regulations. The work must be carried out by a competent person registered with an approved scheme (NICEIC, NAPIT, etc.) or notified to the local authority building control. Issue an Electrical Installation Certificate on completion. As part of the pre-inspection verification, a [Martindale EZ150 socket tester](/electrical-lighting/martindale-ez150-socket-tester/) provides a fast check of polarity, earth continuity, and correct wiring on all socket outlets.

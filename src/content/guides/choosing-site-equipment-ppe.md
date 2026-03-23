@@ -4,7 +4,7 @@ category: "Site Equipment & PPE"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Site Equipment and PPE — Buying Guide"
-metaDescription: "A practical guide to choosing site equipment and personal protective equipment. Covers safety boots, helmets, eye and ear protection, workwear, ladders, lighting, and essential site tools."
+metaDescription: "S3 safety boots, hard hats, hi-vis, hearing protection and site lighting — the essential PPE checklist for UK construction site compliance."
 draft: false
 faq:
   - question: "What is the difference between S1P and S3 safety boots?"

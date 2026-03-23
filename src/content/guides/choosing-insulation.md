@@ -4,7 +4,7 @@ category: "Building Materials"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "How to Choose the Right Insulation — Rigid, Mineral Wool & More"
-metaDescription: "A practical guide to choosing insulation for walls, roofs, and floors. Covers rigid boards, mineral wool, spray foam, lambda values, and Building Regulations compliance."
+metaDescription: "Lambda values, PIR vs mineral wool and U-value targets explained. Choose the right insulation thickness and type for UK roofs, walls and floors."
 draft: false
 faq:
   - question: "What is lambda value in insulation?"

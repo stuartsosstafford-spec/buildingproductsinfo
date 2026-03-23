@@ -4,7 +4,7 @@ category: "Electrical & Lighting"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Set Up a Smart Home — Buying Guide"
-metaDescription: "A practical guide to setting up a smart home. Covers smart thermostats, smart lighting, security cameras, and how to build a connected home step by step."
+metaDescription: "Smart thermostats, Philips Hue lighting, cameras and multi-room audio — how to build a connected home that works together from the start."
 draft: false
 faq:
   - question: "Do smart thermostats work without internet?"

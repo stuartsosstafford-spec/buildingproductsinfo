@@ -4,7 +4,7 @@ category: "Landscaping & Outdoors"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Build a Raised Bed or Patio — Buying Guide"
-metaDescription: "A practical guide to building a raised bed or laying a patio. Covers materials, tools, ground preparation, and step-by-step considerations for both projects."
+metaDescription: "Build a raised bed or lay a patio properly — UK guide covering materials, ground preparation, tools, and step-by-step laying guidance for DIYers and landscapers."
 draft: false
 faq:
   - question: "How deep should a sub-base be for a patio?"

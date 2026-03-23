@@ -4,7 +4,7 @@ category: "Plumbing & Heating"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "Essential Tools for Plumbers — Buying Guide"
-metaDescription: "A practical guide to the essential tools every plumber needs. Covers pipe cutters, benders, wrenches, pipe freezing kits, soldering equipment, and testing tools."
+metaDescription: "Pipe cutters, benders, freezing kits, wrenches and testing tools — the essential plumbing tools every UK tradesperson needs in the van."
 draft: false
 faq:
   - question: "Can I use push-fit fittings on copper pipe?"

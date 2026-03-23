@@ -4,7 +4,7 @@ category: "Interiors, Kitchens & Bathrooms"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Fit a Bathroom — Buying Guide"
-metaDescription: "A practical guide to fitting a bathroom from start to finish. Covers planning, showers, WCs, basins, tiling preparation, ventilation, sealants, and fixings."
+metaDescription: "How to fit a bathroom from first fix to silicone — planning, shower installation, WC and basin fitting, tiling prep, ventilation and sign-off."
 draft: false
 faq:
   - question: "Do I need an extractor fan in a bathroom?"

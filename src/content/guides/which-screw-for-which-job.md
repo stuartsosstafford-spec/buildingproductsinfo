@@ -4,7 +4,7 @@ category: "Fixings & Adhesives"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "Which Screw for Which Job? A Complete Guide to Screws"
-metaDescription: "A practical guide to choosing the right screw for every job. Covers wood screws, drywall screws, decking screws, frame screws, stainless steel, and coatings."
+metaDescription: "Woodscrews, drywall screws, decking screws, structural fixings, stainless grades and coatings — pick the right screw for every job, every time."
 draft: false
 faq:
   - question: "What is the difference between a woodscrew and a drywall screw?"
@@ -71,7 +71,7 @@ For composite decking, use screws specified by the decking manufacturer — many
 
 ## Frame Fixings and Coarse Thread Screws
 
-Frame fixings (also called frame screws or coarse thread screws) are large-diameter screws for fixing timber frames, battens, and structural elements into masonry or dense substrates. They require a pre-drilled and plugged hole in masonry, or drive directly into timber at high load.
+Frame fixings (also called frame screws or coarse thread screws) are large-diameter screws for fixing timber frames, battens, and structural elements into masonry or dense substrates. They require a pre-drilled and plugged hole in masonry — the [Rawlplug Uno universal wall plug](/fixings-adhesives/rawlplug-uno-universal-wall-plug/) works across brick, block, and plasterboard without needing substrate-specific plugs. Frame screws can also drive directly into timber at high load.
 
 Features:
 - Typically 7.5–8.0mm diameter

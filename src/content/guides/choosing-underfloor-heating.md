@@ -4,7 +4,7 @@ category: "Plumbing & Heating"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "How to Choose Underfloor Heating — Wet vs Electric | Buying Guide"
-metaDescription: "A practical guide to choosing underfloor heating for UK homes. Covers wet vs electric systems, floor build-up, heat pumps, thermostats, and running costs."
+metaDescription: "Wet vs electric underfloor heating compared — floor build-up, running costs, heat pump compatibility and zone controls for UK homes."
 draft: false
 faq:
   - question: "Is wet or electric underfloor heating cheaper to run?"
@@ -88,13 +88,13 @@ Before specifying UFH output, a heat loss calculation for each room is required.
 
 ## Compatibility with Heat Pumps
 
-Wet UFH is an excellent match for air source and ground source heat pumps. Heat pumps operate most efficiently at low flow temperatures, and UFH requires exactly that — typically 35–45°C, compared to 60–80°C for radiators. A property with wet UFH throughout, fed by a heat pump, can achieve Coefficient of Performance (CoP) figures significantly higher than the same heat pump running radiators.
+Wet UFH is an excellent match for air source and ground source heat pumps. Heat pumps operate most efficiently at low flow temperatures, and UFH requires exactly that — typically 35–45°C, compared to 60–80°C for radiators. The [Worcester Greenstar 4000](/plumbing-heating/worcester-greenstar-4000/) is a compatible condensing boiler that also benefits from UFH's lower flow temperatures. A property with wet UFH throughout, fed by a heat pump, can achieve Coefficient of Performance (CoP) figures significantly higher than the same heat pump running radiators.
 
 When specifying UFH for a heat pump installation, ensure the system is designed for low-temperature operation throughout, including the manifold, mixing valves, and zone controls.
 
 ## Thermostats and Zone Control
 
-Each room or zone should have its own thermostat. Smart thermostats with scheduling and app control significantly improve running cost efficiency for both wet and electric systems. For wet systems with multiple zones, a wiring centre and zone valves (or a manifold-mounted actuator system) are required.
+Each room or zone should have its own thermostat. Smart thermostats with scheduling and app control significantly improve running cost efficiency for both wet and electric systems. The [Drayton Wiser multi-zone smart thermostat kit](/plumbing-heating/drayton-wiser-multi-zone-smart-thermostat-kit/) is a well-regarded option for multi-zone wet UFH, offering individual room control via app. The [Hive Active Heating thermostat](/plumbing-heating/hive-active-heating-thermostat/) suits simpler single-zone installations. For wet systems with multiple zones, a wiring centre and zone valves (or a manifold-mounted actuator system) are required.
 
 For simple single-room electric systems, a dedicated UFH thermostat with a floor sensor is standard — it controls both the floor surface temperature and room air temperature.
 

@@ -4,7 +4,7 @@ category: "Site Equipment & PPE"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Set Up Site Safety Compliance — Buying Guide"
-metaDescription: "A practical guide to setting up site safety compliance for small construction projects. Covers mandatory PPE, first aid, access equipment, signage, and legal requirements."
+metaDescription: "HSE site safety requirements for small contractors — mandatory PPE, first aid, access equipment, signage and legal obligations explained."
 draft: false
 faq:
   - question: "What PPE is mandatory on a UK construction site?"

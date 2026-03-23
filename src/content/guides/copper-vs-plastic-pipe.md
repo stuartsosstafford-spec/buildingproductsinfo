@@ -4,7 +4,7 @@ category: "Plumbing & Heating"
 author: "Editorial Team"
 publishDate: 2026-03-09
 metaTitle: "Copper vs Push-Fit vs Plastic Pipe — Which to Use? | Buying Guide"
-metaDescription: "A practical guide to choosing between copper, push-fit, and plastic pipe for plumbing and heating. Covers applications, temperature limits, and when to use each."
+metaDescription: "Copper, push-fit and plastic pipe compared for UK plumbing and heating. Temperature limits, applications and costs — which to use and when."
 draft: false
 faq:
   - question: "Can I mix copper and plastic pipe?"

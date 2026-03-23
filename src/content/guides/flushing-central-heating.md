@@ -4,7 +4,7 @@ category: "Plumbing & Heating"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Flush and Protect a Central Heating System — Buying Guide"
-metaDescription: "A practical guide to flushing and protecting a central heating system. Covers system cleaners, inhibitors, magnetic filters, power flushing, and ongoing maintenance."
+metaDescription: "Powerflush vs chemical flush, magnetic filters and inhibitors — how to clean and protect a central heating system properly and keep it efficient."
 draft: false
 faq:
   - question: "How do I know if my central heating system needs flushing?"

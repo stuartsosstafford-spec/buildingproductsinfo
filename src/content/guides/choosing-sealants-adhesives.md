@@ -4,7 +4,7 @@ category: "Fixings & Adhesives"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Sealants and Adhesives — Buying Guide"
-metaDescription: "A practical guide to choosing sealants and adhesives for construction. Covers silicone, hybrid MS polymer, grab adhesives, PVA, and when to use each type."
+metaDescription: "Silicone, hybrid MS polymer, grab adhesives and PVA — when to use each type and which products perform reliably in UK construction conditions."
 draft: false
 faq:
   - question: "Can I paint over silicone sealant?"

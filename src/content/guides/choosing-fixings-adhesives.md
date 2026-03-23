@@ -4,7 +4,7 @@ category: "Fixings & Adhesives"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose the Right Fixings and Adhesives — Buying Guide"
-metaDescription: "A practical guide to choosing fixings and adhesives for construction and DIY. Covers wall plugs, screws, chemical anchors, sealants, adhesives, and masking tapes."
+metaDescription: "Wall plugs, screws, chemical anchors, sealants and adhesives — how to choose the right fixing for each substrate and avoid callbacks."
 draft: false
 faq:
   - question: "What wall plug should I use for plasterboard?"

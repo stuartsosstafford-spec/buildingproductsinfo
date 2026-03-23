@@ -4,7 +4,7 @@ category: "Electrical & Lighting"
 author: "Editorial Team"
 publishDate: 2026-02-13
 metaTitle: "How to Choose Fire-Rated Downlights — Buying Guide"
-metaDescription: "A practical guide to choosing fire-rated downlights. Covers fire ratings, IP ratings, colour temperature, dimming, GU10 vs integrated LED, and Building Regulations requirements."
+metaDescription: "Fire ratings, IP zones, colour temperature, dimming and IC ratings — what UK electricians need to specify downlights correctly under Building Regs."
 draft: false
 faq:
   - question: "Do I need fire-rated downlights in every room?"
