@@ -50,6 +50,7 @@ export function productSchema(input: ProductSchemaInput) {
       '@type': 'Offer',
       url: input.affiliateUrl ?? input.url,
       priceCurrency: 'GBP',
+      ...(input.price ? { price: input.price.replace(/[^0-9.]/g, '') } : {}),
       availability: 'https://schema.org/InStock',
     },
   };
