@@ -19,6 +19,8 @@ relatedProducts:
   - rothenberger-rofrost-rapid-pipe-freezing-kit
   - speedfit-15mm-push-fit-elbow
   - knipex-cobra-250mm-water-pump-pliers
+  - arctic-hayes-u-flex-manometer
+  - wera-joker-ratcheting-spanner-set
 ---
 
 Whether you are just starting out or refreshing an ageing toolkit, having the right tools makes the difference between a clean, professional job and one that costs you time and reputation. Plumbing spans a wide range of tasks — from first-fix pipework in a new build to isolating and repairing a live system in an occupied home — and your toolkit needs to reflect that range. This guide works through the key categories, with recommendations for each.

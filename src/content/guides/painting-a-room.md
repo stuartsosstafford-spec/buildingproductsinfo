@@ -20,6 +20,9 @@ relatedProducts:
   - frogtape-multi-surface-painters-tape
   - mangers-sugar-soap-powder
   - crown-trade-clean-extreme-matt
+  - leyland-trade-contract-matt-10l
+  - polycell-stain-stop-aerosol
+  - tesa-professional-masking-tape-50mm
 ---
 
 ## Painting a Room to a Professional Standard

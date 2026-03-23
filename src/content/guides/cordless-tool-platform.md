@@ -21,6 +21,13 @@ relatedProducts:
   - makita-bl1850b-18v-battery
   - bosch-gws-18v-10-angle-grinder
   - dewalt-dcs391n-circular-saw
+  - dewalt-dcn692-framing-nailer
+  - dewalt-dcp580n-cordless-planer
+  - dewalt-dcs356n-oscillating-multi-tool
+  - makita-djv182z-brushless-jigsaw
+  - milwaukee-m18-ftr-trim-router
+  - bosch-gkt-18v-52-gc-plunge-saw
+  - trend-t7-variable-speed-router
 ---
 
 ## Why the Battery Platform Matters More Than Any Single Tool

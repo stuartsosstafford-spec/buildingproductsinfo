@@ -22,6 +22,10 @@ relatedProducts:
   - tyvek-supro-breather-membrane
   - knauf-fill-and-finish-jointing-compound
   - osb3-sterling-board-2440x1220
+  - soudal-gun-grade-expanding-foam
+  - gorilla-wood-glue
+  - everbuild-402-water-seal-5l
+  - sandtex-ultra-smooth-masonry-paint
 ---
 
 ## Choosing the Right Building Materials

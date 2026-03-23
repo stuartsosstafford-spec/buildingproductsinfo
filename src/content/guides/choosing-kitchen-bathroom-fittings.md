@@ -20,6 +20,13 @@ relatedProducts:
   - franke-reno-stainless-steel-kitchen-sink
   - elegant-quadrant-shower-enclosure-900mm
   - hudson-reed-revive-designer-radiator
+  - hansgrohe-ecostat-thermostatic-shower-mixer
+  - mira-sport-electric-shower-9.8kw
+  - nuie-vault-vanity-unit-basin
+  - vitra-s20-cloakroom-basin
+  - sa-products-soft-close-toilet-seat
+  - bristan-artisan-easyfit-kitchen-tap
+  - blanco-subline-500u-silgranit-sink
 ---
 
 Kitchen and bathroom fittings are among the most-used items in any home, and the wrong choice leads to years of frustration, leaks, or premature replacement. This guide works through the main product categories in turn, covering what matters at the specification stage and where the meaningful differences between products actually lie.

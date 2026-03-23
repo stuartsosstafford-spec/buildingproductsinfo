@@ -20,6 +20,16 @@ relatedProducts:
   - marshalls-argent-paving
   - keter-oakland-757-storage-shed
   - bosch-ahs-55-20-hedge-trimmer
+  - flymo-easiglide-360-hover-mower
+  - husqvarna-automower-aspire-r4
+  - cuprinol-anti-slip-decking-stain
+  - hozelock-auto-reel-retractable-hose
+  - bosch-isio-cordless-shrub-shears
+  - stihl-hsa-26-cordless-shrub-shears
+  - wolf-garten-multi-change-handle
+  - gardena-combisystem-adjustable-rake
+  - draper-stainless-steel-border-fork
+  - ronseal-fence-life-plus-5l
 ---
 
 Whether you are maintaining a modest back garden or tackling a full landscaping project, choosing the right tools and materials from the outset saves time, money, and frustration. This guide runs through the key product categories — from lawn care and hedge cutting to paving, decking, raised beds, and storage — with practical advice on what to look for at each stage.

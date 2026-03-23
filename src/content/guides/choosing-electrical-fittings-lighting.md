@@ -22,6 +22,8 @@ relatedProducts:
   - fluke-t110-voltage-continuity-tester
   - chint-rcbo-type-a-b16
   - philips-hue-starter-kit-e27
+  - bg-nexus-metal-double-socket-brushed-steel
+  - timeguard-fst24-fused-spur-timer
 ---
 
 ## Consumer Units and Circuit Protection

@@ -19,6 +19,10 @@ relatedProducts:
   - grohe-grohtherm-1000-thermostatic-shower-mixer
   - ideal-standard-concept-air-basin-mixer
   - unibond-anti-mould-silicone-sealant
+  - salamander-ct50-xtra-shower-pump
+  - croydex-flexi-fix-towel-rail-chrome
+  - envirovent-sil100t-silent-extractor-fan
+  - milano-chrome-heated-towel-rail
 ---
 
 Fitting a bathroom from scratch — or fully refitting an existing one — is one of the most involved trades jobs in domestic work. It crosses plumbing, carpentry, tiling, electrical, and finishing, and the sequencing of each stage matters as much as the product selection. Done in the right order with the right materials, the result is a room that performs reliably and holds up for fifteen or twenty years. Done without a clear plan, it is one of the most expensive rooms in the house to put right.

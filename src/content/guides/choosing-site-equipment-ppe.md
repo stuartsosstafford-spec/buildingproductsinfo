@@ -20,6 +20,13 @@ relatedProducts:
   - werner-fibreglass-step-ladder
   - 3m-peltor-x4a-ear-defenders
   - bosch-gll-2-15-g-laser-level
+  - ox-pro-chalk-line-reel
+  - ox-speedskim-plastering-rule-1200mm
+  - stanley-fatmax-tape-measure
+  - stanley-fatmax-technician-tool-bag
+  - makita-dmr115-site-radio
+  - brennenstuhl-cable-reel-25m
+  - bahco-ergo-handsaw-22-inch
 ---
 
 ## Why Site Equipment and PPE Matter

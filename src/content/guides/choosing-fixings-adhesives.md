@@ -20,6 +20,9 @@ relatedProducts:
   - ct1-sealant-adhesive
   - sika-stixall-extreme-power-adhesive
   - timco-solo-woodscrew-mixed-tray
+  - thunderbolt-masonry-concrete-anchor
+  - timco-shield-anchor-projecting-bolt
+  - gorilla-wood-glue
 ---
 
 Choosing the wrong fixing or adhesive is one of the most common — and most avoidable — causes of failure on building sites and in domestic projects alike. A bracket pulled from a plasterboard wall, a sealant joint that fails after a single winter, or a woodscrew that strips on first drive: these problems almost always come down to using the wrong product for the substrate or the load. This guide covers the main categories of fixings and adhesives used in UK construction and DIY, and how to select the right one for the job.
